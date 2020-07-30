@@ -1,5 +1,4 @@
 import c from 'chalk';
-import API_VERSION from './index';
 
 const $ = 'ACNH API:'
 const now = () => `[${new Date().toLocaleTimeString()}]`;

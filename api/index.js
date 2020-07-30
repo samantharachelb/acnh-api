@@ -1,27 +1,16 @@
 'use strict';
 import limit from 'express-rate-limit';
 const app = require('express')();
+const slash = require('express-trailing-slash');
 const routes = require('./routes');
 
 import log from './log';
 
 
 const API_VERSION = 'v1'
-const VALID_ENDPOINTS = [
-    'art',
-    'bugs',
-    'fish',
-    'fossils',
-    'hourly',
-    'houseware',
-    'misc',
-    'music',
-    'sea-creatures',
-    'villagers',
-    'wall-mounted'
-];
 
 app.set('trust proxy', '127.0.0.1');
+app.enable('strict routing', true);
 
 app.use((req, res, next) => {
     res.header('Access-Control-Allow-Origin', '*');
@@ -39,6 +28,7 @@ app.use(
 );
 
 app.use('/', routes);
+app.use(slash());
 
 app.listen(3000, () => {
     log.info('API available at http://localhost:3000');

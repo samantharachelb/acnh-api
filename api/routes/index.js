@@ -1,8 +1,9 @@
 import log from '../log';
-const artRouter = require('./art');
-const routes = require('express').Router();
+let artRouter = require('./art');
+let routes = require('express').Router({
+    strict: true
+});
 
-const API_VERSION = 'v1';
 const VALID_ENDPOINTS = [
     'art',
     'bugs',
@@ -17,6 +18,8 @@ const VALID_ENDPOINTS = [
     'wall_mounted'
 ];
 
+const API_VERSION = 'v1';
+
 routes.get('/', (req, res) => {
     res.status(200).json({
         message: 'Connected'
@@ -24,33 +27,27 @@ routes.get('/', (req, res) => {
     log.info(`[Client: ${req.ip}] - ${req.method}:${req.url} ${res.statusCode}`);
 });
 
-routes.get('/:apiVersion', (req, res, next) => {
+routes.get(['/:apiVersion/:endpoint/**'], (req, res, next) => {
     let apiVersion = req.params.apiVersion;
-    log.debug(`var: apiVersion | value: ${apiVersion}`);
-    log.debug(`var: API_VERSION | value: ${API_VERSION}`);
+    let endpoint = req.params.endpoint;
+
     if (apiVersion !== API_VERSION) {
-        res.status(404).json({
-            message: `Invalid API Version '${apiVersion}'.`
-        })
-        log.info(`[Client: ${req.ip}] - ${req.method}:${req.url} ${res.statusCode}`);
-    }
-
-    if (!req.params.endpoint) {
-        res.status(400).json({
-            message: 'Missing endpoint from request.'
+        return res.status(404).json({
+            message: `Invalid API version ${apiVersion}`
         });
-        log.info(`[Client: ${req.ip}] - ${req.method}:${req.url} ${res.statusCode}`);
     }
 
-    if (VALID_ENDPOINTS.includes(req.params.endpoint) === false) {
-        res.status(400).json({
-            message: `Invalid API endpoint ${req.param.endpoint}`
+    if (!endpoint) {
+        return res.status(400).json({
+            message: 'Missing API endpoint from request.'
         });
-        log.info(`[Client: ${req.ip}] - ${req.method}:${req.url} ${res.statusCode}`);
+    } else if (!VALID_ENDPOINTS.includes(endpoint)) {
+        return res.status(404).json({
+            message: `${endpoint} is not a valid endpoint.`
+        });
     }
-
     next();
-});
+})
 
 routes.use('/:apiVersion/art', (req, res, next) => {
     req.apiVersion = req.params.apiVersion;
