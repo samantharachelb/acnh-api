@@ -1,12 +1,10 @@
 'use strict';
-
-import express from 'express';
 import limit from 'express-rate-limit';
+const app = require('express')();
 const routes = require('./routes');
 
 import log from './log';
 
-let app = express();
 
 const API_VERSION = 'v1'
 const VALID_ENDPOINTS = [
@@ -23,14 +21,14 @@ const VALID_ENDPOINTS = [
     'wall-mounted'
 ];
 
+app.set('trust proxy', '127.0.0.1');
+
 app.use((req, res, next) => {
     res.header('Access-Control-Allow-Origin', '*');
     res.header('Access-Control-Allow-Origin', 'Origin, X-Requested-With, Content-Type, Authorization, Accept');
     res.header('Access-Control-Allow-Methods', 'GET');
     next();
 });
-
-app.set('trust proxy', '127.0.0.1');
 
 app.use(
     limit({
@@ -39,28 +37,6 @@ app.use(
         max: 100 // no more than 100 requests in 5 minutes
     })
 );
-
-
-// routes
-
-// app.get(`/${API_VERSION}/*`, (req, res) => {
-//     const endpoint = decodeURI(req.originalUrl.substr(`/${API_VERSION}/`.length)).trim();
-//     console.log(VALID_ENDPOINTS.includes(endpoint))
-//     if (VALID_ENDPOINTS.includes(endpoint) === false) {
-//         res.statusCode = 400;
-//         log.error(`[Client: ${req.ip}] - ${req.method}:${req.url} ${res.statusCode}`);
-//         return res.json({
-//             status: res.statusCode,
-//             message: `Invalid Endpoint '${endpoint}'`
-//         });
-//     } else {
-//         res.statusCode = 200;
-//         log.success(`[Client: ${req.ip}] - ${req.method}:${req.url} ${res.statusCode}`);
-//         return res.json({
-//
-//         })
-//     }
-// });
 
 app.use('/', routes);
 
