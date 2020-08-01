@@ -14,24 +14,24 @@ art.get('/', (req, res) => {
 });
 
 art.get('/:artId', (req, res) => {
-    let artId = req.params.artId
-    if (Number.isInteger(artId*1)) {
-        let artIdNum = artId * 1
-        let query = jsonQuery(`[**][*id=${artIdNum}`, { data: jsonData}).value;
-        log.info(query);
-        if (Object.keys(query).length === 0) {
-            res.status(404).json({message: `Could not find Art with ID ${artId}`});
+    var artId = req.params.artId;
+    if (Number.isInteger((artId * 1))) {
+        artId = artId * 1;
+        let result = jsonQuery(`[**][*id=${artId}`, {data: jsonData}).value;
+        if (Object.keys(result).length === 0) {
+            res.status(404).json({
+                message: `Could not find any art with the ID ${artId}`
+            });
         } else {
-            res.status(200).json(query);
+            artId = result[0]["file-name"];
         }
+    }
+
+    let query = jsonQuery(`${artId}`, { data: jsonData}).value;
+    if (query === undefined || query === null) {
+        res.status(404).json({message: `Could not find any art with the ID ${artId}`});
     } else {
-        let query = jsonQuery(`${artId}`, { data: jsonData}).value;
-        log.debug(query);
-        if (query === undefined || query === null) {
-            res.status(404).json({message: `Could not find Art with ID ${artId}`});
-        } else {
-            res.status(200).json(query);
-        }
+        res.status(200).json(query);
     }
 });
 
