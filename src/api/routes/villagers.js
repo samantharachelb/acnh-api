@@ -4,13 +4,11 @@ let villagers = require('express').Router();
 let fs = require('fs');
 let jsonQuery = require('json-query');
 
-let dataFile = fs.readFileSync(__dirname + '/../../data/villagers.json');
+let dataFile = fs.readFileSync('src/api/data/villagers.json');
 let jsonData = JSON.parse(dataFile);
 
 villagers.get('/', (req, res) => {
     res.status(200).json(jsonData);
-    log.info(`[Client: ${req.ip}] - ${req.method}:${req.url} ${res.statusCode}`);
-
 });
 
 villagers.get('/:villagersId', (req, res) => {

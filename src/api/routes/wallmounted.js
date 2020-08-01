@@ -4,13 +4,11 @@ let wallmounted = require('express').Router();
 let fs = require('fs');
 let jsonQuery = require('json-query');
 
-let dataFile = fs.readFileSync(__dirname + '/../../data/wallmounted.json');
+let dataFile = fs.readFileSync('src/api/data/wallmounted.json');
 let jsonData = JSON.parse(dataFile);
 
 wallmounted.get('/', (req, res) => {
     res.status(200).json(jsonData);
-    log.info(`[Client: ${req.ip}] - ${req.method}:${req.url} ${res.statusCode}`);
-
 });
 
 wallmounted.get('/:wallmountedId', (req, res) => {

@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: nginx-sidecar
+  name: nginx
   labels:
     app: acnhapi
     tier: frontend
@@ -16,20 +16,21 @@ spec:
       name: https
   selector:
     app: acnhapi
+    tier: frontend
 ---
 apiVersion: v1
 kind: ReplicationController
 metadata:
   name: nginx
 spec:
-  replicas: 1
   selector:
-    tier: backend
+    app: acnhapi
+    tier: frontend
   template:
     metadata:
       labels:
         app: acnhapi
-        tier: backend
+        tier: frontend
     spec:
       volumes:
         - name: certificates
@@ -40,7 +41,7 @@ spec:
             name: nginxconfigmap
       containers:
         - name: acnhapi-nginxsidecar
-          image: nginx:1.19
+          image: "samanthaemilyrachelb/acnhapi-nginx:latest"
           command: ["/home/reload-nginx.sh"]
           ports:
             - containerPort: 80

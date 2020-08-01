@@ -4,13 +4,11 @@ let fish = require('express').Router();
 let fs = require('fs');
 let jsonQuery = require('json-query');
 
-let dataFile = fs.readFileSync(__dirname + '/../../data/fish.json');
+let dataFile = fs.readFileSync('src/api/data/fish.json');
 let jsonData = JSON.parse(dataFile);
 
 fish.get('/', (req, res) => {
     res.status(200).json(jsonData);
-    log.info(`[Client: ${req.ip}] - ${req.method}:${req.url} ${res.statusCode}`);
-
 });
 
 fish.get('/:fishId', (req, res) => {

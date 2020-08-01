@@ -1,16 +1,14 @@
-import log from "../log";
+import log from "api/log";
 
 let art = require('express').Router();
 let fs = require('fs');
 let jsonQuery = require('json-query');
 
-let dataFile = fs.readFileSync(__dirname + '/../../data/art.json');
+let dataFile = fs.readFileSync("src/api/data/art.json");
 let jsonData = JSON.parse(dataFile);
 
 art.get('/', (req, res) => {
     res.status(200).json(jsonData);
-    log.info(`[Client: ${req.ip}] - ${req.method}:${req.url} ${res.statusCode}`);
-
 });
 
 art.get('/:artId', (req, res) => {

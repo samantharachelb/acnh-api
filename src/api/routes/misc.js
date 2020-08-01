@@ -4,13 +4,11 @@ let misc = require('express').Router();
 let fs = require('fs');
 let jsonQuery = require('json-query');
 
-let dataFile = fs.readFileSync(__dirname + '/../../data/misc.json');
+let dataFile = fs.readFileSync('src/api/data/misc.json');
 let jsonData = JSON.parse(dataFile);
 
 misc.get('/', (req, res) => {
     res.status(200).json(jsonData);
-    log.info(`[Client: ${req.ip}] - ${req.method}:${req.url} ${res.statusCode}`);
-
 });
 
 misc.get('/:miscId', (req, res) => {

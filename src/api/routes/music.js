@@ -4,13 +4,11 @@ let music = require('express').Router();
 let fs = require('fs');
 let jsonQuery = require('json-query');
 
-let dataFile = fs.readFileSync(__dirname + '/../../data/music.json');
+let dataFile = fs.readFileSync('src/api/data/music.json');
 let jsonData = JSON.parse(dataFile);
 
 music.get('/', (req, res) => {
     res.status(200).json(jsonData);
-    log.info(`[Client: ${req.ip}] - ${req.method}:${req.url} ${res.statusCode}`);
-
 });
 
 music.get('/:musicId', (req, res) => {

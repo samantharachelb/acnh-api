@@ -15,7 +15,6 @@ kind: Deployment
 metadata:
   name: acnhapi
 spec:
-  replicas: 1
   selector:
     matchLabels:
       app: acnhapi

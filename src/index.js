@@ -1,11 +1,17 @@
 'use strict';
 import limit from 'express-rate-limit';
-const app = require('express')();
-const slash = require('express-trailing-slash');
-const routes = require('./routes');
+import log from 'api/log';
 
-import log from './log';
+let app = require('express')();
+let slash = require('express-trailing-slash');
+let StatsD = require('hot-shots');
+let routes = require('api/routes');
 
+let dogstatsd = new StatsD({
+    errorHandler: function (error) {
+        log.error(`Socket errors caught here: ${error}`);
+    }
+});
 
 const API_VERSION = 'v1'
 
@@ -16,6 +22,8 @@ app.use((req, res, next) => {
     res.header('Access-Control-Allow-Origin', '*');
     res.header('Access-Control-Allow-Origin', 'Origin, X-Requested-With, Content-Type, Authorization, Accept');
     res.header('Access-Control-Allow-Methods', 'GET');
+    log.info(`[Client: ${req.ip}] - ${req.method}:${req.url} ${res.statusCode}`);
+    dogstatsd.increment('page.views');
     next();
 });
 

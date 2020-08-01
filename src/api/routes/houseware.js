@@ -4,13 +4,11 @@ let houseware = require('express').Router();
 let fs = require('fs');
 let jsonQuery = require('json-query');
 
-let dataFile = fs.readFileSync(__dirname + '/../../data/houseware.json');
+let dataFile = fs.readFileSync('src/api/data/houseware.json');
 let jsonData = JSON.parse(dataFile);
 
 houseware.get('/', (req, res) => {
     res.status(200).json(jsonData);
-    log.info(`[Client: ${req.ip}] - ${req.method}:${req.url} ${res.statusCode}`);
-
 });
 
 houseware.get('/:housewareId', (req, res) => {

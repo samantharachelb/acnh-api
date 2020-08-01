@@ -4,13 +4,11 @@ let hourly = require('express').Router();
 let fs = require('fs');
 let jsonQuery = require('json-query');
 
-let dataFile = fs.readFileSync(__dirname + '/../../data/hourly.json');
+let dataFile = fs.readFileSync('src/api/data/hourly.json');
 let jsonData = JSON.parse(dataFile);
 
 hourly.get('/', (req, res) => {
     res.status(200).json(jsonData);
-    log.info(`[Client: ${req.ip}] - ${req.method}:${req.url} ${res.statusCode}`);
-
 });
 
 hourly.get('/:hourlyId', (req, res) => {

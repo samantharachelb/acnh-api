@@ -4,13 +4,11 @@ let seaCreatures = require('express').Router();
 let fs = require('fs');
 let jsonQuery = require('json-query');
 
-let dataFile = fs.readFileSync(__dirname + '/../../data/sea.json');
+let dataFile = fs.readFileSync('src/api/data/sea.json');
 let jsonData = JSON.parse(dataFile);
 
 seaCreatures.get('/', (req, res) => {
     res.status(200).json(jsonData);
-    log.info(`[Client: ${req.ip}] - ${req.method}:${req.url} ${res.statusCode}`);
-
 });
 
 seaCreatures.get('/:seaCreaturesId', (req, res) => {

@@ -7,7 +7,7 @@ let bugs = require('express').Router();
 let fs = require('fs');
 let jsonQuery = require('json-query');
 
-let dataFile = fs.readFileSync(__dirname + '/../../data/bugs.json');
+let dataFile = fs.readFileSync('src/api/data/bugs.json');
 let jsonData = JSON.parse(dataFile);
 
 bugs.get('/', (req, res) => {
