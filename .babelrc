@@ -3,10 +3,12 @@
   "plugins": [
     ["@babel/transform-runtime"],
     ["module-resolver", {
+      "extensions": [".ts"],
       "root": ["./src"],
       "alias": {
-        "api": "./src/api",
-        "apiData": "./src/api/data"
+        "api": "./dist/api",
+        "utils": "./dist/utils",
+        "test": "./test"
       }
     }]
   ]

@@ -1,7 +1,6 @@
-//return an array of objects according to key, value, or key and value matching
-module.exports = function getObjects(obj, key, val) {
-    var objects = [];
-    for (var i in obj) {
+function getObjects(obj: any, key: any, val: any) {
+    let objects: any[] = [];
+    for (let i in obj) {
         if (!obj.hasOwnProperty(i)) continue;
         if (typeof obj[i] == 'object') {
             objects = objects.concat(getObjects(obj[i], key, val));
@@ -17,12 +16,11 @@ module.exports = function getObjects(obj, key, val) {
         }
     }
     return objects;
-};
+}
 
-//return an array of values that match on a certain key
-module.exports = function getValues(obj, key) {
-    var objects = [];
-    for (var i in obj) {
+function getValues(obj: any, key: any) {
+    let objects: any[] = [];
+    for (let i in obj) {
         if (!obj.hasOwnProperty(i)) continue;
         if (typeof obj[i] == 'object') {
             objects = objects.concat(getValues(obj[i], key));
@@ -31,12 +29,11 @@ module.exports = function getValues(obj, key) {
         }
     }
     return objects;
-};
+}
 
-//return an array of keys that match on a certain value
-module.exports = function getKeys(obj, val) {
-    var objects = [];
-    for (var i in obj) {
+function getKeys(obj: any, val: any) {
+    let objects: any[] = [];
+    for (let i in obj) {
         if (!obj.hasOwnProperty(i)) continue;
         if (typeof obj[i] == 'object') {
             objects = objects.concat(getKeys(obj[i], val));
@@ -45,4 +42,6 @@ module.exports = function getKeys(obj, val) {
         }
     }
     return objects;
-};
+}
+
+export {getObjects, getValues, getKeys};
