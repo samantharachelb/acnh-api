@@ -16,7 +16,7 @@ const API_VERSION = 'v2';
 const API_RESOURCE_ENDPOINTS = [
     'art',
     'art/paintings',
-    'art/sculptures',
+    'art/statue',
     'critters',
     'critters/bugs',
     'critters/fish',
@@ -45,7 +45,7 @@ router.get('/:version/', function(req: any, res: express.Response, next: any) {
     res.status(404).json({message: "missing resource from request"});
 });
 
-router.get(`/${API_VERSION}/:resource`, function(req: any, res: express.Response, next: any) {
+router.get(`/${API_VERSION}/:resource/`, function(req: any, res: express.Response, next: any) {
     req.version = req.params.version
     let resourceParam = req.params.resource;
 
@@ -57,7 +57,7 @@ router.get(`/${API_VERSION}/:resource`, function(req: any, res: express.Response
     next();
 });
 
-router.use('/:version/art', (req: any, res: express.Response, next: any) => {
+router.use(`/${API_VERSION}/art`, (req: any, res: express.Response, next: any) => {
    req.version = req.params.version;
    next();
 }, artRoutes);
