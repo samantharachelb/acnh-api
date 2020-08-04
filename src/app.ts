@@ -1,29 +1,21 @@
 import express from 'express';
 import limit from 'express-rate-limit';
-import log from './utils/log';
-
-let router = require('./router');
+import log from '@utils/log';
+import routes from '@src/routes';
 let slash = require('express-trailing-slash');
-let StatsD = require('hot-shots')
 
+let StatsD = require('hot-shots');
+
+const debug = false;
 let app = express();
+
 let dogstatsd = new StatsD({
-    errorHandler: function(error: any) {
+    errorHandler: function(error: Error) {
         log.error(`Socket errors caught here: ${error}`);
     }
 });
-
+app.use(slash());
 app.set('trust proxy', '127.0.0.1');
-app.enable('strict routing');
-
-app.use((req, res, next) => {
-    res.header('Access-Control-Allow-Origin', '*');
-    res.header('Access-Control-Allow-Origin', 'Origin, X-Requested-With, Content-Type, Authorization, Accept');
-    res.header('Access-Control-Allow-Methods', 'GET');
-    log.info(`[Client: ${req.ip}] - ${req.method}:${req.url} ${res.statusCode}`);
-    dogstatsd.increment('page.views');
-    next();
-})
 
 app.use(
     limit({
@@ -33,7 +25,16 @@ app.use(
     })
 );
 
-app.use('/', router);
-app.use(slash());
+app.use((req: any, res: express.Response, next: any) => {
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Origin', 'Origin, X-Requested-With, Content-Type, Authorization, Accept');
+    res.header('Access-Control-Allow-Methods', 'GET');
+    log.info(`[Client: ${req.ip}] - ${req.method}:${req.url} ${res.statusCode}`);
+    dogstatsd.increment('page.views');
+    next();
+})
+
+app.use('/', routes);
+app.enable('strict routing');
 
 export{app};

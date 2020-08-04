@@ -1,14 +1,17 @@
 {
-  "presets": ["@babel/preset-env"],
+  "presets": ["@babel/preset-env","@babel/preset-typescript"],
   "plugins": [
-    ["@babel/transform-runtime"],
+    ["@babel/plugin-transform-runtime"],
     ["module-resolver", {
       "extensions": [".ts"],
       "root": ["./src"],
       "alias": {
-        "api": "./dist/api",
-        "utils": "./dist/utils",
-        "test": "./test"
+        "@src": "./src",
+        "@api": "./src/api",
+        "@apiEndpoints": "./src/api/routes/resources",
+        "@apiData": "./src/api/data",
+        "@utils": "./src/utils",
+        "@test": "./test"
       }
     }]
   ]

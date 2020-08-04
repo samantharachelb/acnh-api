@@ -3,7 +3,7 @@ let chaiHttp = require('chai-http');
 let expect = chai.expect;
 let should = chai.should;
 
-let server = require('../src');
+let server = require('../src-old');
 
 
 chai.use(chaiHttp);

@@ -1,23 +1,32 @@
 {
   "compilerOptions": {
+    "target": "es6",
+    "moduleResolution": "node",
+    "allowJs": false,
+    "noEmit": true,
+    "strict": true,
+    "esModuleInterop": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "resolveJsonModule": true,
     "module": "commonjs",
-    "esModuleInterop": true,
-    "target": "es6",
     "noImplicitAny": true,
-    "moduleResolution": "node",
     "sourceMap": true,
     "outDir": "dist",
     "baseUrl": ".",
+    "rootDir": "src",
     "paths": {
-      //"*": ["node_modules/*"],
-      "*": ["src/*"],
-      "api": ["src/api/*"],
-      "utils": ["src/utils/*"],
+      "*": ["node_modules/*"],
+      "@src/*": ["src/*"],
+      "@api/*": ["src/api/*"],
+      "@apiEndpoints/*": ["src/api/routes/resources/*"],
+      "@apiData": ["src/api/data/*"],
+      "@utils/*": ["src/utils/*"],
       "test": ["test/*"]
-    }
+    },
+    "typeRoots": [
+      "src/*", "node_modules/@types"
+    ]
   },
   "include": [
     "src/**/*"
