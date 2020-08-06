@@ -1,0 +1,6084 @@
+[
+  {
+    "name": "aerobics leggings",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAerobics0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexAerobics0.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 621,
+    "variants": [
+      {
+        "variation": "Red & pink",
+        "filename": "SocksTexAerobics0",
+        "colors": [
+          "Pink",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      },
+      {
+        "variation": "Light blue & salmon pink",
+        "filename": "SocksTexAerobics3",
+        "colors": [
+          "Pink",
+          "Light blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      },
+      {
+        "variation": "Purple & orange",
+        "filename": "SocksTexAerobics2",
+        "colors": [
+          "Orange",
+          "Purple"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      },
+      {
+        "variation": "Emerald & lime",
+        "filename": "SocksTexAerobics1",
+        "colors": [
+          "Green",
+          "Light blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      },
+      {
+        "variation": "Yellow & blue",
+        "filename": "SocksTexAerobics4",
+        "colors": [
+          "Blue",
+          "Yellow"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      }
+    ],
+    "id": 1
+  },
+  {
+    "name": "Aran-knit socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAlan1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexAlan1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "Winter",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 536,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexAlan1",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexAlan5",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "SocksTexAlan2",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexAlan3",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexAlan4",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "SocksTexAlan0",
+        "colors": [
+          "Beige",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      }
+    ],
+    "id": 2
+  },
+  {
+    "name": "argyle crew socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexArgyle5.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexArgyle5.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 880,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexArgyle5",
+        "colors": [
+          "White",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Gray",
+        "filename": "SocksTexArgyle4",
+        "colors": [
+          "Gray",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "SocksTexArgyle1",
+        "colors": [
+          "Red",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexArgyle7",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "SocksTexArgyle6",
+        "colors": [
+          "Orange",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexArgyle2",
+        "colors": [
+          "Green",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexArgyle0",
+        "colors": [
+          "Blue",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "SocksTexArgyle3",
+        "colors": [
+          "Beige",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      }
+    ],
+    "id": 3
+  },
+  {
+    "name": "back-bow socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexRibbon3.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexRibbon3.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "Spring",
+    "mannequin_piece": false,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 519,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexRibbon3",
+        "colors": [
+          "White",
+          "Pink"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexRibbon2",
+        "colors": [
+          "Black",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexRibbon0",
+        "colors": [
+          "Pink",
+          "Black"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SocksTexRibbon1",
+        "colors": [
+          "Yellow",
+          "Green"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Peacock blue",
+        "filename": "SocksTexRibbon5",
+        "colors": [
+          "Green",
+          "Pink"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexRibbon4",
+        "colors": [
+          "Light blue",
+          "Yellow"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      }
+    ],
+    "id": 4
+  },
+  {
+    "name": "bobby socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFolded0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexFolded0.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 604,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexFolded0",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Gray",
+        "filename": "SocksTexFolded1",
+        "colors": [
+          "Gray",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexFolded2",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "SocksTexFolded3",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      }
+    ],
+    "id": 5
+  },
+  {
+    "name": "color-blocked socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMultiblock5.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexMultiblock5.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 612,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexMultiblock5",
+        "colors": [
+          "White",
+          "Colorful"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexMultiblock7",
+        "colors": [
+          "Pink",
+          "Colorful"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Lime",
+        "filename": "SocksTexMultiblock6",
+        "colors": [
+          "Green",
+          "Colorful"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexMultiblock1",
+        "colors": [
+          "Green",
+          "Colorful"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexMultiblock3",
+        "colors": [
+          "Blue",
+          "Colorful"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexMultiblock0",
+        "colors": [
+          "Purple",
+          "Colorful"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "SocksTexMultiblock2",
+        "colors": [
+          "Brown",
+          "Colorful"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "SocksTexMultiblock4",
+        "colors": [
+          "Beige",
+          "Colorful"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      }
+    ],
+    "id": 6
+  },
+  {
+    "name": "compression tights",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCompression4.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexCompression4.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 603,
+    "variants": [
+      {
+        "variation": "Red",
+        "filename": "SocksTexCompression4",
+        "colors": [
+          "Black",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexCompression2",
+        "colors": [
+          "Black",
+          "Pink"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SocksTexCompression1",
+        "colors": [
+          "Black",
+          "Yellow"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Mint",
+        "filename": "SocksTexCompression3",
+        "colors": [
+          "Black",
+          "Green"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexCompression0",
+        "colors": [
+          "Black",
+          "Blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      }
+    ],
+    "id": 7
+  },
+  {
+    "name": "country socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCountry3.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexCountry3.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 926,
+    "variants": [
+      {
+        "variation": "Black ribbons",
+        "filename": "SocksTexCountry3",
+        "colors": [
+          "White",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Red ribbons",
+        "filename": "SocksTexCountry0",
+        "colors": [
+          "White",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Green ribbons",
+        "filename": "SocksTexCountry1",
+        "colors": [
+          "White",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Blue ribbons",
+        "filename": "SocksTexCountry2",
+        "colors": [
+          "White",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      }
+    ],
+    "id": 8
+  },
+  {
+    "name": "crocheted socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCrocheting1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexCrocheting1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 626,
+    "variants": [
+      {
+        "variation": "Gray",
+        "filename": "SocksTexCrocheting1",
+        "colors": [
+          "Gray",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexCrocheting2",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexCrocheting3",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "SocksTexCrocheting0",
+        "colors": [
+          "Beige",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      }
+    ],
+    "id": 9
+  },
+  {
+    "name": "denim leggings",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDenimleggings1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexDenimleggings1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 539,
+    "variants": [
+      {
+        "variation": "Indigo blue",
+        "filename": "SocksTexDenimleggings1",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 540,
+        "sell": 135,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "SocksTexDenimleggings3",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 540,
+        "sell": 135,
+        "themes": []
+      },
+      {
+        "variation": "Saxon blue",
+        "filename": "SocksTexDenimleggings2",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 540,
+        "sell": 135,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexDenimleggings0",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 540,
+        "sell": 135,
+        "themes": []
+      }
+    ],
+    "id": 10
+  },
+  {
+    "name": "dotted knee-high socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDotknee3.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexDotknee3.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 1188,
+    "variants": [
+      {
+        "variation": "Gray",
+        "filename": "SocksTexDotknee3",
+        "colors": [
+          "Gray",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexDotknee0",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SocksTexDotknee1",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Cyan",
+        "filename": "SocksTexDotknee2",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      }
+    ],
+    "id": 11
+  },
+  {
+    "name": "embroidered-flower tights",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexEmbroidery1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexEmbroidery1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 628,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "SocksTexEmbroidery1",
+        "colors": [
+          "Black",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexEmbroidery2",
+        "colors": [
+          "Green",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexEmbroidery4",
+        "colors": [
+          "Blue",
+          "Orange"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexEmbroidery5",
+        "colors": [
+          "Purple",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "SocksTexEmbroidery0",
+        "colors": [
+          "Brown",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "SocksTexEmbroidery3",
+        "colors": [
+          "Beige",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": []
+      }
+    ],
+    "id": 12
+  },
+  {
+    "name": "everyday socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDailysocks5.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexDailysocks5.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 1059,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexDailysocks5",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Gray",
+        "filename": "SocksTexDailysocks3",
+        "colors": [
+          "Gray",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexDailysocks1",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Navy blue",
+        "filename": "SocksTexDailysocks2",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "SocksTexDailysocks0",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "SocksTexDailysocks4",
+        "colors": [
+          "Beige",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      }
+    ],
+    "id": 13
+  },
+  {
+    "name": "everyday tights",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDailytights3.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexDailytights3.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 1050,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexDailytights3",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Light gray",
+        "filename": "SocksTexDailytights1",
+        "colors": [
+          "Gray",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Gray",
+        "filename": "SocksTexDailytights2",
+        "colors": [
+          "Gray",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexDailytights0",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Navy blue",
+        "filename": "SocksTexDailytights4",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "SocksTexDailytights5",
+        "colors": [
+          "Beige",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      }
+    ],
+    "id": 14
+  },
+  {
+    "name": "fishnet tights",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAmitights1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexAmitights1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 48,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexAmitights1",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexAmitights0",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "SocksTexAmitights2",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      }
+    ],
+    "id": 15
+  },
+  {
+    "name": "flowery-dot tights",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFlowerdot0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexFlowerdot0.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 879,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexFlowerdot0",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexFlowerdot4",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexFlowerdot1",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SocksTexFlowerdot3",
+        "colors": [
+          "Yellow",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexFlowerdot2",
+        "colors": [
+          "Light blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      }
+    ],
+    "id": 16
+  },
+  {
+    "name": "frilly knee-high socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFrilledknee0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexFrilledknee0.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "Spring",
+    "mannequin_piece": false,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 605,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "SocksTexFrilledknee0",
+        "colors": [
+          "Black",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "SocksTexFrilledknee2",
+        "colors": [
+          "Red",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexFrilledknee5",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "SocksTexFrilledknee3",
+        "colors": [
+          "Orange",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SocksTexFrilledknee7",
+        "colors": [
+          "Yellow",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexFrilledknee1",
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Mint",
+        "filename": "SocksTexFrilledknee4",
+        "colors": [
+          "Light blue",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexFrilledknee6",
+        "colors": [
+          "Purple",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      }
+    ],
+    "id": 17
+  },
+  {
+    "name": "frilly socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFrilled0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexFrilled0.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 607,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexFrilled0",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexFrilled2",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SocksTexFrilled1",
+        "colors": [
+          "Yellow",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexFrilled3",
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexFrilled5",
+        "colors": [
+          "Light blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexFrilled4",
+        "colors": [
+          "Purple",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      }
+    ],
+    "id": 18
+  },
+  {
+    "name": "funny-face socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCharacter4.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexCharacter4.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "Summer",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 723,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "SocksTexCharacter4",
+        "colors": [
+          "Black",
+          "Gray"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "SocksTexCharacter2",
+        "colors": [
+          "Red",
+          "Yellow"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexCharacter0",
+        "colors": [
+          "Pink",
+          "Light blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexCharacter3",
+        "colors": [
+          "Green",
+          "Blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexCharacter1",
+        "colors": [
+          "Blue",
+          "Green"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      }
+    ],
+    "id": 19
+  },
+  {
+    "name": "garter socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexGarter1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexGarter1.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cool",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 541,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexGarter1",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 980,
+        "sell": 245,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexGarter0",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 980,
+        "sell": 245,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "SocksTexGarter3",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 980,
+        "sell": 245,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexGarter2",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 980,
+        "sell": 245,
+        "themes": []
+      }
+    ],
+    "id": 20
+  },
+  {
+    "name": "geometric-print socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexChimayo4.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexChimayo4.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 749,
+    "variants": [
+      {
+        "variation": "Pink",
+        "filename": "SocksTexChimayo4",
+        "colors": [
+          "Pink",
+          "Colorful"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 950,
+        "sell": 237,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SocksTexChimayo0",
+        "colors": [
+          "Yellow",
+          "Colorful"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 950,
+        "sell": 237,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexChimayo5",
+        "colors": [
+          "Green",
+          "Colorful"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 950,
+        "sell": 237,
+        "themes": []
+      },
+      {
+        "variation": "Peacock blue",
+        "filename": "SocksTexChimayo1",
+        "colors": [
+          "Light blue",
+          "Colorful"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 950,
+        "sell": 237,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexChimayo2",
+        "colors": [
+          "Purple",
+          "Colorful"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 950,
+        "sell": 237,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "SocksTexChimayo3",
+        "colors": [
+          "Beige",
+          "Colorful"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 950,
+        "sell": 237,
+        "themes": []
+      }
+    ],
+    "id": 21
+  },
+  {
+    "name": "hand-knit socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHandknit2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexHandknit2.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 620,
+    "variants": [
+      {
+        "variation": "Orange",
+        "filename": "SocksTexHandknit2",
+        "colors": [
+          "Orange",
+          "Orange"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexHandknit0",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexHandknit1",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      }
+    ],
+    "id": 22
+  },
+  {
+    "name": "holey socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHole0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexHole0.png",
+    "diy": false,
+    "hha_base_points": 53,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "Not for sale",
+    "cloth_group_id": 610,
+    "variants": [
+      {
+        "variation": "Blue",
+        "filename": "SocksTexHole0",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Recycle bin"
+        ],
+        "buy": -1,
+        "sell": 10,
+        "themes": []
+      },
+      {
+        "variation": "Navy blue",
+        "filename": "SocksTexHole1",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Recycle bin"
+        ],
+        "buy": -1,
+        "sell": 10,
+        "themes": []
+      },
+      {
+        "variation": "White",
+        "filename": "SocksTexHole2",
+        "colors": [
+          "Beige",
+          "Beige"
+        ],
+        "source": [
+          "Recycle bin"
+        ],
+        "buy": -1,
+        "sell": 10,
+        "themes": []
+      }
+    ],
+    "id": 23
+  },
+  {
+    "name": "holey tights",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHoletights0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexHoletights0.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cool",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 608,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "SocksTexHoletights0",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "SocksTexHoletights3",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexHoletights1",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SocksTexHoletights7",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexHoletights5",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "SocksTexHoletights2",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexHoletights6",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexHoletights4",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      }
+    ],
+    "id": 24
+  },
+  {
+    "name": "kiddie socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKids7.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexKids7.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 625,
+    "variants": [
+      {
+        "variation": "Black & gray",
+        "filename": "SocksTexKids7",
+        "colors": [
+          "Black",
+          "Gray"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Red & light blue",
+        "filename": "SocksTexKids0",
+        "colors": [
+          "Red",
+          "Light blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Pink & yellow",
+        "filename": "SocksTexKids6",
+        "colors": [
+          "Pink",
+          "Yellow"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Yellow & purple",
+        "filename": "SocksTexKids3",
+        "colors": [
+          "Yellow",
+          "Purple"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Lime & pink",
+        "filename": "SocksTexKids2",
+        "colors": [
+          "Green",
+          "Pink"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Light blue & red",
+        "filename": "SocksTexKids4",
+        "colors": [
+          "Light blue",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Blue & orange",
+        "filename": "SocksTexKids1",
+        "colors": [
+          "Blue",
+          "Orange"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Purple & green",
+        "filename": "SocksTexKids5",
+        "colors": [
+          "Purple",
+          "Green"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      }
+    ],
+    "id": 25
+  },
+  {
+    "name": "Labelle socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKatesocks1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexKatesocks1.png",
+    "diy": false,
+    "hha_base_points": 351,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cool",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 1134,
+    "variants": [
+      {
+        "variation": "Midnight",
+        "filename": "SocksTexKatesocks1",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 940,
+        "sell": 235,
+        "themes": []
+      },
+      {
+        "variation": "Passion",
+        "filename": "SocksTexKatesocks2",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 940,
+        "sell": 235,
+        "themes": []
+      },
+      {
+        "variation": "Love",
+        "filename": "SocksTexKatesocks5",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 940,
+        "sell": 235,
+        "themes": []
+      },
+      {
+        "variation": "Sunset",
+        "filename": "SocksTexKatesocks4",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 940,
+        "sell": 235,
+        "themes": []
+      },
+      {
+        "variation": "Ocean",
+        "filename": "SocksTexKatesocks3",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 940,
+        "sell": 235,
+        "themes": []
+      },
+      {
+        "variation": "Twilight",
+        "filename": "SocksTexKatesocks0",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 940,
+        "sell": 235,
+        "themes": []
+      }
+    ],
+    "id": 26
+  },
+  {
+    "name": "Labelle tights",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKatetights1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexKatetights1.png",
+    "diy": false,
+    "hha_base_points": 351,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 1133,
+    "variants": [
+      {
+        "variation": "Midnight",
+        "filename": "SocksTexKatetights1",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 1240,
+        "sell": 310,
+        "themes": []
+      },
+      {
+        "variation": "Passion",
+        "filename": "SocksTexKatetights2",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 1240,
+        "sell": 310,
+        "themes": []
+      },
+      {
+        "variation": "Love",
+        "filename": "SocksTexKatetights5",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 1240,
+        "sell": 310,
+        "themes": []
+      },
+      {
+        "variation": "Sunset",
+        "filename": "SocksTexKatetights4",
+        "colors": [
+          "Orange",
+          "Orange"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 1240,
+        "sell": 310,
+        "themes": []
+      },
+      {
+        "variation": "Ocean",
+        "filename": "SocksTexKatetights3",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 1240,
+        "sell": 310,
+        "themes": []
+      },
+      {
+        "variation": "Twilight",
+        "filename": "SocksTexKatetights0",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 1240,
+        "sell": 310,
+        "themes": []
+      }
+    ],
+    "id": 27
+  },
+  {
+    "name": "lace socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLace0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexLace0.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 606,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexLace0",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexLace3",
+        "colors": [
+          "Black",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexLace1",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexLace2",
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "SocksTexLace4",
+        "colors": [
+          "Beige",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      }
+    ],
+    "id": 28
+  },
+  {
+    "name": "layered socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SockstTexOverlapping4.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SockstTexOverlapping4.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "Winter",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 619,
+    "variants": [
+      {
+        "variation": "Red",
+        "filename": "SockstTexOverlapping4",
+        "colors": [
+          "Gray",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "SockstTexOverlapping5",
+        "colors": [
+          "Gray",
+          "Orange"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SockstTexOverlapping2",
+        "colors": [
+          "Gray",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SockstTexOverlapping3",
+        "colors": [
+          "Gray",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SockstTexOverlapping1",
+        "colors": [
+          "Gray",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SockstTexOverlapping0",
+        "colors": [
+          "Gray",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      }
+    ],
+    "id": 29
+  },
+  {
+    "name": "leg warmers",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLegwarmer2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexLegwarmer2.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "Winter",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 602,
+    "variants": [
+      {
+        "variation": "Gray",
+        "filename": "SocksTexLegwarmer2",
+        "colors": [
+          "Gray",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 440,
+        "sell": 110,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexLegwarmer1",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 440,
+        "sell": 110,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexLegwarmer3",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 440,
+        "sell": 110,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexLegwarmer5",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 440,
+        "sell": 110,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexLegwarmer0",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 440,
+        "sell": 110,
+        "themes": []
+      },
+      {
+        "variation": "Light purple",
+        "filename": "SocksTexLegwarmer4",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 440,
+        "sell": 110,
+        "themes": []
+      }
+    ],
+    "id": 30
+  },
+  {
+    "name": "mixed-tweed socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMixtweed0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexMixtweed0.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 601,
+    "variants": [
+      {
+        "variation": "Red",
+        "filename": "SocksTexMixtweed0",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 800,
+        "sell": 200,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "SocksTexMixtweed5",
+        "colors": [
+          "Orange",
+          "Orange"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 800,
+        "sell": 200,
+        "themes": []
+      },
+      {
+        "variation": "Lime",
+        "filename": "SocksTexMixtweed6",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 800,
+        "sell": 200,
+        "themes": []
+      },
+      {
+        "variation": "Avocado",
+        "filename": "SocksTexMixtweed1",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 800,
+        "sell": 200,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "SocksTexMixtweed2",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 800,
+        "sell": 200,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexMixtweed4",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 800,
+        "sell": 200,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexMixtweed3",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 800,
+        "sell": 200,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexMixtweed7",
+        "colors": [
+          "Beige",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 800,
+        "sell": 200,
+        "themes": []
+      }
+    ],
+    "id": 31
+  },
+  {
+    "name": "neon leggings",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNeonleggings1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexNeonleggings1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 1054,
+    "variants": [
+      {
+        "variation": "Pink",
+        "filename": "SocksTexNeonleggings1",
+        "colors": [
+          "Pink",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 540,
+        "sell": 135,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "SocksTexNeonleggings2",
+        "colors": [
+          "Orange",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 540,
+        "sell": 135,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SocksTexNeonleggings0",
+        "colors": [
+          "Yellow",
+          "Orange"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 540,
+        "sell": 135,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexNeonleggings3",
+        "colors": [
+          "Green",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 540,
+        "sell": 135,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexNeonleggings4",
+        "colors": [
+          "Purple",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 540,
+        "sell": 135,
+        "themes": []
+      }
+    ],
+    "id": 32
+  },
+  {
+    "name": "neon tights",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNeontights1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexNeontights1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 1052,
+    "variants": [
+      {
+        "variation": "Pink",
+        "filename": "SocksTexNeontights1",
+        "colors": [
+          "Pink",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "SocksTexNeontights2",
+        "colors": [
+          "Orange",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SocksTexNeontights0",
+        "colors": [
+          "Yellow",
+          "Orange"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexNeontights3",
+        "colors": [
+          "Green",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexNeontights4",
+        "colors": [
+          "Purple",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      }
+    ],
+    "id": 33
+  },
+  {
+    "name": "no-show socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSneakerin1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexSneakerin1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 535,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexSneakerin1",
+        "colors": [
+          "White",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Gray",
+        "filename": "SocksTexSneakerin0",
+        "colors": [
+          "Gray",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Berry red",
+        "filename": "SocksTexSneakerin2",
+        "colors": [
+          "Red",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "SocksTexSneakerin4",
+        "colors": [
+          "Orange",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SocksTexSneakerin7",
+        "colors": [
+          "Yellow",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexSneakerin5",
+        "colors": [
+          "Green",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "SocksTexSneakerin3",
+        "colors": [
+          "Light blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Navy blue",
+        "filename": "SocksTexSneakerin6",
+        "colors": [
+          "Blue",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      }
+    ],
+    "id": 34
+  },
+  {
+    "name": "Nook Inc. socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBorderRco.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexBorderRco.png",
+    "diy": false,
+    "hha_base_points": 151,
+    "size": "1x1",
+    "miles_price": 400,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "Not for sale",
+    "cloth_group_id": 1144,
+    "variants": [
+      {
+        "variation": null,
+        "filename": "SocksTexBorderRco",
+        "colors": [
+          "Yellow",
+          "Orange"
+        ],
+        "source": [
+          "Nook Miles Shop"
+        ],
+        "buy": -1,
+        "sell": 2000,
+        "themes": []
+      }
+    ],
+    "id": 35
+  },
+  {
+    "name": "nordic socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNordic4.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexNordic4.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "Winter",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 542,
+    "variants": [
+      {
+        "variation": "Gray",
+        "filename": "SocksTexNordic4",
+        "colors": [
+          "Gray",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "SocksTexNordic2",
+        "colors": [
+          "Red",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexNordic5",
+        "colors": [
+          "Green",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "SocksTexNordic6",
+        "colors": [
+          "Light blue",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexNordic3",
+        "colors": [
+          "Blue",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Navy blue",
+        "filename": "SocksTexNordic0",
+        "colors": [
+          "Blue",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      },
+      {
+        "variation": "Ivory",
+        "filename": "SocksTexNordic1",
+        "colors": [
+          "Beige",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 840,
+        "sell": 210,
+        "themes": []
+      }
+    ],
+    "id": 36
+  },
+  {
+    "name": "patterned stockings",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexStripedot1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexStripedot1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 928,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexStripedot1",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 940,
+        "sell": 235,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexStripedot0",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 940,
+        "sell": 235,
+        "themes": []
+      }
+    ],
+    "id": 37
+  },
+  {
+    "name": "pom-pom socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBobble0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexBobble0.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "Winter",
+    "mannequin_piece": false,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 611,
+    "variants": [
+      {
+        "variation": "Pink",
+        "filename": "SocksTexBobble0",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "SocksTexBobble3",
+        "colors": [
+          "Orange",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexBobble2",
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexBobble1",
+        "colors": [
+          "Light blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexBobble4",
+        "colors": [
+          "Purple",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      }
+    ],
+    "id": 38
+  },
+  {
+    "name": "puckered socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexPucker1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexPucker1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 622,
+    "variants": [
+      {
+        "variation": "Red",
+        "filename": "SocksTexPucker1",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Mustard",
+        "filename": "SocksTexPucker0",
+        "colors": [
+          "Orange",
+          "Orange"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexPucker3",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexPucker2",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexPucker4",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      }
+    ],
+    "id": 39
+  },
+  {
+    "name": "running tights",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexRun0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexRun0.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 629,
+    "variants": [
+      {
+        "variation": "Pink",
+        "filename": "SocksTexRun0",
+        "colors": [
+          "Black",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 550,
+        "sell": 137,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SocksTexRun1",
+        "colors": [
+          "Black",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 550,
+        "sell": 137,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexRun3",
+        "colors": [
+          "Black",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 550,
+        "sell": 137,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexRun2",
+        "colors": [
+          "Black",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 550,
+        "sell": 137,
+        "themes": []
+      }
+    ],
+    "id": 40
+  },
+  {
+    "name": "semi-opaque socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancesocks1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexNuancesocks1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 1060,
+    "variants": [
+      {
+        "variation": "Red",
+        "filename": "SocksTexNuancesocks1",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexNuancesocks4",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Camel",
+        "filename": "SocksTexNuancesocks5",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Avocado",
+        "filename": "SocksTexNuancesocks6",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexNuancesocks0",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexNuancesocks2",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Navy blue",
+        "filename": "SocksTexNuancesocks3",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "SocksTexNuancesocks7",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      }
+    ],
+    "id": 41
+  },
+  {
+    "name": "semi-opaque tights",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancetights6.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexNuancetights6.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 1049,
+    "variants": [
+      {
+        "variation": "Red",
+        "filename": "SocksTexNuancetights6",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexNuancetights5",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "SocksTexNuancetights0",
+        "colors": [
+          "Orange",
+          "Orange"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SocksTexNuancetights1",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Yellow-green",
+        "filename": "SocksTexNuancetights7",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexNuancetights2",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexNuancetights4",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexNuancetights3",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      }
+    ],
+    "id": 42
+  },
+  {
+    "name": "sequin leggings",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSequins4.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexSequins4.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Gorgeous",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 537,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexSequins4",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 940,
+        "sell": 235,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexSequins2",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 940,
+        "sell": 235,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "SocksTexSequins1",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 940,
+        "sell": 235,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexSequins0",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 940,
+        "sell": 235,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SocksTexSequins3",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 940,
+        "sell": 235,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexSequins7",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 940,
+        "sell": 235,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexSequins5",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 940,
+        "sell": 235,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexSequins6",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 940,
+        "sell": 235,
+        "themes": []
+      }
+    ],
+    "id": 43
+  },
+  {
+    "name": "sheer socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSeethrough5.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexSeethrough5.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "Fall",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 886,
+    "variants": [
+      {
+        "variation": "Gray",
+        "filename": "SocksTexSeethrough5",
+        "colors": [
+          "Gray",
+          "Gray"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Berry red",
+        "filename": "SocksTexSeethrough1",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexSeethrough3",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Olive",
+        "filename": "SocksTexSeethrough4",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexSeethrough0",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "SocksTexSeethrough2",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      }
+    ],
+    "id": 44
+  },
+  {
+    "name": "simple knee-high socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSimpleknee1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexSimpleknee1.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 1189,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexSimpleknee1",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "SocksTexSimpleknee2",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexSimpleknee0",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexSimpleknee3",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      }
+    ],
+    "id": 45
+  },
+  {
+    "name": "simple-accent socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexOnepoint2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexOnepoint2.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 624,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexOnepoint2",
+        "colors": [
+          "White",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Gray",
+        "filename": "SocksTexOnepoint3",
+        "colors": [
+          "Gray",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexOnepoint1",
+        "colors": [
+          "Black",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "SocksTexOnepoint6",
+        "colors": [
+          "Red",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexOnepoint7",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "SocksTexOnepoint5",
+        "colors": [
+          "Orange",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Navy blue",
+        "filename": "SocksTexOnepoint0",
+        "colors": [
+          "Blue",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexOnepoint4",
+        "colors": [
+          "Blue",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      }
+    ],
+    "id": 46
+  },
+  {
+    "name": "soccer socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFootball6.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexFootball6.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 609,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexFootball6",
+        "colors": [
+          "White",
+          "Black"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 800,
+        "sell": 200,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexFootball4",
+        "colors": [
+          "Black",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 800,
+        "sell": 200,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "SocksTexFootball1",
+        "colors": [
+          "Red",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 800,
+        "sell": 200,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "SocksTexFootball5",
+        "colors": [
+          "Orange",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 800,
+        "sell": 200,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexFootball2",
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 800,
+        "sell": 200,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "SocksTexFootball3",
+        "colors": [
+          "Light blue",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 800,
+        "sell": 200,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexFootball0",
+        "colors": [
+          "Blue",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 800,
+        "sell": 200,
+        "themes": []
+      }
+    ],
+    "id": 47
+  },
+  {
+    "name": "spider-web tights",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSpider1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexSpider1.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "Fall",
+    "mannequin_piece": false,
+    "style": "Cool",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 627,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexSpider1",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexSpider0",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "SocksTexSpider2",
+        "colors": [
+          "Orange",
+          "Orange"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexSpider3",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      }
+    ],
+    "id": 48
+  },
+  {
+    "name": "stockings",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexTights2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexTights2.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 47,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexTights2",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Gray",
+        "filename": "SocksTexTights1",
+        "colors": [
+          "Gray",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexTights0",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "SocksTexTights3",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "SocksTexTights4",
+        "colors": [
+          "Beige",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      }
+    ],
+    "id": 49
+  },
+  {
+    "name": "stretch leggings",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLeggings3.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexLeggings3.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 538,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexLeggings3",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 450,
+        "sell": 112,
+        "themes": []
+      },
+      {
+        "variation": "Gray",
+        "filename": "SocksTexLeggings1",
+        "colors": [
+          "Gray",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 450,
+        "sell": 112,
+        "themes": []
+      },
+      {
+        "variation": "Dark gray",
+        "filename": "SocksTexLeggings2",
+        "colors": [
+          "Gray",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 450,
+        "sell": 112,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexLeggings4",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 450,
+        "sell": 112,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexLeggings6",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 450,
+        "sell": 112,
+        "themes": []
+      },
+      {
+        "variation": "Navy blue",
+        "filename": "SocksTexLeggings0",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 450,
+        "sell": 112,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "SocksTexLeggings5",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 450,
+        "sell": 112,
+        "themes": []
+      }
+    ],
+    "id": 50
+  },
+  {
+    "name": "striped socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBorder0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexBorder0.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 623,
+    "variants": [
+      {
+        "variation": "Monotone",
+        "filename": "SocksTexBorder0",
+        "colors": [
+          "Black",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "SocksTexBorder5",
+        "colors": [
+          "Red",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "SocksTexBorder4",
+        "colors": [
+          "Orange",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SocksTexBorder3",
+        "colors": [
+          "Yellow",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexBorder2",
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "SocksTexBorder1",
+        "colors": [
+          "Light blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexBorder7",
+        "colors": [
+          "Blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexBorder6",
+        "colors": [
+          "Purple",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      }
+    ],
+    "id": 51
+  },
+  {
+    "name": "striped tights",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexStripe1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexStripe1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Gorgeous",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 927,
+    "variants": [
+      {
+        "variation": "Gray",
+        "filename": "SocksTexStripe1",
+        "colors": [
+          "Gray",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "SocksTexStripe0",
+        "colors": [
+          "Red",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexStripe2",
+        "colors": [
+          "Pink",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "SocksTexStripe7",
+        "colors": [
+          "Orange",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SocksTexStripe4",
+        "colors": [
+          "Yellow",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexStripe6",
+        "colors": [
+          "Green",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "SocksTexStripe3",
+        "colors": [
+          "Light blue",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexStripe5",
+        "colors": [
+          "Purple",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      }
+    ],
+    "id": 52
+  },
+  {
+    "name": "tabi",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexTabi0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexTabi0.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 543,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexTabi0",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1200,
+        "sell": 300,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexTabi1",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1200,
+        "sell": 300,
+        "themes": []
+      },
+      {
+        "variation": "Navy blue",
+        "filename": "SocksTexTabi2",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1200,
+        "sell": 300,
+        "themes": []
+      }
+    ],
+    "id": 53
+  },
+  {
+    "name": "terry-cloth socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFluffy6.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexFluffy6.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "Winter",
+    "mannequin_piece": false,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 613,
+    "variants": [
+      {
+        "variation": "Gray",
+        "filename": "SocksTexFluffy6",
+        "colors": [
+          "Gray",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "SocksTexFluffy5",
+        "colors": [
+          "Red",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexFluffy0",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexFluffy3",
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexFluffy2",
+        "colors": [
+          "Light blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexFluffy1",
+        "colors": [
+          "Purple",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "SocksTexFluffy4",
+        "colors": [
+          "Beige",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      }
+    ],
+    "id": 54
+  },
+  {
+    "name": "tube socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLine3.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexLine3.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 540,
+    "variants": [
+      {
+        "variation": "Red",
+        "filename": "SocksTexLine3",
+        "colors": [
+          "White",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "SocksTexLine1",
+        "colors": [
+          "White",
+          "Orange"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexLine2",
+        "colors": [
+          "White",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexLine0",
+        "colors": [
+          "White",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Berry red",
+        "filename": "SocksTexLine5",
+        "colors": [
+          "Gray",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Dark green",
+        "filename": "SocksTexLine6",
+        "colors": [
+          "Gray",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Navy blue",
+        "filename": "SocksTexLine4",
+        "colors": [
+          "Gray",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexLine7",
+        "colors": [
+          "Gray",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      }
+    ],
+    "id": 55
+  },
+  {
+    "name": "ultra no-show socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFootcover7.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexFootcover7.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 600,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "SocksTexFootcover7",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "SocksTexFootcover6",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexFootcover1",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Olive",
+        "filename": "SocksTexFootcover3",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexFootcover4",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexFootcover0",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexFootcover5",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "SocksTexFootcover2",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      }
+    ],
+    "id": 56
+  },
+  {
+    "name": "vivid leggings",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividleggings2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividleggings2.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 1053,
+    "variants": [
+      {
+        "variation": "Red",
+        "filename": "SocksTexVividleggings2",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 450,
+        "sell": 112,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexVividleggings3",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 450,
+        "sell": 112,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "SocksTexVividleggings7",
+        "colors": [
+          "Orange",
+          "Orange"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 450,
+        "sell": 112,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SocksTexVividleggings5",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 450,
+        "sell": 112,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexVividleggings6",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 450,
+        "sell": 112,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "SocksTexVividleggings0",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 450,
+        "sell": 112,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexVividleggings4",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 450,
+        "sell": 112,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexVividleggings1",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 450,
+        "sell": 112,
+        "themes": []
+      }
+    ],
+    "id": 57
+  },
+  {
+    "name": "vivid socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividsocks0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividsocks0.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 1002,
+    "variants": [
+      {
+        "variation": "Red",
+        "filename": "SocksTexVividsocks0",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexVividsocks5",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "SocksTexVividsocks6",
+        "colors": [
+          "Orange",
+          "Orange"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SocksTexVividsocks7",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexStandard1",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "SocksTexVividsocks2",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexVividsocks3",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexVividsocks4",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 480,
+        "sell": 120,
+        "themes": []
+      }
+    ],
+    "id": 58
+  },
+  {
+    "name": "vivid tights",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividtights2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividtights2.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 1051,
+    "variants": [
+      {
+        "variation": "Red",
+        "filename": "SocksTexVividtights2",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "SocksTexVividtights3",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "SocksTexVividtights7",
+        "colors": [
+          "Orange",
+          "Orange"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "SocksTexVividtights5",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexVividtights6",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "SocksTexVividtights0",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexVividtights4",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexVividtights1",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 720,
+        "sell": 180,
+        "themes": []
+      }
+    ],
+    "id": 59
+  },
+  {
+    "name": "wave-print socks",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/SocksTexWave4.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/SocksTexWave4.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cool",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 887,
+    "variants": [
+      {
+        "variation": "Gray",
+        "filename": "SocksTexWave4",
+        "colors": [
+          "Black",
+          "Gray"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "SocksTexWave3",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "SocksTexWave0",
+        "colors": [
+          "Blue",
+          "Light blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "SocksTexWave2",
+        "colors": [
+          "Purple",
+          "Pink"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "SocksTexWave1",
+        "colors": [
+          "Brown",
+          "Beige"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 600,
+        "sell": 150,
+        "themes": []
+      }
+    ],
+    "id": 60
+  }
+]

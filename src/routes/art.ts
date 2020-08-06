@@ -15,21 +15,15 @@ router.get('/', function(req: any, res: any) {
 
 router.get('/:type/', function(req: any, res: any, next: any) {
     let typeParam = req.params.type;
-    typeParam = typeParam.substr(0, typeParam.length - 1);
-    if (typeParam === 'painting') {
-        let query = jsonSearch.byName(typeParam, artData);
-        if (query.length === 0) {
-            res.status(404).json({message: `Item not found` });
-        } else {
-            res.status(200).json(query);
-        }
-    } else if (typeParam === 'statue') {
-        let query = jsonSearch.byName(typeParam, artData);
-        if (query.length === 0) {
-            res.status(404).json({message: `Item not found` });
-        } else {
-            res.status(200).json(query);
-        }
+    var searchTag: string;
+    if (typeParam === 'paintings') {
+        searchTag = 'Picture'
+        let query = jsonSearch.byType(searchTag, artData);
+        res.status(200).json(query);
+    } else if (typeParam === 'statues') {
+        searchTag = 'Sculpture';
+        let query = jsonSearch.byType(searchTag, artData);
+        res.status(200).json(query);
     }
     next();
 })
@@ -43,6 +37,8 @@ router.get('/:id', function(req: any, res: any) {
         } else {
             res.status(200).json(query);
         }
+    } else {
+        res.status(400).json({message: ""})
     }
 })
 export default router;

@@ -1,0 +1,365 @@
+[
+  {
+    "name": "bamboo lattice fence",
+    "diy": true,
+    "stack_size": 50,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceBamboo.png",
+        "filename": "ItemFenceBamboo",
+        "colors": [],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 960,
+        "themes": []
+      }
+    ],
+    "id": 1
+  },
+  {
+    "name": "barbed-wire fence",
+    "diy": true,
+    "stack_size": 50,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceBarbedWire.png",
+        "filename": "ItemFenceBarbedWire",
+        "colors": [],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 1980,
+        "themes": []
+      }
+    ],
+    "id": 2
+  },
+  {
+    "name": "brick fence",
+    "diy": true,
+    "stack_size": 50,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceWallRenga.png",
+        "filename": "ItemFenceWallRenga",
+        "colors": [],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 1200,
+        "themes": []
+      }
+    ],
+    "id": 3
+  },
+  {
+    "name": "Bunny Day fence",
+    "diy": true,
+    "stack_size": 50,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceEgg.png",
+        "filename": "ItemFenceEgg",
+        "colors": [],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 2400,
+        "themes": []
+      }
+    ],
+    "id": 4
+  },
+  {
+    "name": "corral fence",
+    "diy": true,
+    "stack_size": 50,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceHorizontalWood.png",
+        "filename": "ItemFenceHorizontalWood",
+        "colors": [],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 720,
+        "themes": []
+      }
+    ],
+    "id": 5
+  },
+  {
+    "name": "country fence",
+    "diy": true,
+    "stack_size": 50,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLog.png",
+        "filename": "ItemFenceLog",
+        "colors": [],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 720,
+        "themes": []
+      }
+    ],
+    "id": 6
+  },
+  {
+    "name": "hedge",
+    "diy": true,
+    "stack_size": 50,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIkegaki.png",
+        "filename": "ItemFenceIkegaki",
+        "colors": [],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 55,
+        "themes": []
+      }
+    ],
+    "id": 7
+  },
+  {
+    "name": "imperial fence",
+    "diy": true,
+    "stack_size": 50,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceChinese.png",
+        "filename": "ItemFenceChinese",
+        "colors": [],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 1200,
+        "themes": []
+      }
+    ],
+    "id": 8
+  },
+  {
+    "name": "iron fence",
+    "diy": true,
+    "stack_size": 50,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel.png",
+        "filename": "ItemFenceSteel",
+        "colors": [],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 4500,
+        "themes": []
+      }
+    ],
+    "id": 9
+  },
+  {
+    "name": "iron-and-stone fence",
+    "diy": true,
+    "stack_size": 50,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIronAndStone.png",
+        "filename": "ItemFenceIronAndStone",
+        "colors": [],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 3150,
+        "themes": []
+      }
+    ],
+    "id": 10
+  },
+  {
+    "name": "lattice fence",
+    "diy": true,
+    "stack_size": 50,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural.png",
+        "filename": "ItemFenceLatiiceNatural",
+        "colors": [],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 960,
+        "themes": []
+      }
+    ],
+    "id": 11
+  },
+  {
+    "name": "rope fence",
+    "diy": true,
+    "stack_size": 50,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePegRope.png",
+        "filename": "ItemFencePegRope",
+        "colors": [],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 3000,
+        "themes": []
+      }
+    ],
+    "id": 12
+  },
+  {
+    "name": "simple wooden fence",
+    "diy": true,
+    "stack_size": 50,
+    "source_notes": "50 fences are given by Tom Nook after completing the three house plots during the main storyline",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural.png",
+        "filename": "ItemFenceNatural",
+        "colors": [],
+        "source": [
+          "Crafting",
+          "Tom Nook"
+        ],
+        "buy": -1,
+        "sell": 720,
+        "themes": []
+      }
+    ],
+    "id": 13
+  },
+  {
+    "name": "spiky fence",
+    "diy": true,
+    "stack_size": 50,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSharply.png",
+        "filename": "ItemFenceSharply",
+        "colors": [],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 960,
+        "themes": []
+      }
+    ],
+    "id": 14
+  },
+  {
+    "name": "stone fence",
+    "diy": true,
+    "stack_size": 50,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceStone.png",
+        "filename": "ItemFenceStone",
+        "colors": [],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 600,
+        "themes": []
+      }
+    ],
+    "id": 15
+  },
+  {
+    "name": "straw fence",
+    "diy": true,
+    "stack_size": 50,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceDriedStraw.png",
+        "filename": "ItemFenceDriedStraw",
+        "colors": [],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 560,
+        "themes": []
+      }
+    ],
+    "id": 16
+  },
+  {
+    "name": "vertical-board fence",
+    "diy": true,
+    "stack_size": 50,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood.png",
+        "filename": "ItemFenceVerticalWood",
+        "colors": [],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 960,
+        "themes": []
+      }
+    ],
+    "id": 17
+  },
+  {
+    "name": "wedding fence",
+    "diy": true,
+    "stack_size": 50,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride.png",
+        "filename": "ItemFenceJuneBride",
+        "colors": [],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 411,
+        "themes": []
+      }
+    ],
+    "id": 18
+  },
+  {
+    "name": "zen fence",
+    "diy": true,
+    "stack_size": 50,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese.png",
+        "filename": "ItemFenceJapanese",
+        "colors": [],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 3300,
+        "themes": []
+      }
+    ],
+    "id": 19
+  }
+]

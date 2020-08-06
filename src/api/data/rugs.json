@@ -1,0 +1,4129 @@
+[
+  {
+    "name": "aluminum rug",
+    "diy": false,
+    "size": "3x2",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectAluminumM00.png",
+        "filename": "RugRectAluminumM00",
+        "colors": [
+          "Gray",
+          "Gray"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "garden",
+          "outdoors"
+        ]
+      }
+    ],
+    "id": 1
+  },
+  {
+    "name": "apple rug",
+    "diy": true,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 103,
+    "tag": "Fruit Rugs",
+    "catalog": "Not for sale",
+    "series": "fruits",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherAppleM00.png",
+        "filename": "RugOtherAppleM00",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 1200,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 2
+  },
+  {
+    "name": "Bell-bag rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": 1200,
+    "hha_base_points": 151,
+    "tag": "Park Rugs",
+    "catalog": "Not for sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherBellM00.png",
+        "filename": "RugOtherBellM00",
+        "colors": [],
+        "source": [
+          "Nintendo",
+          "Nook Miles Shop"
+        ],
+        "buy": -1,
+        "sell": 6000,
+        "themes": [
+          "expensive"
+        ]
+      }
+    ],
+    "id": 3
+  },
+  {
+    "name": "black blocks rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareBlockM03.png",
+        "filename": "RugSquareBlockM03",
+        "colors": [
+          "Black",
+          "Gray"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "living room"
+        ]
+      }
+    ],
+    "id": 4
+  },
+  {
+    "name": "black wooden-deck rug",
+    "diy": false,
+    "size": "3x2",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Wood Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectDeckM03.png",
+        "filename": "RugRectDeckM03",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "outdoors"
+        ]
+      }
+    ],
+    "id": 5
+  },
+  {
+    "name": "black-design kitchen mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Kitchen Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectNativeKitchenS03.png",
+        "filename": "RugRectNativeKitchenS03",
+        "colors": [
+          "Black",
+          "Orange"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "kitchen"
+        ]
+      }
+    ],
+    "id": 6
+  },
+  {
+    "name": "blue argyle rug",
+    "diy": false,
+    "size": "4x3",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectArgyleL02.png",
+        "filename": "RugRectArgyleL02",
+        "colors": [
+          "Blue",
+          "Green"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room",
+          "expensive"
+        ]
+      }
+    ],
+    "id": 7
+  },
+  {
+    "name": "blue blocks rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareBlockM01.png",
+        "filename": "RugSquareBlockM01",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "living room"
+        ]
+      }
+    ],
+    "id": 8
+  },
+  {
+    "name": "blue dotted rug",
+    "diy": false,
+    "size": "4x3",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectDotL03.png",
+        "filename": "RugRectDotL03",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 9
+  },
+  {
+    "name": "blue kilim-style carpet",
+    "diy": false,
+    "size": "5x5",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareKirimL01.png",
+        "filename": "RugSquareKirimL01",
+        "colors": [
+          "Blue",
+          "Black"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room"
+        ]
+      }
+    ],
+    "id": 10
+  },
+  {
+    "name": "blue kitchen mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Kitchen Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectKitchenS02.png",
+        "filename": "RugRectKitchenS02",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "kitchen"
+        ]
+      }
+    ],
+    "id": 11
+  },
+  {
+    "name": "blue medium round mat",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Shaggy Round Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleM02.png",
+        "filename": "RugRoundSimpleM02",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "living room",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 12
+  },
+  {
+    "name": "blue message mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Message Mats",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherMessageS01.png",
+        "filename": "RugOtherMessageS01",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "child's room"
+        ]
+      }
+    ],
+    "id": 13
+  },
+  {
+    "name": "blue Persian rug",
+    "diy": false,
+    "size": "5x5",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquarePersianL01.png",
+        "filename": "RugSquarePersianL01",
+        "colors": [
+          "Blue",
+          "Beige"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "expensive",
+          "living room"
+        ]
+      }
+    ],
+    "id": 14
+  },
+  {
+    "name": "blue shaggy rug",
+    "diy": false,
+    "size": "5x5",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareShaggyL02.png",
+        "filename": "RugSquareShaggyL02",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room"
+        ]
+      }
+    ],
+    "id": 15
+  },
+  {
+    "name": "blue small round mat",
+    "diy": false,
+    "size": "2x2",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Shaggy Round Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleS02.png",
+        "filename": "RugRoundSimpleS02",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "living room",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 16
+  },
+  {
+    "name": "blue stripes rug",
+    "diy": false,
+    "size": "4x3",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectBorderL02.png",
+        "filename": "RugRectBorderL02",
+        "colors": [
+          "Blue",
+          "White"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 17
+  },
+  {
+    "name": "blue vinyl sheet",
+    "diy": false,
+    "size": "3x2",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectVinylM01.png",
+        "filename": "RugRectVinylM01",
+        "colors": [
+          "Blue",
+          "Colorful"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "garden"
+        ]
+      }
+    ],
+    "id": 18
+  },
+  {
+    "name": "blue wavy rug",
+    "diy": false,
+    "size": "4x3",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectWaveL02.png",
+        "filename": "RugRectWaveL02",
+        "colors": [
+          "Blue",
+          "Light blue"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 19
+  },
+  {
+    "name": "blue wedding rug",
+    "diy": false,
+    "size": "3x2",
+    "size_category": "Medium",
+    "miles_price": null,
+    "source_notes": "Only available during Wedding Season",
+    "hha_base_points": 437,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "Not for sale",
+    "series": "wedding",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectJuneBrideM00.png",
+        "filename": "RugRectJuneBrideM00",
+        "colors": [],
+        "source": [
+          "Cyrus"
+        ],
+        "buy": -1,
+        "sell": 375,
+        "themes": [
+          "party",
+          "expensive"
+        ]
+      }
+    ],
+    "id": 20
+  },
+  {
+    "name": "blue-design kitchen mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Kitchen Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectNativeKitchenS01.png",
+        "filename": "RugRectNativeKitchenS01",
+        "colors": [
+          "Blue",
+          "Black"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "kitchen"
+        ]
+      }
+    ],
+    "id": 21
+  },
+  {
+    "name": "botanical rug",
+    "diy": false,
+    "size": "4x3",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectBotanicalL00.png",
+        "filename": "RugRectBotanicalL00",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room"
+        ]
+      }
+    ],
+    "id": 22
+  },
+  {
+    "name": "brown argyle rug",
+    "diy": false,
+    "size": "4x3",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectArgyleL03.png",
+        "filename": "RugRectArgyleL03",
+        "colors": [
+          "Brown",
+          "Yellow"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room",
+          "expensive"
+        ]
+      }
+    ],
+    "id": 23
+  },
+  {
+    "name": "brown kitchen mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Kitchen Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectKitchenS00.png",
+        "filename": "RugRectKitchenS00",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "kitchen"
+        ]
+      }
+    ],
+    "id": 24
+  },
+  {
+    "name": "brown shaggy rug",
+    "diy": false,
+    "size": "5x5",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareShaggyL01.png",
+        "filename": "RugSquareShaggyL01",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room"
+        ]
+      }
+    ],
+    "id": 25
+  },
+  {
+    "name": "brown wooden-deck rug",
+    "diy": false,
+    "size": "3x2",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Wood Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectDeckM00.png",
+        "filename": "RugRectDeckM00",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "outdoors"
+        ]
+      }
+    ],
+    "id": 26
+  },
+  {
+    "name": "Bunny Day rug",
+    "diy": true,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 351,
+    "tag": "Icon Rugs",
+    "catalog": "Not for sale",
+    "series": "Bunny Day",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherEasterM00.png",
+        "filename": "RugOtherEasterM00",
+        "colors": [],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 2400,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 27
+  },
+  {
+    "name": "cherry rug",
+    "diy": true,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 103,
+    "tag": "Fruit Rugs",
+    "catalog": "Not for sale",
+    "series": "fruits",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherCherryM00.png",
+        "filename": "RugOtherCherryM00",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 1200,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 28
+  },
+  {
+    "name": "colorful vinyl sheet",
+    "diy": false,
+    "size": "3x2",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectVinylM00.png",
+        "filename": "RugRectVinylM00",
+        "colors": [
+          "Colorful",
+          "Colorful"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "garden"
+        ]
+      }
+    ],
+    "id": 29
+  },
+  {
+    "name": "dark bamboo rug",
+    "diy": true,
+    "size": "3x2",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 103,
+    "tag": "Wood Rugs",
+    "catalog": "Not for sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectBambooM01.png",
+        "filename": "RugRectBambooM01",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 960,
+        "themes": [
+          "zen-style"
+        ]
+      }
+    ],
+    "id": 30
+  },
+  {
+    "name": "Earth rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Icon Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRoundEarthM00.png",
+        "filename": "RugRoundEarthM00",
+        "colors": [
+          "Blue",
+          "White"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "space",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 31
+  },
+  {
+    "name": "fish rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 501,
+    "tag": "Icon Rugs",
+    "catalog": "Not for sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherFishM00.png",
+        "filename": "RugOtherFishM00",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Fishing Tourney"
+        ],
+        "buy": -1,
+        "sell": 375,
+        "themes": [
+          "ocean",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 32
+  },
+  {
+    "name": "fluffy rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Icon Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherCloudM00.png",
+        "filename": "RugOtherCloudM00",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 33
+  },
+  {
+    "name": "fossil rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Park Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherFossilM00.png",
+        "filename": "RugOtherFossilM00",
+        "colors": [
+          "Purple",
+          "White"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 34
+  },
+  {
+    "name": "green checked rug",
+    "diy": false,
+    "size": "4x4",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareCheckQuiltL03.png",
+        "filename": "RugSquareCheckQuiltL03",
+        "colors": [
+          "Green",
+          "Purple"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 35
+  },
+  {
+    "name": "green kilim-style carpet",
+    "diy": false,
+    "size": "5x5",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareKirimL02.png",
+        "filename": "RugSquareKirimL02",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room"
+        ]
+      }
+    ],
+    "id": 36
+  },
+  {
+    "name": "green kitchen mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Kitchen Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectKitchenS03.png",
+        "filename": "RugRectKitchenS03",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "kitchen"
+        ]
+      }
+    ],
+    "id": 37
+  },
+  {
+    "name": "green shaggy rug",
+    "diy": false,
+    "size": "5x5",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareShaggyL00.png",
+        "filename": "RugSquareShaggyL00",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room"
+        ]
+      }
+    ],
+    "id": 38
+  },
+  {
+    "name": "green stripes rug",
+    "diy": false,
+    "size": "4x3",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectBorderL03.png",
+        "filename": "RugRectBorderL03",
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 39
+  },
+  {
+    "name": "iron entrance mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Rugs",
+    "catalog": "For sale",
+    "series": "iron",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectIronmatS00.png",
+        "filename": "RugRectIronmatS00",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "shop",
+          "expensive"
+        ]
+      }
+    ],
+    "id": 40
+  },
+  {
+    "name": "ivory medium round mat",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Shaggy Round Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleM00.png",
+        "filename": "RugRoundSimpleM00",
+        "colors": [
+          "Beige",
+          "White"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "living room",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 41
+  },
+  {
+    "name": "ivory simple bath mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectBathmatS00.png",
+        "filename": "RugRectBathmatS00",
+        "colors": [
+          "Beige",
+          "Beige"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "bathroom"
+        ]
+      }
+    ],
+    "id": 42
+  },
+  {
+    "name": "ivory small round mat",
+    "diy": false,
+    "size": "2x2",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Shaggy Round Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleS00.png",
+        "filename": "RugRoundSimpleS00",
+        "colors": [
+          "Beige",
+          "White"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "living room",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 43
+  },
+  {
+    "name": "lacy rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Shaggy Round Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRoundLaceM00.png",
+        "filename": "RugRoundLaceM00",
+        "colors": [
+          "Beige",
+          "White"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "fancy",
+          "expensive"
+        ]
+      }
+    ],
+    "id": 44
+  },
+  {
+    "name": "ladybug rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 501,
+    "tag": "Icon Rugs",
+    "catalog": "Not for sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRoundLadybirdM00.png",
+        "filename": "RugRoundLadybirdM00",
+        "colors": [
+          "Red",
+          "Black"
+        ],
+        "source": [
+          "Bug-Off"
+        ],
+        "buy": -1,
+        "sell": 375,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 45
+  },
+  {
+    "name": "light bamboo rug",
+    "diy": true,
+    "size": "3x2",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 201,
+    "tag": "Wood Rugs",
+    "catalog": "Not for sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectBambooM00.png",
+        "filename": "RugRectBambooM00",
+        "colors": [
+          "Beige",
+          "Brown"
+        ],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 2400,
+        "themes": [
+          "zen-style"
+        ]
+      }
+    ],
+    "id": 46
+  },
+  {
+    "name": "magic-circle rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Shaggy Round Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRoundMagicM00.png",
+        "filename": "RugRoundMagicM00",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "horror",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 47
+  },
+  {
+    "name": "mermaid rug",
+    "diy": true,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 451,
+    "tag": "Icon Rugs",
+    "catalog": "Not for sale",
+    "series": "mermaid",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherMermaidM00.png",
+        "filename": "RugOtherMermaidM00",
+        "colors": [
+          "Light blue",
+          "Pink"
+        ],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 10360,
+        "themes": [
+          "ocean",
+          "fancy"
+        ]
+      }
+    ],
+    "id": 48
+  },
+  {
+    "name": "modern wavy rug",
+    "diy": false,
+    "size": "4x3",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectWaveL00.png",
+        "filename": "RugRectWaveL00",
+        "colors": [
+          "Colorful",
+          "Colorful"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 49
+  },
+  {
+    "name": "Mom's cool kitchen mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "source_notes": "Received in November in the Northern Hemisphere and received in May in the Southern Hemisphere",
+    "hha_base_points": 365,
+    "tag": "Kitchen Rugs",
+    "catalog": "Not for sale",
+    "series": "motherly",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectMomS00.png",
+        "filename": "RugRectMomS00",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Mom"
+        ],
+        "buy": -1,
+        "sell": 88,
+        "themes": [
+          "fancy",
+          "kitchen"
+        ]
+      }
+    ],
+    "id": 50
+  },
+  {
+    "name": "Mom's lively kitchen mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "source_notes": "Received in November in the Northern Hemisphere and received in May in the Southern Hemisphere",
+    "hha_base_points": 365,
+    "tag": "Kitchen Rugs",
+    "catalog": "Not for sale",
+    "series": "motherly",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectMomS02.png",
+        "filename": "RugRectMomS02",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Mom"
+        ],
+        "buy": -1,
+        "sell": 88,
+        "themes": [
+          "fancy",
+          "kitchen"
+        ]
+      }
+    ],
+    "id": 51
+  },
+  {
+    "name": "Mom's playful kitchen mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "source_notes": "Received in November in the Northern Hemisphere and received in May in the Southern Hemisphere",
+    "hha_base_points": 365,
+    "tag": "Kitchen Rugs",
+    "catalog": "Not for sale",
+    "series": "motherly",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectMomS01.png",
+        "filename": "RugRectMomS01",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Mom"
+        ],
+        "buy": -1,
+        "sell": 88,
+        "themes": [
+          "fancy",
+          "kitchen"
+        ]
+      }
+    ],
+    "id": 52
+  },
+  {
+    "name": "Mom's reliable kitchen mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "source_notes": "Received in November in the Northern Hemisphere and received in May in the Southern Hemisphere",
+    "hha_base_points": 365,
+    "tag": "Kitchen Rugs",
+    "catalog": "Not for sale",
+    "series": "motherly",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectMomS03.png",
+        "filename": "RugRectMomS03",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Mom"
+        ],
+        "buy": -1,
+        "sell": 88,
+        "themes": [
+          "fancy",
+          "kitchen"
+        ]
+      }
+    ],
+    "id": 53
+  },
+  {
+    "name": "monochromatic dotted rug",
+    "diy": false,
+    "size": "4x3",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectDotL00.png",
+        "filename": "RugRectDotL00",
+        "colors": [
+          "Black",
+          "White"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 54
+  },
+  {
+    "name": "monochromatic wavy rug",
+    "diy": false,
+    "size": "4x3",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectWaveL01.png",
+        "filename": "RugRectWaveL01",
+        "colors": [
+          "Black",
+          "White"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 55
+  },
+  {
+    "name": "moon rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "source_notes": "Only available during the month Moon-Viewing Day occurs",
+    "hha_base_points": 201,
+    "tag": "Shaggy Round Rugs",
+    "catalog": "Not in catalog",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRoundMoonM00.png",
+        "filename": "RugRoundMoonM00",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Nook Shopping Seasonal"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "space",
+          "zen-style"
+        ]
+      }
+    ],
+    "id": 56
+  },
+  {
+    "name": "mush rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Icon Rugs",
+    "catalog": "For sale",
+    "series": "mush",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherMushM00.png",
+        "filename": "RugOtherMushM00",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 57
+  },
+  {
+    "name": "natural wooden-deck rug",
+    "diy": false,
+    "size": "3x2",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Wood Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectDeckM01.png",
+        "filename": "RugRectDeckM01",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "outdoors"
+        ]
+      }
+    ],
+    "id": 58
+  },
+  {
+    "name": "Nook Inc. botanical rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": 1000,
+    "hha_base_points": 151,
+    "tag": "Park Rugs",
+    "catalog": "Not for sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherTanukiM00.png",
+        "filename": "RugOtherTanukiM00",
+        "colors": [],
+        "source": [
+          "Nook Miles Shop"
+        ],
+        "buy": -1,
+        "sell": 5000,
+        "themes": [
+          "fancy",
+          "living room"
+        ]
+      }
+    ],
+    "id": 59
+  },
+  {
+    "name": "Nook Inc. rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": 1000,
+    "hha_base_points": 151,
+    "tag": "Park Rugs",
+    "catalog": "Not for sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherLeafM00.png",
+        "filename": "RugOtherLeafM00",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Nook Miles Shop"
+        ],
+        "buy": -1,
+        "sell": 5000,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 60
+  },
+  {
+    "name": "Nook Inc. silk rug",
+    "diy": false,
+    "size": "4x3",
+    "size_category": "Large",
+    "miles_price": 600,
+    "hha_base_points": 0,
+    "tag": "Park Rugs",
+    "catalog": "Not for sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectTanukiL00.png",
+        "filename": "RugRectTanukiL00",
+        "colors": [],
+        "source": [
+          "Nook Miles Shop"
+        ],
+        "buy": -1,
+        "sell": 3000,
+        "themes": [
+          "facility",
+          "shop"
+        ]
+      }
+    ],
+    "id": 61
+  },
+  {
+    "name": "orange rug",
+    "diy": true,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 103,
+    "tag": "Fruit Rugs",
+    "catalog": "Not for sale",
+    "series": "fruits",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherOrangeM00.png",
+        "filename": "RugOtherOrangeM00",
+        "colors": [
+          "Orange",
+          "Orange"
+        ],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 1200,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 62
+  },
+  {
+    "name": "oval entrance mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherCountryS00.png",
+        "filename": "RugOtherCountryS00",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "living room"
+        ]
+      }
+    ],
+    "id": 63
+  },
+  {
+    "name": "peach checked rug",
+    "diy": false,
+    "size": "4x4",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareCheckQuiltL02.png",
+        "filename": "RugSquareCheckQuiltL02",
+        "colors": [
+          "Pink",
+          "Light blue"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 64
+  },
+  {
+    "name": "peach rug",
+    "diy": true,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 103,
+    "tag": "Fruit Rugs",
+    "catalog": "Not for sale",
+    "series": "fruits",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherPeachM00.png",
+        "filename": "RugOtherPeachM00",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 1200,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 65
+  },
+  {
+    "name": "peach stripes rug",
+    "diy": false,
+    "size": "4x3",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectBorderL01.png",
+        "filename": "RugRectBorderL01",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 66
+  },
+  {
+    "name": "pear rug",
+    "diy": true,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 103,
+    "tag": "Fruit Rugs",
+    "catalog": "Not for sale",
+    "series": "fruits",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherPearM00.png",
+        "filename": "RugOtherPearM00",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 1200,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 67
+  },
+  {
+    "name": "pink heart rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Heart Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherHeartM00.png",
+        "filename": "RugOtherHeartM00",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 68
+  },
+  {
+    "name": "pink rose rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Rose Rug",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherRoseM00.png",
+        "filename": "RugOtherRoseM00",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "fancy",
+          "expensive"
+        ]
+      }
+    ],
+    "id": 69
+  },
+  {
+    "name": "pirate rug",
+    "diy": false,
+    "size": "3x2",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 451,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "Not for sale",
+    "series": "pirate",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectPiratesM00.png",
+        "filename": "RugRectPiratesM00",
+        "colors": [
+          "Blue",
+          "Brown"
+        ],
+        "source": [
+          "Gullivarrr"
+        ],
+        "buy": -1,
+        "sell": 375,
+        "themes": [
+          "ocean",
+          "none"
+        ]
+      }
+    ],
+    "id": 70
+  },
+  {
+    "name": "purple heart rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Heart Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherHeartM02.png",
+        "filename": "RugOtherHeartM02",
+        "colors": [
+          "Purple",
+          "Pink"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 71
+  },
+  {
+    "name": "purple Persian rug",
+    "diy": false,
+    "size": "5x5",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquarePersianL03.png",
+        "filename": "RugSquarePersianL03",
+        "colors": [
+          "Purple",
+          "Beige"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "expensive",
+          "living room"
+        ]
+      }
+    ],
+    "id": 72
+  },
+  {
+    "name": "purple shaggy rug",
+    "diy": false,
+    "size": "5x5",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareShaggyL03.png",
+        "filename": "RugSquareShaggyL03",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room"
+        ]
+      }
+    ],
+    "id": 73
+  },
+  {
+    "name": "red argyle rug",
+    "diy": false,
+    "size": "4x3",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectArgyleL01.png",
+        "filename": "RugRectArgyleL01",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room",
+          "expensive"
+        ]
+      }
+    ],
+    "id": 74
+  },
+  {
+    "name": "red blocks rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareBlockM00.png",
+        "filename": "RugSquareBlockM00",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "living room"
+        ]
+      }
+    ],
+    "id": 75
+  },
+  {
+    "name": "red carpet",
+    "diy": false,
+    "size": "3x2",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectElegantM00.png",
+        "filename": "RugRectElegantM00",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "expensive"
+        ]
+      }
+    ],
+    "id": 76
+  },
+  {
+    "name": "red dotted rug",
+    "diy": false,
+    "size": "4x3",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectDotL02.png",
+        "filename": "RugRectDotL02",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 77
+  },
+  {
+    "name": "red kilim-style carpet",
+    "diy": false,
+    "size": "5x5",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareKirimL00.png",
+        "filename": "RugSquareKirimL00",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room"
+        ]
+      }
+    ],
+    "id": 78
+  },
+  {
+    "name": "red medium round mat",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Shaggy Round Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleM01.png",
+        "filename": "RugRoundSimpleM01",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "living room",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 79
+  },
+  {
+    "name": "red message mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Message Mats",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherMessageS03.png",
+        "filename": "RugOtherMessageS03",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "child's room"
+        ]
+      }
+    ],
+    "id": 80
+  },
+  {
+    "name": "red Persian rug",
+    "diy": false,
+    "size": "5x5",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquarePersianL00.png",
+        "filename": "RugSquarePersianL00",
+        "colors": [
+          "Red",
+          "Beige"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "expensive",
+          "living room"
+        ]
+      }
+    ],
+    "id": 81
+  },
+  {
+    "name": "red rose rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Rose Rug",
+    "catalog": "For sale",
+    "series": "flowers",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherRoseM01.png",
+        "filename": "RugOtherRoseM01",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "fancy",
+          "expensive"
+        ]
+      }
+    ],
+    "id": 82
+  },
+  {
+    "name": "red small round mat",
+    "diy": false,
+    "size": "2x2",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Shaggy Round Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleS01.png",
+        "filename": "RugRoundSimpleS01",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "living room",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 83
+  },
+  {
+    "name": "red vinyl sheet",
+    "diy": false,
+    "size": "3x2",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectVinylM02.png",
+        "filename": "RugRectVinylM02",
+        "colors": [
+          "Red",
+          "Colorful"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "garden"
+        ]
+      }
+    ],
+    "id": 84
+  },
+  {
+    "name": "red wavy rug",
+    "diy": false,
+    "size": "4x3",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectWaveL03.png",
+        "filename": "RugRectWaveL03",
+        "colors": [
+          "Red",
+          "Yellow"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 85
+  },
+  {
+    "name": "red wedding rug",
+    "diy": false,
+    "size": "3x2",
+    "size_category": "Medium",
+    "miles_price": null,
+    "source_notes": "Only available during Wedding Season",
+    "hha_base_points": 437,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "Not for sale",
+    "series": "wedding",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectJuneBrideM02.png",
+        "filename": "RugRectJuneBrideM02",
+        "colors": [],
+        "source": [
+          "Cyrus"
+        ],
+        "buy": -1,
+        "sell": 375,
+        "themes": [
+          "party",
+          "expensive"
+        ]
+      }
+    ],
+    "id": 86
+  },
+  {
+    "name": "red-and-blue checked rug",
+    "diy": false,
+    "size": "4x4",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareCheckQuiltL00.png",
+        "filename": "RugSquareCheckQuiltL00",
+        "colors": [
+          "Red",
+          "Blue"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 87
+  },
+  {
+    "name": "red-design kitchen mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Kitchen Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectNativeKitchenS00.png",
+        "filename": "RugRectNativeKitchenS00",
+        "colors": [
+          "Red",
+          "Black"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "kitchen"
+        ]
+      }
+    ],
+    "id": 88
+  },
+  {
+    "name": "retro dotted rug",
+    "diy": false,
+    "size": "4x3",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectDotL01.png",
+        "filename": "RugRectDotL01",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 89
+  },
+  {
+    "name": "rough rug",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectDoormatS00.png",
+        "filename": "RugRectDoormatS00",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "school",
+          "facility"
+        ]
+      }
+    ],
+    "id": 90
+  },
+  {
+    "name": "rubber mud mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectRubberScraperS00.png",
+        "filename": "RugRectRubberScraperS00",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "school"
+        ]
+      }
+    ],
+    "id": 91
+  },
+  {
+    "name": "shanty mat",
+    "diy": false,
+    "size": "4x4",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Simple Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareOldStrawL00.png",
+        "filename": "RugSquareOldStrawL00",
+        "colors": [
+          "Brown",
+          "Beige"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "zen-style"
+        ]
+      }
+    ],
+    "id": 92
+  },
+  {
+    "name": "shell rug",
+    "diy": true,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 103,
+    "tag": "Park Rugs",
+    "catalog": "Not for sale",
+    "series": "shell",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherShellM00.png",
+        "filename": "RugOtherShellM00",
+        "colors": [
+          "Beige",
+          "Pink"
+        ],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 5400,
+        "themes": [
+          "ocean",
+          "fancy"
+        ]
+      }
+    ],
+    "id": 93
+  },
+  {
+    "name": "simple green bath mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectBathmatS03.png",
+        "filename": "RugRectBathmatS03",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "bathroom"
+        ]
+      }
+    ],
+    "id": 94
+  },
+  {
+    "name": "simple medium avocado mat",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Simple Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM03.png",
+        "filename": "RugSquareSimpleM03",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "living room",
+          "facility"
+        ]
+      }
+    ],
+    "id": 95
+  },
+  {
+    "name": "simple medium black mat",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Simple Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM07.png",
+        "filename": "RugSquareSimpleM07",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "living room",
+          "facility"
+        ]
+      }
+    ],
+    "id": 96
+  },
+  {
+    "name": "simple medium blue mat",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Simple Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM02.png",
+        "filename": "RugSquareSimpleM02",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "living room",
+          "facility"
+        ]
+      }
+    ],
+    "id": 97
+  },
+  {
+    "name": "simple medium brown mat",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Simple Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM01.png",
+        "filename": "RugSquareSimpleM01",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "living room",
+          "facility"
+        ]
+      }
+    ],
+    "id": 98
+  },
+  {
+    "name": "simple medium orange mat",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Simple Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM05.png",
+        "filename": "RugSquareSimpleM05",
+        "colors": [
+          "Orange",
+          "Orange"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "living room",
+          "facility"
+        ]
+      }
+    ],
+    "id": 99
+  },
+  {
+    "name": "simple medium purple mat",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Simple Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM06.png",
+        "filename": "RugSquareSimpleM06",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "living room",
+          "facility"
+        ]
+      }
+    ],
+    "id": 100
+  },
+  {
+    "name": "simple medium red mat",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Simple Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM04.png",
+        "filename": "RugSquareSimpleM04",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "living room",
+          "facility"
+        ]
+      }
+    ],
+    "id": 101
+  },
+  {
+    "name": "simple navy bath mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectBathmatS01.png",
+        "filename": "RugRectBathmatS01",
+        "colors": [
+          "Gray",
+          "Gray"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "bathroom"
+        ]
+      }
+    ],
+    "id": 102
+  },
+  {
+    "name": "simple pink bath mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectBathmatS02.png",
+        "filename": "RugRectBathmatS02",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "bathroom"
+        ]
+      }
+    ],
+    "id": 103
+  },
+  {
+    "name": "simple small avocado mat",
+    "diy": false,
+    "size": "2x2",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Simple Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS03.png",
+        "filename": "RugSquareSimpleS03",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "living room",
+          "facility"
+        ]
+      }
+    ],
+    "id": 104
+  },
+  {
+    "name": "simple small black mat",
+    "diy": false,
+    "size": "2x2",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Simple Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS07.png",
+        "filename": "RugSquareSimpleS07",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "living room",
+          "facility"
+        ]
+      }
+    ],
+    "id": 105
+  },
+  {
+    "name": "simple small blue mat",
+    "diy": false,
+    "size": "2x2",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Simple Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS02.png",
+        "filename": "RugSquareSimpleS02",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "living room",
+          "facility"
+        ]
+      }
+    ],
+    "id": 106
+  },
+  {
+    "name": "simple small brown mat",
+    "diy": false,
+    "size": "2x2",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Simple Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS01.png",
+        "filename": "RugSquareSimpleS01",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "living room",
+          "facility"
+        ]
+      }
+    ],
+    "id": 107
+  },
+  {
+    "name": "simple small orange mat",
+    "diy": false,
+    "size": "2x2",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Simple Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS05.png",
+        "filename": "RugSquareSimpleS05",
+        "colors": [
+          "Orange",
+          "Orange"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "living room",
+          "facility"
+        ]
+      }
+    ],
+    "id": 108
+  },
+  {
+    "name": "simple small purple mat",
+    "diy": false,
+    "size": "2x2",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Simple Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS06.png",
+        "filename": "RugSquareSimpleS06",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "living room",
+          "facility"
+        ]
+      }
+    ],
+    "id": 109
+  },
+  {
+    "name": "simple small red mat",
+    "diy": false,
+    "size": "2x2",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Simple Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS04.png",
+        "filename": "RugSquareSimpleS04",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "living room",
+          "facility"
+        ]
+      }
+    ],
+    "id": 110
+  },
+  {
+    "name": "sloppy rug",
+    "diy": false,
+    "size": "4x4",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Simple Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherSloppyL00.png",
+        "filename": "RugOtherSloppyL00",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 111
+  },
+  {
+    "name": "snowflake rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Shaggy Round Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRoundSnowM00.png",
+        "filename": "RugRoundSnowM00",
+        "colors": [
+          "Light blue",
+          "White"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "freezing cold",
+          "fancy"
+        ]
+      }
+    ],
+    "id": 112
+  },
+  {
+    "name": "tatami mat",
+    "diy": false,
+    "size": "3x2",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Wood Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectTatamiM00.png",
+        "filename": "RugRectTatamiM00",
+        "colors": [
+          "Green",
+          "Yellow"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "zen-style"
+        ]
+      }
+    ],
+    "id": 113
+  },
+  {
+    "name": "tropical rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Park Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRoundIslandM00.png",
+        "filename": "RugRoundIslandM00",
+        "colors": [
+          "Green",
+          "Beige"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "ocean"
+        ]
+      }
+    ],
+    "id": 114
+  },
+  {
+    "name": "turquoise heart rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Heart Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherHeartM01.png",
+        "filename": "RugOtherHeartM01",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 115
+  },
+  {
+    "name": "white heart rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Heart Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherHeartM03.png",
+        "filename": "RugOtherHeartM03",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 116
+  },
+  {
+    "name": "white message mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Message Mats",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherMessageS00.png",
+        "filename": "RugOtherMessageS00",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "child's room"
+        ]
+      }
+    ],
+    "id": 117
+  },
+  {
+    "name": "white rose rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Rose Rug",
+    "catalog": "For sale",
+    "series": "flowers",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherRoseM03.png",
+        "filename": "RugOtherRoseM03",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "fancy",
+          "expensive"
+        ]
+      }
+    ],
+    "id": 118
+  },
+  {
+    "name": "white simple medium mat",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Simple Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM00.png",
+        "filename": "RugSquareSimpleM00",
+        "colors": [
+          "Beige",
+          "White"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "living room",
+          "facility"
+        ]
+      }
+    ],
+    "id": 119
+  },
+  {
+    "name": "white simple small mat",
+    "diy": false,
+    "size": "2x2",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Simple Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS00.png",
+        "filename": "RugSquareSimpleS00",
+        "colors": [
+          "Beige",
+          "White"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "living room",
+          "facility"
+        ]
+      }
+    ],
+    "id": 120
+  },
+  {
+    "name": "white wedding rug",
+    "diy": false,
+    "size": "3x2",
+    "size_category": "Medium",
+    "miles_price": null,
+    "source_notes": "Only available during Wedding Season",
+    "hha_base_points": 437,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "Not for sale",
+    "series": "wedding",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectJuneBrideM03.png",
+        "filename": "RugRectJuneBrideM03",
+        "colors": [],
+        "source": [
+          "Cyrus"
+        ],
+        "buy": -1,
+        "sell": 375,
+        "themes": [
+          "party",
+          "expensive"
+        ]
+      }
+    ],
+    "id": 121
+  },
+  {
+    "name": "white wooden-deck rug",
+    "diy": false,
+    "size": "3x2",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Wood Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectDeckM02.png",
+        "filename": "RugRectDeckM02",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "outdoors"
+        ]
+      }
+    ],
+    "id": 122
+  },
+  {
+    "name": "yellow argyle rug",
+    "diy": false,
+    "size": "4x3",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectArgyleL00.png",
+        "filename": "RugRectArgyleL00",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room",
+          "fancy"
+        ]
+      }
+    ],
+    "id": 123
+  },
+  {
+    "name": "yellow blocks rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareBlockM02.png",
+        "filename": "RugSquareBlockM02",
+        "colors": [
+          "Yellow",
+          "Brown"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "living room"
+        ]
+      }
+    ],
+    "id": 124
+  },
+  {
+    "name": "yellow checked rug",
+    "diy": false,
+    "size": "4x4",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareCheckQuiltL01.png",
+        "filename": "RugSquareCheckQuiltL01",
+        "colors": [
+          "Yellow",
+          "Green"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 125
+  },
+  {
+    "name": "yellow kilim-style carpet",
+    "diy": false,
+    "size": "5x5",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquareKirimL03.png",
+        "filename": "RugSquareKirimL03",
+        "colors": [
+          "Yellow",
+          "Beige"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "living room"
+        ]
+      }
+    ],
+    "id": 126
+  },
+  {
+    "name": "yellow kitchen mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Kitchen Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectKitchenS01.png",
+        "filename": "RugRectKitchenS01",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "kitchen"
+        ]
+      }
+    ],
+    "id": 127
+  },
+  {
+    "name": "yellow medium round mat",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Shaggy Round Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleM03.png",
+        "filename": "RugRoundSimpleM03",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "living room",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 128
+  },
+  {
+    "name": "yellow message mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Message Mats",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherMessageS02.png",
+        "filename": "RugOtherMessageS02",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "child's room"
+        ]
+      }
+    ],
+    "id": 129
+  },
+  {
+    "name": "yellow Persian rug",
+    "diy": false,
+    "size": "5x5",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugSquarePersianL02.png",
+        "filename": "RugSquarePersianL02",
+        "colors": [
+          "Yellow",
+          "Beige"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "expensive",
+          "living room"
+        ]
+      }
+    ],
+    "id": 130
+  },
+  {
+    "name": "yellow rose rug",
+    "diy": false,
+    "size": "3x3",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Rose Rug",
+    "catalog": "For sale",
+    "series": "flowers",
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugOtherRoseM02.png",
+        "filename": "RugOtherRoseM02",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "fancy",
+          "expensive"
+        ]
+      }
+    ],
+    "id": 131
+  },
+  {
+    "name": "yellow small round mat",
+    "diy": false,
+    "size": "2x2",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Shaggy Round Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleS03.png",
+        "filename": "RugRoundSimpleS03",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "living room",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 132
+  },
+  {
+    "name": "yellow stripes rug",
+    "diy": false,
+    "size": "4x3",
+    "size_category": "Large",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectBorderL00.png",
+        "filename": "RugRectBorderL00",
+        "colors": [
+          "Yellow",
+          "White"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 2000,
+        "sell": 500,
+        "themes": [
+          "fancy",
+          "child's room"
+        ]
+      }
+    ],
+    "id": 133
+  },
+  {
+    "name": "yellow vinyl sheet",
+    "diy": false,
+    "size": "3x2",
+    "size_category": "Medium",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Slender Pattern Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectVinylM03.png",
+        "filename": "RugRectVinylM03",
+        "colors": [
+          "Yellow",
+          "Colorful"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": [
+          "garden"
+        ]
+      }
+    ],
+    "id": 134
+  },
+  {
+    "name": "yellow-design kitchen mat",
+    "diy": false,
+    "size": "2x1",
+    "size_category": "Small",
+    "miles_price": null,
+    "hha_base_points": 253,
+    "tag": "Kitchen Rugs",
+    "catalog": "For sale",
+    "series": null,
+    "variants": [
+      {
+        "image": "https://acnhcdn.com/latest/FtrIcon/RugRectNativeKitchenS02.png",
+        "filename": "RugRectNativeKitchenS02",
+        "colors": [
+          "Yellow",
+          "Black"
+        ],
+        "source": [
+          "Saharah"
+        ],
+        "buy": 1000,
+        "sell": 250,
+        "themes": [
+          "kitchen"
+        ]
+      }
+    ],
+    "id": 135
+  }
+]

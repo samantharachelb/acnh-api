@@ -11,7 +11,8 @@
         "@apiEndpoints": "./src/api/routes/resources",
         "@apiData": "./src/api/data",
         "@utils": "./src/utils",
-        "@test": "./test"
+        "@test": "./test",
+        "@tools": "./tools"
       }
     }]
   ]

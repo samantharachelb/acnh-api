@@ -1,0 +1,8142 @@
+[
+  {
+    "name": "antique boots",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeAntique1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneeAntique1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 776,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "ShoesKneeAntique1",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 2640,
+        "sell": 660,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "ShoesKneeAntique0",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 2640,
+        "sell": 660,
+        "themes": []
+      },
+      {
+        "variation": "Greige",
+        "filename": "ShoesKneeAntique2",
+        "colors": [
+          "Beige",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 2640,
+        "sell": 660,
+        "themes": []
+      }
+    ],
+    "id": 1
+  },
+  {
+    "name": "armor shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeKnightIron.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneeKnightIron.png",
+    "diy": true,
+    "hha_base_points": 103,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cool",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "Not for sale",
+    "cloth_group_id": 763,
+    "variants": [
+      {
+        "variation": null,
+        "filename": "ShoesKneeKnightIron",
+        "colors": [
+          "Gray",
+          "Gray"
+        ],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 3000,
+        "themes": []
+      }
+    ],
+    "id": 2
+  },
+  {
+    "name": "babouches",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalBaboush4.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesSandalBaboush4.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 925,
+    "variants": [
+      {
+        "variation": "Gray",
+        "filename": "ShoesSandalBaboush4",
+        "colors": [
+          "Gray",
+          "Yellow"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesSandalBaboush7",
+        "colors": [
+          "Red",
+          "Yellow"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesSandalBaboush2",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "ShoesSandalBaboush1",
+        "colors": [
+          "Orange",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesSandalBaboush3",
+        "colors": [
+          "Yellow",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Mint",
+        "filename": "ShoesSandalBaboush6",
+        "colors": [
+          "Green",
+          "Yellow"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesSandalBaboush0",
+        "colors": [
+          "Light blue",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesSandalBaboush5",
+        "colors": [
+          "Purple",
+          "Yellow"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      }
+    ],
+    "id": 3
+  },
+  {
+    "name": "ballet slippers",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutBallet4.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutBallet4.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 791,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "ShoesLowcutBallet4",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2200,
+        "sell": 550,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesLowcutBallet0",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2200,
+        "sell": 550,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesLowcutBallet7",
+        "colors": [
+          "Orange",
+          "Orange"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2200,
+        "sell": 550,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesLowcutBallet6",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2200,
+        "sell": 550,
+        "themes": []
+      },
+      {
+        "variation": "Mint",
+        "filename": "ShoesLowcutBallet1",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2200,
+        "sell": 550,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesLowcutBallet2",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2200,
+        "sell": 550,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesLowcutBallet3",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2200,
+        "sell": 550,
+        "themes": []
+      },
+      {
+        "variation": "White",
+        "filename": "ShoesLowcutBallet5",
+        "colors": [
+          "Beige",
+          "Beige"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2200,
+        "sell": 550,
+        "themes": []
+      }
+    ],
+    "id": 4
+  },
+  {
+    "name": "basketball shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutBasket0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesHighcutBasket0.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 800,
+    "variants": [
+      {
+        "variation": "Red",
+        "filename": "ShoesHighcutBasket0",
+        "colors": [
+          "Red",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesHighcutBasket7",
+        "colors": [
+          "Pink",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "ShoesHighcutBasket3",
+        "colors": [
+          "Yellow",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesHighcutBasket1",
+        "colors": [
+          "Green",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "ShoesHighcutBasket6",
+        "colors": [
+          "Light blue",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesHighcutBasket4",
+        "colors": [
+          "Blue",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesHighcutBasket5",
+        "colors": [
+          "Purple",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "ShoesHighcutBasket2",
+        "colors": [
+          "Beige",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      }
+    ],
+    "id": 5
+  },
+  {
+    "name": "beaded sandals",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalBeads3.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesSandalBeads3.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "Summer",
+    "mannequin_piece": false,
+    "style": "Gorgeous",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 769,
+    "variants": [
+      {
+        "variation": "Red",
+        "filename": "ShoesSandalBeads3",
+        "colors": [
+          "Red",
+          "Colorful"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "ShoesSandalBeads0",
+        "colors": [
+          "Orange",
+          "Colorful"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesSandalBeads2",
+        "colors": [
+          "Yellow",
+          "Colorful"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesSandalBeads4",
+        "colors": [
+          "Green",
+          "Colorful"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesSandalBeads1",
+        "colors": [
+          "Purple",
+          "Colorful"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "ShoesSandalBeads5",
+        "colors": [
+          "Beige",
+          "Colorful"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      }
+    ],
+    "id": 6
+  },
+  {
+    "name": "boots",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeRubberboots1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneeRubberboots1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 772,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "ShoesKneeRubberboots1",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesKneeRubberboots3",
+        "colors": [
+          "Red",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Olive",
+        "filename": "ShoesKneeRubberboots4",
+        "colors": [
+          "Yellow",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesKneeRubberboots0",
+        "colors": [
+          "Green",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesKneeRubberboots2",
+        "colors": [
+          "Blue",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      }
+    ],
+    "id": 7
+  },
+  {
+    "name": "business shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutBusiness0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutBusiness0.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 526,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "ShoesLowcutBusiness0",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "ShoesLowcutBusiness1",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      }
+    ],
+    "id": 8
+  },
+  {
+    "name": "cleats",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutSpike4.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutSpike4.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 811,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "ShoesLowcutSpike4",
+        "colors": [
+          "Black",
+          "Gray"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1200,
+        "sell": 300,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesLowcutSpike2",
+        "colors": [
+          "Red",
+          "Gray"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1200,
+        "sell": 300,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "ShoesLowcutSpike5",
+        "colors": [
+          "Orange",
+          "Gray"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1200,
+        "sell": 300,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesLowcutSpike3",
+        "colors": [
+          "Yellow",
+          "Gray"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1200,
+        "sell": 300,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesLowcutSpike6",
+        "colors": [
+          "Green",
+          "Gray"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1200,
+        "sell": 300,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "ShoesLowcutSpike1",
+        "colors": [
+          "Light blue",
+          "Gray"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1200,
+        "sell": 300,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesLowcutSpike0",
+        "colors": [
+          "Blue",
+          "Gray"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1200,
+        "sell": 300,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesLowcutSpike7",
+        "colors": [
+          "Purple",
+          "Gray"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1200,
+        "sell": 300,
+        "themes": []
+      }
+    ],
+    "id": 9
+  },
+  {
+    "name": "comfy sandals",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalComfort1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesSandalComfort1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "Summer",
+    "mannequin_piece": true,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 796,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesSandalComfort1",
+        "colors": [
+          "White",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesSandalComfort4",
+        "colors": [
+          "Red",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "ShoesSandalComfort5",
+        "colors": [
+          "Orange",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesSandalComfort6",
+        "colors": [
+          "Yellow",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesSandalComfort2",
+        "colors": [
+          "Green",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesSandalComfort3",
+        "colors": [
+          "Blue",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesSandalComfort7",
+        "colors": [
+          "Purple",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "ShoesSandalComfort0",
+        "colors": [
+          "Brown",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      }
+    ],
+    "id": 10
+  },
+  {
+    "name": "cowboy boots",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeWestern2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneeWestern2.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 804,
+    "variants": [
+      {
+        "variation": "Ivory",
+        "filename": "ShoesKneeWestern2",
+        "colors": [
+          "White",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 2380,
+        "sell": 595,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesKneeWestern1",
+        "colors": [
+          "Black",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 2380,
+        "sell": 595,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesKneeWestern3",
+        "colors": [
+          "Pink",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 2380,
+        "sell": 595,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesKneeWestern4",
+        "colors": [
+          "Light blue",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 2380,
+        "sell": 595,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "ShoesKneeWestern0",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 2380,
+        "sell": 595,
+        "themes": []
+      }
+    ],
+    "id": 11
+  },
+  {
+    "name": "cross-belt sandals",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalCrossbelt2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesSandalCrossbelt2.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "Summer",
+    "mannequin_piece": true,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 523,
+    "variants": [
+      {
+        "variation": "Gray",
+        "filename": "ShoesSandalCrossbelt2",
+        "colors": [
+          "Gray",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesSandalCrossbelt4",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesSandalCrossbelt1",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesSandalCrossbelt0",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesSandalCrossbelt5",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "ShoesSandalCrossbelt3",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      }
+    ],
+    "id": 12
+  },
+  {
+    "name": "cute sneakers",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutCute2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesHighcutCute2.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 878,
+    "variants": [
+      {
+        "variation": "Pink",
+        "filename": "ShoesHighcutCute2",
+        "colors": [
+          "Pink",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesHighcutCute3",
+        "colors": [
+          "Yellow",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesHighcutCute1",
+        "colors": [
+          "Green",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "ShoesHighcutCute0",
+        "colors": [
+          "Light blue",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesHighcutCute5",
+        "colors": [
+          "Blue",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesHighcutCute4",
+        "colors": [
+          "Purple",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      }
+    ],
+    "id": 13
+  },
+  {
+    "name": "DAL slippers",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/AccessoryGlassSlippers0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/AccessoryGlassSlippers0.png",
+    "diy": false,
+    "hha_base_points": 251,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Received in mail from DAL after 30 flights",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "Not for sale",
+    "cloth_group_id": 1184,
+    "variants": [
+      {
+        "variation": null,
+        "filename": "AccessoryGlassSlippers0",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Dodo Airlines"
+        ],
+        "buy": -1,
+        "sell": 1010,
+        "themes": []
+      }
+    ],
+    "id": 14
+  },
+  {
+    "name": "earth-egg shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutEggground0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutEggground0.png",
+    "diy": true,
+    "hha_base_points": 351,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "Not for sale",
+    "cloth_group_id": 1211,
+    "variants": [
+      {
+        "variation": null,
+        "filename": "ShoesLowcutEggground0",
+        "colors": [
+          "Red",
+          "Yellow"
+        ],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 800,
+        "themes": []
+      }
+    ],
+    "id": 15
+  },
+  {
+    "name": "embroidered shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutEmbroidery1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutEmbroidery1.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 1098,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesLowcutEmbroidery1",
+        "colors": [
+          "White",
+          "Pink"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2100,
+        "sell": 525,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesLowcutEmbroidery2",
+        "colors": [
+          "Black",
+          "Pink"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2100,
+        "sell": 525,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesLowcutEmbroidery0",
+        "colors": [
+          "Red",
+          "Pink"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2100,
+        "sell": 525,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesLowcutEmbroidery3",
+        "colors": [
+          "Light blue",
+          "Pink"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2100,
+        "sell": 525,
+        "themes": []
+      }
+    ],
+    "id": 16
+  },
+  {
+    "name": "faux-fur ankle booties",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutFurboots2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesHighcutFurboots2.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "Winter",
+    "mannequin_piece": true,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 767,
+    "variants": [
+      {
+        "variation": "Ruby red",
+        "filename": "ShoesHighcutFurboots2",
+        "colors": [
+          "Red",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1450,
+        "sell": 362,
+        "themes": []
+      },
+      {
+        "variation": "Olive",
+        "filename": "ShoesHighcutFurboots0",
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1450,
+        "sell": 362,
+        "themes": []
+      },
+      {
+        "variation": "Navy blue",
+        "filename": "ShoesHighcutFurboots3",
+        "colors": [
+          "Blue",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1450,
+        "sell": 362,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "ShoesHighcutFurboots1",
+        "colors": [
+          "Beige",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1450,
+        "sell": 362,
+        "themes": []
+      }
+    ],
+    "id": 17
+  },
+  {
+    "name": "faux-shearling boots",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutMouton4.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesHighcutMouton4.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "Winter",
+    "mannequin_piece": true,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 520,
+    "variants": [
+      {
+        "variation": "Gray",
+        "filename": "ShoesHighcutMouton4",
+        "colors": [
+          "Gray",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesHighcutMouton3",
+        "colors": [
+          "Black",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesHighcutMouton1",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesHighcutMouton2",
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "ShoesHighcutMouton0",
+        "colors": [
+          "Beige",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      }
+    ],
+    "id": 18
+  },
+  {
+    "name": "faux-suede sneakers",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutSuede7.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutSuede7.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 1003,
+    "variants": [
+      {
+        "variation": "Berry red",
+        "filename": "ShoesLowcutSuede7",
+        "colors": [
+          "Red",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesLowcutSuede4",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "ShoesLowcutSuede3",
+        "colors": [
+          "Orange",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesLowcutSuede0",
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "ShoesLowcutSuede5",
+        "colors": [
+          "Light blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Navy blue",
+        "filename": "ShoesLowcutSuede1",
+        "colors": [
+          "Blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesLowcutSuede6",
+        "colors": [
+          "Purple",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "ShoesLowcutSuede2",
+        "colors": [
+          "Beige",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      }
+    ],
+    "id": 19
+  },
+  {
+    "name": "flip-flops",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalBeachborder3.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesSandalBeachborder3.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "Summer",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 761,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesSandalBeachborder3",
+        "colors": [
+          "White",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesSandalBeachborder7",
+        "colors": [
+          "Red",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesSandalBeachborder6",
+        "colors": [
+          "Pink",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "ShoesSandalBeachborder4",
+        "colors": [
+          "Orange",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesSandalBeachborder2",
+        "colors": [
+          "Yellow",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesSandalBeachborder1",
+        "colors": [
+          "Green",
+          "Orange"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "ShoesSandalBeachborder5",
+        "colors": [
+          "Light blue",
+          "Orange"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesSandalBeachborder0",
+        "colors": [
+          "Blue",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      }
+    ],
+    "id": 20
+  },
+  {
+    "name": "flower sandals",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalFlower6.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesSandalFlower6.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "Summer",
+    "mannequin_piece": true,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 766,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesSandalFlower6",
+        "colors": [
+          "White",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1200,
+        "sell": 300,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesSandalFlower5",
+        "colors": [
+          "Black",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1200,
+        "sell": 300,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesSandalFlower1",
+        "colors": [
+          "Red",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1200,
+        "sell": 300,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesSandalFlower0",
+        "colors": [
+          "Yellow",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1200,
+        "sell": 300,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesSandalFlower2",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1200,
+        "sell": 300,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesSandalFlower4",
+        "colors": [
+          "Blue",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1200,
+        "sell": 300,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesSandalFlower3",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1200,
+        "sell": 300,
+        "themes": []
+      }
+    ],
+    "id": 21
+  },
+  {
+    "name": "ghillie brogues",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutBrogues2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutBrogues2.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Gorgeous",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 924,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesLowcutBrogues2",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2340,
+        "sell": 585,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesLowcutBrogues1",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2340,
+        "sell": 585,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "ShoesLowcutBrogues0",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2340,
+        "sell": 585,
+        "themes": []
+      }
+    ],
+    "id": 22
+  },
+  {
+    "name": "gladiator sandals",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalGladiator1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesSandalGladiator1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "Summer",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 797,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "ShoesSandalGladiator1",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesSandalGladiator2",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "ShoesSandalGladiator0",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      }
+    ],
+    "id": 23
+  },
+  {
+    "name": "gold-armor shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeKnightGold.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneeKnightGold.png",
+    "diy": true,
+    "hha_base_points": 103,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Gorgeous",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "Not for sale",
+    "cloth_group_id": 777,
+    "variants": [
+      {
+        "variation": null,
+        "filename": "ShoesKneeKnightGold",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 40000,
+        "themes": []
+      }
+    ],
+    "id": 24
+  },
+  {
+    "name": "hi-tech sneakers",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutHightech1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesHighcutHightech1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Cool",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 814,
+    "variants": [
+      {
+        "variation": "Pink",
+        "filename": "ShoesHighcutHightech1",
+        "colors": [
+          "Pink",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "ShoesHighcutHightech0",
+        "colors": [
+          "Orange",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesHighcutHightech2",
+        "colors": [
+          "Green",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "ShoesHighcutHightech3",
+        "colors": [
+          "Light blue",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesHighcutHightech4",
+        "colors": [
+          "Blue",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      }
+    ],
+    "id": 25
+  },
+  {
+    "name": "high-tops",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutSneaker7.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesHighcutSneaker7.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 938,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesHighcutSneaker7",
+        "colors": [
+          "White",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Gray",
+        "filename": "ShoesHighcutSneaker0",
+        "colors": [
+          "Gray",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesHighcutSneaker5",
+        "colors": [
+          "Red",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesHighcutSneaker6",
+        "colors": [
+          "Yellow",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesHighcutSneaker2",
+        "colors": [
+          "Green",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesHighcutSneaker3",
+        "colors": [
+          "Blue",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesHighcutSneaker4",
+        "colors": [
+          "Purple",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "ShoesHighcutSneaker1",
+        "colors": [
+          "Brown",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      }
+    ],
+    "id": 26
+  },
+  {
+    "name": "house slippers",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalRoomborder0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesSandalRoomborder0.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 785,
+    "variants": [
+      {
+        "variation": "Gray",
+        "filename": "ShoesSandalRoomborder0",
+        "colors": [
+          "Gray",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesSandalRoomborder6",
+        "colors": [
+          "Red",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesSandalRoomborder2",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesSandalRoomborder3",
+        "colors": [
+          "Yellow",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesSandalRoomborder4",
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesSandalRoomborder5",
+        "colors": [
+          "Light blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Navy blue",
+        "filename": "ShoesSandalRoomborder1",
+        "colors": [
+          "Blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "ShoesSandalRoomborder7",
+        "colors": [
+          "Beige",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      }
+    ],
+    "id": 27
+  },
+  {
+    "name": "jester's shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeClown1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneeClown1.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 801,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "ShoesKneeClown1",
+        "colors": [
+          "Black",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1900,
+        "sell": 475,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesKneeClown2",
+        "colors": [
+          "Red",
+          "Blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1900,
+        "sell": 475,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesKneeClown3",
+        "colors": [
+          "Green",
+          "Yellow"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1900,
+        "sell": 475,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesKneeClown0",
+        "colors": [
+          "Purple",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1900,
+        "sell": 475,
+        "themes": []
+      }
+    ],
+    "id": 28
+  },
+  {
+    "name": "kiddie sneakers",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutSports4.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesHighcutSports4.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 864,
+    "variants": [
+      {
+        "variation": "Silver",
+        "filename": "ShoesHighcutSports4",
+        "colors": [
+          "Gray",
+          "Blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesHighcutSports5",
+        "colors": [
+          "Black",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesHighcutSports0",
+        "colors": [
+          "Red",
+          "Yellow"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesHighcutSports2",
+        "colors": [
+          "Green",
+          "Blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesHighcutSports1",
+        "colors": [
+          "Blue",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesHighcutSports3",
+        "colors": [
+          "Purple",
+          "Orange"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      }
+    ],
+    "id": 29
+  },
+  {
+    "name": "kimono sandals",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalGeta4.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesSandalGeta4.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 236,
+    "variants": [
+      {
+        "variation": "Gray",
+        "filename": "ShoesSandalGeta4",
+        "colors": [
+          "Gray",
+          "Beige"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesSandalGeta0",
+        "colors": [
+          "Black",
+          "Beige"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesSandalGeta1",
+        "colors": [
+          "Red",
+          "Beige"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesSandalGeta2",
+        "colors": [
+          "Pink",
+          "Beige"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesSandalGeta6",
+        "colors": [
+          "Yellow",
+          "Beige"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesSandalGeta7",
+        "colors": [
+          "Green",
+          "Beige"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      },
+      {
+        "variation": "Dark blue",
+        "filename": "ShoesSandalGeta3",
+        "colors": [
+          "Blue",
+          "Beige"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesSandalGeta5",
+        "colors": [
+          "Purple",
+          "Beige"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      }
+    ],
+    "id": 30
+  },
+  {
+    "name": "kung-fu shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutKungfu0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutKungfu0.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 1097,
+    "variants": [
+      {
+        "variation": null,
+        "filename": "ShoesLowcutKungfu0",
+        "colors": [
+          "Black",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      }
+    ],
+    "id": 31
+  },
+  {
+    "name": "Labelle pumps",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutKateheel1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutKateheel1.png",
+    "diy": false,
+    "hha_base_points": 351,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 1135,
+    "variants": [
+      {
+        "variation": "Midnight",
+        "filename": "ShoesLowcutKateheel1",
+        "colors": [
+          "Black",
+          "Gray"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 3500,
+        "sell": 875,
+        "themes": []
+      },
+      {
+        "variation": "Passion",
+        "filename": "ShoesLowcutKateheel2",
+        "colors": [
+          "Red",
+          "Gray"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 3500,
+        "sell": 875,
+        "themes": []
+      },
+      {
+        "variation": "Love",
+        "filename": "ShoesLowcutKateheel5",
+        "colors": [
+          "Pink",
+          "Gray"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 3500,
+        "sell": 875,
+        "themes": []
+      },
+      {
+        "variation": "Sunset",
+        "filename": "ShoesLowcutKateheel4",
+        "colors": [
+          "Yellow",
+          "Gray"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 3500,
+        "sell": 875,
+        "themes": []
+      },
+      {
+        "variation": "Ocean",
+        "filename": "ShoesLowcutKateheel3",
+        "colors": [
+          "Blue",
+          "Gray"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 3500,
+        "sell": 875,
+        "themes": []
+      },
+      {
+        "variation": "Twilight",
+        "filename": "ShoesLowcutKateheel0",
+        "colors": [
+          "Purple",
+          "Gray"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 3500,
+        "sell": 875,
+        "themes": []
+      }
+    ],
+    "id": 32
+  },
+  {
+    "name": "Labelle sneakers",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutKatesneaker1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesHighcutKatesneaker1.png",
+    "diy": false,
+    "hha_base_points": 351,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cool",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 1136,
+    "variants": [
+      {
+        "variation": "Midnight",
+        "filename": "ShoesHighcutKatesneaker1",
+        "colors": [
+          "Black",
+          "White"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 3300,
+        "sell": 825,
+        "themes": []
+      },
+      {
+        "variation": "Passion",
+        "filename": "ShoesHighcutKatesneaker2",
+        "colors": [
+          "Red",
+          "Black"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 3300,
+        "sell": 825,
+        "themes": []
+      },
+      {
+        "variation": "Love",
+        "filename": "ShoesHighcutKatesneaker5",
+        "colors": [
+          "Pink",
+          "Black"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 3300,
+        "sell": 825,
+        "themes": []
+      },
+      {
+        "variation": "Sunset",
+        "filename": "ShoesHighcutKatesneaker4",
+        "colors": [
+          "Yellow",
+          "Black"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 3300,
+        "sell": 825,
+        "themes": []
+      },
+      {
+        "variation": "Ocean",
+        "filename": "ShoesHighcutKatesneaker3",
+        "colors": [
+          "Blue",
+          "Black"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 3300,
+        "sell": 825,
+        "themes": []
+      },
+      {
+        "variation": "Twilight",
+        "filename": "ShoesHighcutKatesneaker0",
+        "colors": [
+          "Purple",
+          "Black"
+        ],
+        "source": [
+          "Labelle"
+        ],
+        "buy": 3300,
+        "sell": 825,
+        "themes": []
+      }
+    ],
+    "id": 33
+  },
+  {
+    "name": "lace-up boots",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeLaceup1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneeLaceup1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cool",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 820,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesKneeLaceup1",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1920,
+        "sell": 480,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesKneeLaceup0",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1920,
+        "sell": 480,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesKneeLaceup3",
+        "colors": [
+          "Red",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1920,
+        "sell": 480,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "ShoesKneeLaceup2",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1920,
+        "sell": 480,
+        "themes": []
+      }
+    ],
+    "id": 34
+  },
+  {
+    "name": "leaf-egg shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutEggleaf0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutEggleaf0.png",
+    "diy": true,
+    "hha_base_points": 351,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "Not for sale",
+    "cloth_group_id": 1213,
+    "variants": [
+      {
+        "variation": null,
+        "filename": "ShoesLowcutEggleaf0",
+        "colors": [
+          "Yellow",
+          "Orange"
+        ],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 800,
+        "themes": []
+      }
+    ],
+    "id": 35
+  },
+  {
+    "name": "leopard pumps",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutLeopard1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutLeopard1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 768,
+    "variants": [
+      {
+        "variation": "Gray",
+        "filename": "ShoesLowcutLeopard1",
+        "colors": [
+          "Gray",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1560,
+        "sell": 390,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesLowcutLeopard5",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1560,
+        "sell": 390,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesLowcutLeopard3",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1560,
+        "sell": 390,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesLowcutLeopard2",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1560,
+        "sell": 390,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesLowcutLeopard4",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1560,
+        "sell": 390,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "ShoesLowcutLeopard0",
+        "colors": [
+          "Beige",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1560,
+        "sell": 390,
+        "themes": []
+      }
+    ],
+    "id": 36
+  },
+  {
+    "name": "loafers",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutLoafers2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutLoafers2.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 522,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesLowcutLoafers2",
+        "colors": [
+          "White",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesLowcutLoafers1",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesLowcutLoafers6",
+        "colors": [
+          "Red",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesLowcutLoafers3",
+        "colors": [
+          "Pink",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesLowcutLoafers5",
+        "colors": [
+          "Yellow",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesLowcutLoafers4",
+        "colors": [
+          "Blue",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "ShoesLowcutLoafers0",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      }
+    ],
+    "id": 37
+  },
+  {
+    "name": "mage's booties",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeWitch2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneeWitch2.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cool",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 947,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesKneeWitch2",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1550,
+        "sell": 387,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesKneeWitch0",
+        "colors": [
+          "Black",
+          "Purple"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1550,
+        "sell": 387,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesKneeWitch3",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1550,
+        "sell": 387,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesKneeWitch1",
+        "colors": [
+          "Blue",
+          "Light blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1550,
+        "sell": 387,
+        "themes": []
+      }
+    ],
+    "id": 38
+  },
+  {
+    "name": "mary janes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutStrap2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutStrap2.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 762,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesLowcutStrap2",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesLowcutStrap0",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesLowcutStrap1",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesLowcutStrap7",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesLowcutStrap4",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesLowcutStrap6",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "ShoesLowcutStrap3",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesLowcutStrap5",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      }
+    ],
+    "id": 39
+  },
+  {
+    "name": "mermaid shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutMermaid0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutMermaid0.png",
+    "diy": false,
+    "hha_base_points": 251,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "Not for sale",
+    "cloth_group_id": 1223,
+    "variants": [
+      {
+        "variation": "Pink",
+        "filename": "ShoesLowcutMermaid0",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Pascal"
+        ],
+        "buy": -1,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "ShoesLowcutMermaid1",
+        "colors": [
+          "Light blue",
+          "White"
+        ],
+        "source": [
+          "Pascal"
+        ],
+        "buy": -1,
+        "sell": 450,
+        "themes": []
+      }
+    ],
+    "id": 40
+  },
+  {
+    "name": "moccasin boots",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutMoccasin4.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesHighcutMoccasin4.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "Winter",
+    "mannequin_piece": true,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 780,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "ShoesHighcutMoccasin4",
+        "colors": [
+          "Black",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1120,
+        "sell": 280,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesHighcutMoccasin3",
+        "colors": [
+          "Pink",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1120,
+        "sell": 280,
+        "themes": []
+      },
+      {
+        "variation": "Camel",
+        "filename": "ShoesHighcutMoccasin0",
+        "colors": [
+          "Yellow",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1120,
+        "sell": 280,
+        "themes": []
+      },
+      {
+        "variation": "Olive",
+        "filename": "ShoesHighcutMoccasin1",
+        "colors": [
+          "Green",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1120,
+        "sell": 280,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesHighcutMoccasin5",
+        "colors": [
+          "Light blue",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1120,
+        "sell": 280,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "ShoesHighcutMoccasin6",
+        "colors": [
+          "Brown",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1120,
+        "sell": 280,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "ShoesHighcutMoccasin2",
+        "colors": [
+          "Beige",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1120,
+        "sell": 280,
+        "themes": []
+      }
+    ],
+    "id": 41
+  },
+  {
+    "name": "moccasins",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutMoccasin3.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutMoccasin3.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 881,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesLowcutMoccasin3",
+        "colors": [
+          "White",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Gray",
+        "filename": "ShoesLowcutMoccasin5",
+        "colors": [
+          "Gray",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesLowcutMoccasin6",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesLowcutMoccasin1",
+        "colors": [
+          "Red",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesLowcutMoccasin4",
+        "colors": [
+          "Pink",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Camel",
+        "filename": "ShoesLowcutMoccasin0",
+        "colors": [
+          "Yellow",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "ShoesLowcutMoccasin2",
+        "colors": [
+          "Light blue",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      }
+    ],
+    "id": 42
+  },
+  {
+    "name": "Nook Inc. slippers",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalRco.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesSandalRco.png",
+    "diy": false,
+    "hha_base_points": 151,
+    "size": "1x1",
+    "miles_price": 400,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "Not for sale",
+    "cloth_group_id": 1145,
+    "variants": [
+      {
+        "variation": null,
+        "filename": "ShoesSandalRco",
+        "colors": [
+          "White",
+          "Green"
+        ],
+        "source": [
+          "Nook Miles Shop"
+        ],
+        "buy": -1,
+        "sell": 2000,
+        "themes": []
+      }
+    ],
+    "id": 43
+  },
+  {
+    "name": "outdoor sandals",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalOutdoor6.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesSandalOutdoor6.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "Summer",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 802,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesSandalOutdoor6",
+        "colors": [
+          "White",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 630,
+        "sell": 157,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesSandalOutdoor7",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 630,
+        "sell": 157,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesSandalOutdoor1",
+        "colors": [
+          "Red",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 630,
+        "sell": 157,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "ShoesSandalOutdoor5",
+        "colors": [
+          "Orange",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 630,
+        "sell": 157,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesSandalOutdoor4",
+        "colors": [
+          "Yellow",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 630,
+        "sell": 157,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesSandalOutdoor0",
+        "colors": [
+          "Green",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 630,
+        "sell": 157,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesSandalOutdoor2",
+        "colors": [
+          "Blue",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 630,
+        "sell": 157,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesSandalOutdoor3",
+        "colors": [
+          "Purple",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 630,
+        "sell": 157,
+        "themes": []
+      }
+    ],
+    "id": 44
+  },
+  {
+    "name": "paw slippers",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutAnimal2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutAnimal2.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 760,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesLowcutAnimal2",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesLowcutAnimal4",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesLowcutAnimal0",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesLowcutAnimal3",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "ShoesLowcutAnimal1",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      }
+    ],
+    "id": 45
+  },
+  {
+    "name": "pirate boots",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneePirates0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneePirates0.png",
+    "diy": false,
+    "hha_base_points": 451,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cool",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "Not for sale",
+    "cloth_group_id": 1228,
+    "variants": [
+      {
+        "variation": null,
+        "filename": "ShoesKneePirates0",
+        "colors": [
+          "Brown",
+          "Beige"
+        ],
+        "source": [
+          "Gullivarrr"
+        ],
+        "buy": -1,
+        "sell": 660,
+        "themes": []
+      }
+    ],
+    "id": 46
+  },
+  {
+    "name": "pleather ankle booties",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutShortboots1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesHighcutShortboots1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 765,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "ShoesHighcutShortboots1",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1280,
+        "sell": 320,
+        "themes": []
+      },
+      {
+        "variation": "Mustard",
+        "filename": "ShoesHighcutShortboots3",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1280,
+        "sell": 320,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesHighcutShortboots2",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1280,
+        "sell": 320,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "ShoesHighcutShortboots0",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1280,
+        "sell": 320,
+        "themes": []
+      }
+    ],
+    "id": 47
+  },
+  {
+    "name": "pleather sneakers",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutLeathersneker0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutLeathersneker0.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 517,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesLowcutLeathersneker0",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesLowcutLeathersneker1",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesLowcutLeathersneker2",
+        "colors": [
+          "Red",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "ShoesLowcutLeathersneker7",
+        "colors": [
+          "Orange",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesLowcutLeathersneker5",
+        "colors": [
+          "Yellow",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesLowcutLeathersneker3",
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "ShoesLowcutLeathersneker6",
+        "colors": [
+          "Light blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesLowcutLeathersneker4",
+        "colors": [
+          "Blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 700,
+        "sell": 175,
+        "themes": []
+      }
+    ],
+    "id": 48
+  },
+  {
+    "name": "pom-pom boots",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutBobbles6.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesHighcutBobbles6.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "Winter",
+    "mannequin_piece": false,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 782,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "ShoesHighcutBobbles6",
+        "colors": [
+          "Gray",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesHighcutBobbles1",
+        "colors": [
+          "Red",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesHighcutBobbles0",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesHighcutBobbles2",
+        "colors": [
+          "Yellow",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesHighcutBobbles4",
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesHighcutBobbles5",
+        "colors": [
+          "Blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesHighcutBobbles3",
+        "colors": [
+          "Purple",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1600,
+        "sell": 400,
+        "themes": []
+      }
+    ],
+    "id": 49
+  },
+  {
+    "name": "power boots",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneePowered3.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneePowered3.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 839,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "ShoesKneePowered3",
+        "colors": [
+          "Black",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 3150,
+        "sell": 787,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesKneePowered0",
+        "colors": [
+          "Red",
+          "Gray"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 3150,
+        "sell": 787,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesKneePowered2",
+        "colors": [
+          "Green",
+          "Purple"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 3150,
+        "sell": 787,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesKneePowered1",
+        "colors": [
+          "Blue",
+          "Green"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 3150,
+        "sell": 787,
+        "themes": []
+      }
+    ],
+    "id": 50
+  },
+  {
+    "name": "rain boots",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeRainboots7.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneeRainboots7.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 529,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "ShoesKneeRainboots7",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesKneeRainboots5",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesKneeRainboots4",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesKneeRainboots0",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesKneeRainboots1",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesKneeRainboots2",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesKneeRainboots3",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "ShoesKneeRainboots6",
+        "colors": [
+          "Beige",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      }
+    ],
+    "id": 51
+  },
+  {
+    "name": "recycled boots",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeRecyclingboots0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneeRecyclingboots0.png",
+    "diy": true,
+    "hha_base_points": 0,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "Not for sale",
+    "cloth_group_id": 1191,
+    "variants": [
+      {
+        "variation": null,
+        "filename": "ShoesKneeRecyclingboots0",
+        "colors": [
+          "Brown",
+          "Gray"
+        ],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 40,
+        "themes": []
+      }
+    ],
+    "id": 52
+  },
+  {
+    "name": "restroom slippers",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutToilet1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutToilet1.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 876,
+    "variants": [
+      {
+        "variation": "Red",
+        "filename": "ShoesLowcutToilet1",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesLowcutToilet4",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesLowcutToilet2",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "ShoesLowcutToilet3",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Navy blue",
+        "filename": "ShoesLowcutToilet0",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      }
+    ],
+    "id": 53
+  },
+  {
+    "name": "ribbon sandals",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalRibbon1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesSandalRibbon1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "Summer",
+    "mannequin_piece": false,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 888,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesSandalRibbon1",
+        "colors": [
+          "White",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "ShoesSandalRibbon7",
+        "colors": [
+          "Gray",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesSandalRibbon6",
+        "colors": [
+          "Black",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Berry red",
+        "filename": "ShoesSandalRibbon5",
+        "colors": [
+          "Red",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesSandalRibbon2",
+        "colors": [
+          "Pink",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesSandalRibbon3",
+        "colors": [
+          "Yellow",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesSandalRibbon4",
+        "colors": [
+          "Green",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesSandalRibbon0",
+        "colors": [
+          "Blue",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      }
+    ],
+    "id": 54
+  },
+  {
+    "name": "rubber-toe high tops",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutRubbertoe6.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesHighcutRubbertoe6.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 794,
+    "variants": [
+      {
+        "variation": "Ivory",
+        "filename": "ShoesHighcutRubbertoe6",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesHighcutRubbertoe7",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Berry red",
+        "filename": "ShoesHighcutRubbertoe4",
+        "colors": [
+          "Red",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesHighcutRubbertoe3",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Coral",
+        "filename": "ShoesHighcutRubbertoe5",
+        "colors": [
+          "Orange",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Olive",
+        "filename": "ShoesHighcutRubbertoe1",
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesHighcutRubbertoe0",
+        "colors": [
+          "Blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "ShoesHighcutRubbertoe2",
+        "colors": [
+          "Beige",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1260,
+        "sell": 315,
+        "themes": []
+      }
+    ],
+    "id": 55
+  },
+  {
+    "name": "rubber-toe sneakers",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutRubbertoe7.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutRubbertoe7.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 946,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "ShoesLowcutRubbertoe7",
+        "colors": [
+          "Black",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesLowcutRubbertoe4",
+        "colors": [
+          "Red",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesLowcutRubbertoe5",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesLowcutRubbertoe2",
+        "colors": [
+          "Yellow",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesLowcutRubbertoe1",
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "ShoesLowcutRubbertoe3",
+        "colors": [
+          "Light blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesLowcutRubbertoe6",
+        "colors": [
+          "Blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesLowcutRubbertoe0",
+        "colors": [
+          "Purple",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      }
+    ],
+    "id": 56
+  },
+  {
+    "name": "samurai greaves",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeLegguard3.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneeLegguard3.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cool",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 783,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesKneeLegguard3",
+        "colors": [
+          "White",
+          "Blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 4300,
+        "sell": 1075,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesKneeLegguard1",
+        "colors": [
+          "Black",
+          "Blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 4300,
+        "sell": 1075,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesKneeLegguard0",
+        "colors": [
+          "Red",
+          "Blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 4300,
+        "sell": 1075,
+        "themes": []
+      },
+      {
+        "variation": "Golden yellow",
+        "filename": "ShoesKneeLegguard4",
+        "colors": [
+          "Orange",
+          "Blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 4300,
+        "sell": 1075,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesKneeLegguard2",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 4300,
+        "sell": 1075,
+        "themes": []
+      }
+    ],
+    "id": 57
+  },
+  {
+    "name": "shiny bow platform shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutLolita5.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutLolita5.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 789,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesLowcutLolita5",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2400,
+        "sell": 600,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesLowcutLolita1",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2400,
+        "sell": 600,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesLowcutLolita2",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2400,
+        "sell": 600,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesLowcutLolita0",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2400,
+        "sell": 600,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "ShoesLowcutLolita4",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2400,
+        "sell": 600,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesLowcutLolita3",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2400,
+        "sell": 600,
+        "themes": []
+      },
+      {
+        "variation": "Light purple",
+        "filename": "ShoesLowcutLolita6",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2400,
+        "sell": 600,
+        "themes": []
+      }
+    ],
+    "id": 58
+  },
+  {
+    "name": "shower sandals",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalShower1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesSandalShower1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 515,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesSandalShower1",
+        "colors": [
+          "White",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesSandalShower0",
+        "colors": [
+          "Black",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesSandalShower3",
+        "colors": [
+          "Red",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Gold",
+        "filename": "ShoesSandalShower2",
+        "colors": [
+          "Yellow",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesSandalShower4",
+        "colors": [
+          "Blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      }
+    ],
+    "id": 59
+  },
+  {
+    "name": "ski boots",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeSki0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneeSki0.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "Winter",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 815,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesKneeSki0",
+        "colors": [
+          "White",
+          "Blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesKneeSki2",
+        "colors": [
+          "Red",
+          "Black"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "ShoesKneeSki1",
+        "colors": [
+          "Orange",
+          "Black"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Lime",
+        "filename": "ShoesKneeSki3",
+        "colors": [
+          "Yellow",
+          "Green"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "ShoesKneeSki4",
+        "colors": [
+          "Light blue",
+          "Yellow"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesKneeSki5",
+        "colors": [
+          "Blue",
+          "Pink"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      }
+    ],
+    "id": 60
+  },
+  {
+    "name": "sky-egg shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutEggsky0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutEggsky0.png",
+    "diy": true,
+    "hha_base_points": 351,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "Not for sale",
+    "cloth_group_id": 1215,
+    "variants": [
+      {
+        "variation": null,
+        "filename": "ShoesLowcutEggsky0",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 800,
+        "themes": []
+      }
+    ],
+    "id": 61
+  },
+  {
+    "name": "slip-on loafers",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutSlipon6.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutSlipon6.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 787,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesLowcutSlipon6",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesLowcutSlipon4",
+        "colors": [
+          "Black",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesLowcutSlipon1",
+        "colors": [
+          "Red",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesLowcutSlipon0",
+        "colors": [
+          "Yellow",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesLowcutSlipon3",
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "ShoesLowcutSlipon5",
+        "colors": [
+          "Light blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesLowcutSlipon2",
+        "colors": [
+          "Blue",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "ShoesLowcutSlipon7",
+        "colors": [
+          "Beige",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 490,
+        "sell": 122,
+        "themes": []
+      }
+    ],
+    "id": 62
+  },
+  {
+    "name": "slip-on sandals",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalResin2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesSandalResin2.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 786,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "ShoesSandalResin2",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesSandalResin5",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesSandalResin3",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "ShoesSandalResin6",
+        "colors": [
+          "Orange",
+          "Orange"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Lime",
+        "filename": "ShoesSandalResin1",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "ShoesSandalResin0",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Navy blue",
+        "filename": "ShoesSandalResin4",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesSandalResin7",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      }
+    ],
+    "id": 63
+  },
+  {
+    "name": "slip-on school shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutSchool0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutSchool0.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 764,
+    "variants": [
+      {
+        "variation": "Red",
+        "filename": "ShoesLowcutSchool0",
+        "colors": [
+          "Red",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesLowcutSchool4",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesLowcutSchool3",
+        "colors": [
+          "Yellow",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesLowcutSchool2",
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesLowcutSchool1",
+        "colors": [
+          "Blue",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      }
+    ],
+    "id": 64
+  },
+  {
+    "name": "slippers",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutSlipper2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutSlipper2.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 778,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesLowcutSlipper2",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Gray",
+        "filename": "ShoesLowcutSlipper0",
+        "colors": [
+          "Gray",
+          "Gray"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesLowcutSlipper1",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesLowcutSlipper6",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesLowcutSlipper3",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesLowcutSlipper7",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesLowcutSlipper4",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesLowcutSlipper5",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 350,
+        "sell": 87,
+        "themes": []
+      }
+    ],
+    "id": 65
+  },
+  {
+    "name": "space boots",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeSpaceWhite.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneeSpaceWhite.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 863,
+    "variants": [
+      {
+        "variation": null,
+        "filename": "ShoesKneeSpaceWhite",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 4300,
+        "sell": 1075,
+        "themes": []
+      }
+    ],
+    "id": 66
+  },
+  {
+    "name": "sporty sandals",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalSports0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesSandalSports0.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 894,
+    "variants": [
+      {
+        "variation": "Red",
+        "filename": "ShoesSandalSports0",
+        "colors": [
+          "Red",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesSandalSports5",
+        "colors": [
+          "Pink",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Olive",
+        "filename": "ShoesSandalSports1",
+        "colors": [
+          "Green",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesSandalSports4",
+        "colors": [
+          "Green",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Gray",
+        "filename": "ShoesSandalSports7",
+        "colors": [
+          "Light blue",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesSandalSports2",
+        "colors": [
+          "Blue",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesSandalSports3",
+        "colors": [
+          "Purple",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "ShoesSandalSports6",
+        "colors": [
+          "Beige",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      }
+    ],
+    "id": 67
+  },
+  {
+    "name": "steel-toed boots",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeEngineerboots5.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneeEngineerboots5.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cool",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 941,
+    "variants": [
+      {
+        "variation": "Gray",
+        "filename": "ShoesKneeEngineerboots5",
+        "colors": [
+          "Gray",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 2640,
+        "sell": 660,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesKneeEngineerboots3",
+        "colors": [
+          "Black",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 2640,
+        "sell": 660,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesKneeEngineerboots4",
+        "colors": [
+          "Red",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 2640,
+        "sell": 660,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesKneeEngineerboots2",
+        "colors": [
+          "Green",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 2640,
+        "sell": 660,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "ShoesKneeEngineerboots0",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 2640,
+        "sell": 660,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "ShoesKneeEngineerboots1",
+        "colors": [
+          "Beige",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 2640,
+        "sell": 660,
+        "themes": []
+      }
+    ],
+    "id": 68
+  },
+  {
+    "name": "stone-egg shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutEggrock0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutEggrock0.png",
+    "diy": true,
+    "hha_base_points": 351,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "Not for sale",
+    "cloth_group_id": 1212,
+    "variants": [
+      {
+        "variation": null,
+        "filename": "ShoesLowcutEggrock0",
+        "colors": [
+          "Orange",
+          "Brown"
+        ],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 800,
+        "themes": []
+      }
+    ],
+    "id": 69
+  },
+  {
+    "name": "strappy heels",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutGlitter3.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutGlitter3.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Gorgeous",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 784,
+    "variants": [
+      {
+        "variation": "Silver",
+        "filename": "ShoesLowcutGlitter3",
+        "colors": [
+          "Gray",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1560,
+        "sell": 390,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesLowcutGlitter4",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1560,
+        "sell": 390,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesLowcutGlitter0",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1560,
+        "sell": 390,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesLowcutGlitter5",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1560,
+        "sell": 390,
+        "themes": []
+      },
+      {
+        "variation": "Gold",
+        "filename": "ShoesLowcutGlitter2",
+        "colors": [
+          "Orange",
+          "Orange"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1560,
+        "sell": 390,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesLowcutGlitter6",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1560,
+        "sell": 390,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesLowcutGlitter1",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1560,
+        "sell": 390,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesLowcutGlitter7",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1560,
+        "sell": 390,
+        "themes": []
+      }
+    ],
+    "id": 70
+  },
+  {
+    "name": "traditional flower shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutGgotshin0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutGgotshin0.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 808,
+    "variants": [
+      {
+        "variation": "Red",
+        "filename": "ShoesLowcutGgotshin0",
+        "colors": [
+          "Red",
+          "Blue"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesLowcutGgotshin1",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Lime",
+        "filename": "ShoesLowcutGgotshin4",
+        "colors": [
+          "Yellow",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesLowcutGgotshin3",
+        "colors": [
+          "Yellow",
+          "Brown"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesLowcutGgotshin2",
+        "colors": [
+          "Blue",
+          "Brown"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1800,
+        "sell": 450,
+        "themes": []
+      }
+    ],
+    "id": 71
+  },
+  {
+    "name": "trekking shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutTrekking6.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesHighcutTrekking6.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 705,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesHighcutTrekking6",
+        "colors": [
+          "White",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      },
+      {
+        "variation": "Gray",
+        "filename": "ShoesHighcutTrekking1",
+        "colors": [
+          "Black",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesHighcutTrekking2",
+        "colors": [
+          "Black",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesHighcutTrekking4",
+        "colors": [
+          "Yellow",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "ShoesHighcutTrekking3",
+        "colors": [
+          "Light blue",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesHighcutTrekking5",
+        "colors": [
+          "Purple",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "ShoesHighcutTrekking0",
+        "colors": [
+          "Brown",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "ShoesHighcutTrekking7",
+        "colors": [
+          "Brown",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      }
+    ],
+    "id": 72
+  },
+  {
+    "name": "velour boots",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeVelour1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneeVelour1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "Winter",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 528,
+    "variants": [
+      {
+        "variation": "Gray",
+        "filename": "ShoesKneeVelour1",
+        "colors": [
+          "Gray",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1920,
+        "sell": 480,
+        "themes": []
+      },
+      {
+        "variation": "Ruby red",
+        "filename": "ShoesKneeVelour0",
+        "colors": [
+          "Red",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1920,
+        "sell": 480,
+        "themes": []
+      },
+      {
+        "variation": "Mustard",
+        "filename": "ShoesKneeVelour4",
+        "colors": [
+          "Yellow",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1920,
+        "sell": 480,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesKneeVelour3",
+        "colors": [
+          "Blue",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1920,
+        "sell": 480,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "ShoesKneeVelour2",
+        "colors": [
+          "Brown",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1920,
+        "sell": 480,
+        "themes": []
+      }
+    ],
+    "id": 73
+  },
+  {
+    "name": "vinyl round-toed pumps",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutEnamelpumps4.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutEnamelpumps4.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 521,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesLowcutEnamelpumps4",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesLowcutEnamelpumps5",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesLowcutEnamelpumps3",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      },
+      {
+        "variation": "Mint",
+        "filename": "ShoesLowcutEnamelpumps1",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "ShoesLowcutEnamelpumps2",
+        "colors": [
+          "Brown",
+          "Brown"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "ShoesLowcutEnamelpumps0",
+        "colors": [
+          "Beige",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1500,
+        "sell": 375,
+        "themes": []
+      }
+    ],
+    "id": 74
+  },
+  {
+    "name": "visual-punk boots",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeVisualBlack.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneeVisualBlack.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cool",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 792,
+    "variants": [
+      {
+        "variation": null,
+        "filename": "ShoesKneeVisualBlack",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2200,
+        "sell": 550,
+        "themes": []
+      }
+    ],
+    "id": 75
+  },
+  {
+    "name": "walking shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutHealth2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutHealth2.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Simple",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 868,
+    "variants": [
+      {
+        "variation": "Red",
+        "filename": "ShoesLowcutHealth2",
+        "colors": [
+          "Red",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesLowcutHealth0",
+        "colors": [
+          "Pink",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      },
+      {
+        "variation": "Beige",
+        "filename": "ShoesLowcutHealth1",
+        "colors": [
+          "Beige",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 560,
+        "sell": 140,
+        "themes": []
+      }
+    ],
+    "id": 76
+  },
+  {
+    "name": "water sandals",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalAqua2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesSandalAqua2.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "Summer",
+    "mannequin_piece": false,
+    "style": "Cute",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 809,
+    "variants": [
+      {
+        "variation": "Red",
+        "filename": "ShoesSandalAqua2",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesSandalAqua0",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "ShoesSandalAqua4",
+        "colors": [
+          "Orange",
+          "Orange"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesSandalAqua7",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesSandalAqua6",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "ShoesSandalAqua3",
+        "colors": [
+          "Light blue",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      },
+      {
+        "variation": "Navy blue",
+        "filename": "ShoesSandalAqua1",
+        "colors": [
+          "Blue",
+          "Blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesSandalAqua5",
+        "colors": [
+          "Purple",
+          "Purple"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1040,
+        "sell": 260,
+        "themes": []
+      }
+    ],
+    "id": 77
+  },
+  {
+    "name": "water shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutMarine7.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutMarine7.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 882,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "ShoesLowcutMarine7",
+        "colors": [
+          "Gray",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 900,
+        "sell": 225,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesLowcutMarine6",
+        "colors": [
+          "Red",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 900,
+        "sell": 225,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesLowcutMarine0",
+        "colors": [
+          "Pink",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 900,
+        "sell": 225,
+        "themes": []
+      },
+      {
+        "variation": "Orange",
+        "filename": "ShoesLowcutMarine2",
+        "colors": [
+          "Orange",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 900,
+        "sell": 225,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesLowcutMarine5",
+        "colors": [
+          "Yellow",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 900,
+        "sell": 225,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesLowcutMarine3",
+        "colors": [
+          "Green",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 900,
+        "sell": 225,
+        "themes": []
+      },
+      {
+        "variation": "Light blue",
+        "filename": "ShoesLowcutMarine1",
+        "colors": [
+          "Light blue",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 900,
+        "sell": 225,
+        "themes": []
+      },
+      {
+        "variation": "Navy blue",
+        "filename": "ShoesLowcutMarine4",
+        "colors": [
+          "Blue",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 900,
+        "sell": 225,
+        "themes": []
+      }
+    ],
+    "id": 78
+  },
+  {
+    "name": "water-egg shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutEggfish0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutEggfish0.png",
+    "diy": true,
+    "hha_base_points": 351,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "Not for sale",
+    "cloth_group_id": 1216,
+    "variants": [
+      {
+        "variation": null,
+        "filename": "ShoesLowcutEggfish0",
+        "colors": [
+          "Light blue",
+          "Red"
+        ],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 800,
+        "themes": []
+      }
+    ],
+    "id": 79
+  },
+  {
+    "name": "wedding pumps",
+    "closet_image": "https://acnhcdn.com/1.2.0/ClosetIcon/ShoesLowcutJunepumps0.png",
+    "storage_image": "https://acnhcdn.com/1.2.0/FtrIcon/ShoesLowcutJunepumps0.png",
+    "diy": false,
+    "hha_base_points": 437,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Only available during Wedding Season",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "Not for sale",
+    "cloth_group_id": 1217,
+    "variants": [
+      {
+        "variation": null,
+        "filename": "ShoesLowcutJunepumps0",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Cyrus"
+        ],
+        "buy": -1,
+        "sell": 750,
+        "themes": []
+      }
+    ],
+    "id": 80
+  },
+  {
+    "name": "wedding shoes",
+    "closet_image": "https://acnhcdn.com/1.2.0/ClosetIcon/ShoesLowcutJuneshoes0.png",
+    "storage_image": "https://acnhcdn.com/1.2.0/FtrIcon/ShoesLowcutJuneshoes0.png",
+    "diy": false,
+    "hha_base_points": 437,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Only available during Wedding Season",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "Not for sale",
+    "cloth_group_id": 1218,
+    "variants": [
+      {
+        "variation": null,
+        "filename": "ShoesLowcutJuneshoes0",
+        "colors": [
+          "White",
+          "White"
+        ],
+        "source": [
+          "Cyrus"
+        ],
+        "buy": -1,
+        "sell": 750,
+        "themes": []
+      }
+    ],
+    "id": 81
+  },
+  {
+    "name": "wingtip shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutWing2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutWing2.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 883,
+    "variants": [
+      {
+        "variation": "Greige",
+        "filename": "ShoesLowcutWing2",
+        "colors": [
+          "Gray",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 900,
+        "sell": 225,
+        "themes": []
+      },
+      {
+        "variation": "Gray",
+        "filename": "ShoesLowcutWing4",
+        "colors": [
+          "Gray",
+          "Gray"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 900,
+        "sell": 225,
+        "themes": []
+      },
+      {
+        "variation": "Black & white",
+        "filename": "ShoesLowcutWing0",
+        "colors": [
+          "Black",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 900,
+        "sell": 225,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesLowcutWing6",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 900,
+        "sell": 225,
+        "themes": []
+      },
+      {
+        "variation": "Berry red",
+        "filename": "ShoesLowcutWing5",
+        "colors": [
+          "Red",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 900,
+        "sell": 225,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesLowcutWing3",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 900,
+        "sell": 225,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "ShoesLowcutWing1",
+        "colors": [
+          "Brown",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 900,
+        "sell": 225,
+        "themes": []
+      }
+    ],
+    "id": 82
+  },
+  {
+    "name": "winklepickers",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutPointedtoe1.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutPointedtoe1.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Cool",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 812,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesLowcutPointedtoe1",
+        "colors": [
+          "White",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 910,
+        "sell": 227,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesLowcutPointedtoe2",
+        "colors": [
+          "Black",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 910,
+        "sell": 227,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesLowcutPointedtoe0",
+        "colors": [
+          "Red",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 910,
+        "sell": 227,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesLowcutPointedtoe3",
+        "colors": [
+          "Blue",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 910,
+        "sell": 227,
+        "themes": []
+      }
+    ],
+    "id": 83
+  },
+  {
+    "name": "wood-egg shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutEggforest0.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutEggforest0.png",
+    "diy": true,
+    "hha_base_points": 351,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "Not for sale",
+    "cloth_group_id": 1214,
+    "variants": [
+      {
+        "variation": null,
+        "filename": "ShoesLowcutEggforest0",
+        "colors": [
+          "Purple",
+          "Beige"
+        ],
+        "source": [
+          "Crafting"
+        ],
+        "buy": -1,
+        "sell": 800,
+        "themes": []
+      }
+    ],
+    "id": 84
+  },
+  {
+    "name": "wooden clogs",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesLowcutClog2.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesLowcutClog2.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 795,
+    "variants": [
+      {
+        "variation": "Red",
+        "filename": "ShoesLowcutClog2",
+        "colors": [
+          "Red",
+          "Yellow"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesLowcutClog0",
+        "colors": [
+          "Yellow",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesLowcutClog3",
+        "colors": [
+          "Green",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesLowcutClog1",
+        "colors": [
+          "Blue",
+          "Pink"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      },
+      {
+        "variation": "Brown",
+        "filename": "ShoesLowcutClog4",
+        "colors": [
+          "Brown",
+          "Orange"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1300,
+        "sell": 325,
+        "themes": []
+      }
+    ],
+    "id": 85
+  },
+  {
+    "name": "work boots",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesHighcutWorkboots4.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesHighcutWorkboots4.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from either Mabel's temporary shop or Able Sisters shop",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": true,
+    "style": "Cool",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 779,
+    "variants": [
+      {
+        "variation": "White",
+        "filename": "ShoesHighcutWorkboots4",
+        "colors": [
+          "White",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1920,
+        "sell": 480,
+        "themes": []
+      },
+      {
+        "variation": "Gray",
+        "filename": "ShoesHighcutWorkboots7",
+        "colors": [
+          "Gray",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1920,
+        "sell": 480,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesHighcutWorkboots0",
+        "colors": [
+          "Red",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1920,
+        "sell": 480,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesHighcutWorkboots2",
+        "colors": [
+          "Pink",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1920,
+        "sell": 480,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesHighcutWorkboots3",
+        "colors": [
+          "Yellow",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1920,
+        "sell": 480,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesHighcutWorkboots6",
+        "colors": [
+          "Green",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1920,
+        "sell": 480,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesHighcutWorkboots5",
+        "colors": [
+          "Blue",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1920,
+        "sell": 480,
+        "themes": []
+      },
+      {
+        "variation": "Purple",
+        "filename": "ShoesHighcutWorkboots1",
+        "colors": [
+          "Purple",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 1920,
+        "sell": 480,
+        "themes": []
+      }
+    ],
+    "id": 86
+  },
+  {
+    "name": "wrestling shoes",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeRing4.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneeRing4.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 821,
+    "variants": [
+      {
+        "variation": "Black",
+        "filename": "ShoesKneeRing4",
+        "colors": [
+          "Black",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesKneeRing0",
+        "colors": [
+          "Red",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesKneeRing3",
+        "colors": [
+          "Pink",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Yellow",
+        "filename": "ShoesKneeRing5",
+        "colors": [
+          "Yellow",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesKneeRing2",
+        "colors": [
+          "Green",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      },
+      {
+        "variation": "Blue",
+        "filename": "ShoesKneeRing1",
+        "colors": [
+          "Blue",
+          "White"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 1080,
+        "sell": 270,
+        "themes": []
+      }
+    ],
+    "id": 87
+  },
+  {
+    "name": "zap boots",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesKneeHeroWhite.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesKneeHeroWhite.png",
+    "diy": false,
+    "hha_base_points": 23,
+    "size": "1x1",
+    "miles_price": null,
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Active",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 799,
+    "variants": [
+      {
+        "variation": null,
+        "filename": "ShoesKneeHeroWhite",
+        "colors": [
+          "White",
+          "Red"
+        ],
+        "source": [
+          "Kicks"
+        ],
+        "buy": 2640,
+        "sell": 660,
+        "themes": []
+      }
+    ],
+    "id": 88
+  },
+  {
+    "name": "zori",
+    "closet_image": "https://acnhcdn.com/latest/ClosetIcon/ShoesSandalZori6.png",
+    "storage_image": "https://acnhcdn.com/latest/FtrIcon/ShoesSandalZori6.png",
+    "diy": false,
+    "hha_base_points": 51,
+    "size": "1x1",
+    "miles_price": null,
+    "source_notes": "Available from Able Sisters shop only",
+    "seasonal_availability": "All Year",
+    "mannequin_piece": false,
+    "style": "Elegant",
+    "sort_order": 1,
+    "villager_equippable": false,
+    "catalog": "For sale",
+    "cloth_group_id": 530,
+    "variants": [
+      {
+        "variation": "Aqua",
+        "filename": "ShoesSandalZori6",
+        "colors": [
+          "White",
+          "Light blue"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 4300,
+        "sell": 1075,
+        "themes": []
+      },
+      {
+        "variation": "White",
+        "filename": "ShoesSandalZori5",
+        "colors": [
+          "Black",
+          "White"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 4300,
+        "sell": 1075,
+        "themes": []
+      },
+      {
+        "variation": "Black",
+        "filename": "ShoesSandalZori0",
+        "colors": [
+          "Red",
+          "Black"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 4300,
+        "sell": 1075,
+        "themes": []
+      },
+      {
+        "variation": "Pink",
+        "filename": "ShoesSandalZori2",
+        "colors": [
+          "Pink",
+          "Pink"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 4300,
+        "sell": 1075,
+        "themes": []
+      },
+      {
+        "variation": "Light pink",
+        "filename": "ShoesSandalZori3",
+        "colors": [
+          "Pink",
+          "Beige"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 4300,
+        "sell": 1075,
+        "themes": []
+      },
+      {
+        "variation": "Red",
+        "filename": "ShoesSandalZori7",
+        "colors": [
+          "Yellow",
+          "Red"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 4300,
+        "sell": 1075,
+        "themes": []
+      },
+      {
+        "variation": "Gold",
+        "filename": "ShoesSandalZori1",
+        "colors": [
+          "Yellow",
+          "Yellow"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 4300,
+        "sell": 1075,
+        "themes": []
+      },
+      {
+        "variation": "Green",
+        "filename": "ShoesSandalZori4",
+        "colors": [
+          "Green",
+          "Green"
+        ],
+        "source": [
+          "Able Sisters"
+        ],
+        "buy": 4300,
+        "sell": 1075,
+        "themes": []
+      }
+    ],
+    "id": 89
+  }
+]

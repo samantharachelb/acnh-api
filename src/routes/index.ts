@@ -15,17 +15,9 @@ const API_VERSION = 'v2';
 
 const API_RESOURCE_ENDPOINTS = [
     'art',
-    'art/paintings',
-    'art/statue',
     'critters',
-    'critters/bugs',
-    'critters/fish',
-    'critters/sea_creatures',
     'fossils',
     'furniture',
-    'furniture/housewares',
-    'furniture/misc',
-    'furniture/wall_mounted',
     'music',
     'villagers',
 ];

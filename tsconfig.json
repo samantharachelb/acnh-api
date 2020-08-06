@@ -22,6 +22,7 @@
       "@apiEndpoints/*": ["src/api/routes/resources/*"],
       "@apiData": ["src/api/data/*"],
       "@utils/*": ["src/utils/*"],
+      "@tools/*": ["tools/*"],
       "test": ["test/*"]
     },
     "typeRoots": [
@@ -29,6 +30,7 @@
     ]
   },
   "include": [
-    "src/**/*"
+    "src/**/*",
+    "tools/**/*"
   ]
 }
