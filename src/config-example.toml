@@ -1,0 +1,10 @@
+[MongoDB]
+dbHostname='localhost'
+dbUsername=''
+dbPassword=''
+dbPort='27017'
+dbName='test'
+
+[Application]
+version='v2'
+port=3000

@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon --exec babel-node --extensions '.ts' src/index.ts",
-    "build": "babel src-old -d dist/",
+    "build": "babel src --out-dir dist --copy-files --extensions '.ts'",
     "test": "mocha --compiler js:babel-core/register test/**/*.test.js",
-    "serve": "npm run build && node "
+    "serve": "npm run build && node dist/"
   },
   "repository": {
     "type": "git",
@@ -37,7 +37,9 @@
     "express-validation": "^3.0.5",
     "helmet": "^3.23.3",
     "hot-shots": "^7.7.1",
-    "json-query": "^2.2.2"
+    "json-query": "^2.2.2",
+    "mongoose": "^5.9.27",
+    "toml": "^3.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
@@ -55,21 +57,17 @@
     "@types/joi": "^14.3.4",
     "@types/json-query": "^2.2.0",
     "@types/lodash": "^4.14.158",
+    "@types/mongoose": "^5.7.36",
     "@types/node": "^14.0.27",
     "babel-loader": "^8.1.0",
     "babel-plugin-module-resolver": "^4.0.0",
     "babel-plugin-static-fs": "^3.0.0",
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
-    "date-fns": "^2.15.0",
-    "dayjs": "^1.8.32",
-    "google-auth-library": "^6.0.6",
-    "googleapis": "^58.0.0",
     "joi": "^17.1.1",
     "lodash": "^4.17.19",
     "mocha": "^8.1.0",
     "nodemon": "^2.0.4",
-    "quicktype": "^15.0.256",
     "ts-node": "^8.10.2",
     "tsc": "^1.20150623.0",
     "tslib": "^2.0.0",

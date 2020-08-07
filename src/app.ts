@@ -1,12 +1,29 @@
 import express from 'express';
+import fs from 'fs';
 import limit from 'express-rate-limit';
 import log from '@utils/log';
+import mongoose from 'mongoose';
 import routes from '@src/routes';
+import toml from 'toml';
 let slash = require('express-trailing-slash');
-
 let StatsD = require('hot-shots');
 
-const debug = false;
+let debug = false;
+
+let config = toml.parse(fs.readFileSync('src/config.toml', 'utf-8'));
+let mongoConfig = config.MongoDB;
+let mongoConnectionUri = `mongodb://${mongoConfig.hostname}:${mongoConfig.port}/${mongoConfig.database}`;
+let mongoOptions = {
+    user: mongoConfig.username,
+    pass: mongoConfig.password,
+    nativeParser: true,
+    useUnifiedTopology: true,
+    useNewUrlParser: true,
+    keepAlive: true,
+    keepAliveInitialDelay: 5000, // timeout at 5000ms (5s)
+    promiseLibrary: global.Promise
+}
+
 let app = express();
 
 let dogstatsd = new StatsD({
@@ -14,6 +31,16 @@ let dogstatsd = new StatsD({
         log.error(`Socket errors caught here: ${error}`);
     }
 });
+
+let db = mongoose.connect(mongoConnectionUri, mongoOptions)
+    .then(()=> {
+        log.info(`MongoDB — Successfully connected to the database: ${mongoConfig.database}`);
+    }).catch(err => {
+        log.error(`Encountered error when attempting to connect to database ${mongoConfig.database}`);
+        log.error(`Error: ${err}`);
+        process.exit(1);
+    });
+
 app.use(slash());
 app.set('trust proxy', '127.0.0.1');
 

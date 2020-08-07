@@ -1,14 +1,15 @@
-import express from 'express';
-import jsonQuery from 'json-query';
-import * as jsonSearch from '@utils/jsonSearch';
+import {Router} from 'express';
+let critterController = require('@src/controllers/critters');
 
-const fs = require('fs');
-let router = express.Router();
-let bugData = JSON.parse(fs.readFileSync('src/api/data/bugs.json'));
-let fishData = JSON.parse(fs.readFileSync('src/api/data/fish.json'));
-let seaCreatureData = JSON.parse(fs.readFileSync('src/api/data/sea_creatures.json'));
+let router = Router();
 
+router.route('/')
+    .get(critterController.findAllCritters);
 
-router.get('/', (req: express.Request, res: express.Response) => {
-    
-})
+router.route('/:type')
+    .get(critterController.findAllByType);
+
+router.route('/:name')
+    .get(critterController.findByName);
+
+export default router;
