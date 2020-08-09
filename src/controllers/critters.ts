@@ -57,30 +57,6 @@ exports.findAllByType = function(req: Request, res: Response, next: NextFunction
     } else {
         next();
     }
-
-    // var searchConditions: {};
-    // if(searchableFields.includes(searchParam)) {
-    //     if (searchParam === 'bugs') {
-    //         searchConditions = {'source_sheet': 'Insects'}
-    //     } else if (searchParam === 'fish') {
-    //         searchConditions = {'source_sheet': 'Fish'}
-    //     } else if (searchParam === 'sea_creatures') {
-    //         searchConditions = {'source_sheet': 'Sea Creatures'}
-    //     } else {
-    //         return res.status(500).json({message: 'An unknown error has occured'});
-    //     }
-    //
-    //     Critters.find(searchConditions, {'_id': 0})
-    //         .select(returnFields)
-    //         .sort({'source_sheet': 'asc', 'num': 'asc'})
-    //         .exec(function(error: Error, result: Document) {
-    //             if (error) {
-    //                 return res.status(500).json(error);
-    //             } else {
-    //                 return res.status(200).json(result);
-    //             }
-    //         });
-    // }
 }
 
 exports.findByName = function(req: Request, res: Response) {

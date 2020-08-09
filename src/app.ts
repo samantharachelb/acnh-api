@@ -12,17 +12,17 @@ let debug = false;
 
 let config = toml.parse(fs.readFileSync('src/config.toml', 'utf-8'));
 let mongoConfig = config.MongoDB;
-let mongoConnectionUri = `mongodb://${mongoConfig.hostname}:${mongoConfig.port}/${mongoConfig.database}`;
+let mongoConnectionUri = `mongodb://${mongoConfig.hostname}/${mongoConfig.database}`;
 let mongoOptions = {
     user: mongoConfig.username,
     pass: mongoConfig.password,
-    nativeParser: true,
     useUnifiedTopology: true,
     useNewUrlParser: true,
     keepAlive: true,
-    keepAliveInitialDelay: 5000, // timeout at 5000ms (5s)
+    keepAliveInitialDelay: 1000, // timeout at 5000ms (5s)
     promiseLibrary: global.Promise
 }
+
 
 let app = express();
 
@@ -32,7 +32,7 @@ let dogstatsd = new StatsD({
     }
 });
 
-let db = mongoose.connect(mongoConnectionUri, mongoOptions)
+mongoose.connect(mongoConnectionUri, mongoOptions)
     .then(()=> {
         log.info(`MongoDB — Successfully connected to the database: ${mongoConfig.database}`);
     }).catch(err => {

@@ -7,6 +7,7 @@ const validate = require('express-joi-validate');
 // import routes
 import artRoutes from '@src/routes/art';
 import crittersRoutes from '@src/routes/critters';
+import fossilsRoutes from '@src/routes/fossils';
 
 // create router
 let router = express.Router({strict: true});
@@ -62,5 +63,10 @@ router.use(`/${API_VERSION}/critters/`, (req: any, res: express.Response, next: 
     req.version = req.params.version;
     next();
 }, crittersRoutes);
+
+router.use(`/${API_VERSION}/fossils`, (req: any, res: express.Response, next: any) => {
+    req.version = req.params.version;
+    next();
+}, fossilsRoutes);
 
 export default router;
