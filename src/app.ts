@@ -3,25 +3,31 @@ import fs from 'fs';
 import limit from 'express-rate-limit';
 import log from '@utils/log';
 import mongoose from 'mongoose';
-import routes from '@src/routes';
-import toml from 'toml';
+import routes from '@src/routes';;
 let slash = require('express-trailing-slash');
 let StatsD = require('hot-shots');
 
 let debug = false;
 
-let config = toml.parse(fs.readFileSync('src/config.toml', 'utf-8'));
-let mongoConfig = config.MongoDB;
-let mongoConnectionUri = `mongodb://${mongoConfig.hostname}/${mongoConfig.database}`;
+const config = require('@src/config');
+//const dotenv = require('dotenv');
+//dotenv.config({path: 'src/.env'});
+
+
+let mongoConnectionUri = `mongodb://${config.db.host}/${config.db.database}`;
 let mongoOptions = {
-    user: mongoConfig.username,
-    pass: mongoConfig.password,
+    user: config.db.username,
+    pass: config.db.password,
     useUnifiedTopology: true,
     useNewUrlParser: true,
     keepAlive: true,
     keepAliveInitialDelay: 1000, // timeout at 5000ms (5s)
-    promiseLibrary: global.Promise
+    promiseLibrary: global.Promise,
+    connectTimeoutMS: 0,
+    socketTimeoutMS: 0
 }
+
+
 
 
 let app = express();
@@ -34,9 +40,9 @@ let dogstatsd = new StatsD({
 
 mongoose.connect(mongoConnectionUri, mongoOptions)
     .then(()=> {
-        log.info(`MongoDB — Successfully connected to the database: ${mongoConfig.database}`);
+        log.info(`MongoDB — Successfully connected to the database: ${config.db.database}`);
     }).catch(err => {
-        log.error(`Encountered error when attempting to connect to database ${mongoConfig.database}`);
+        log.error(`Encountered error when attempting to connect to database ${config.db.database}`);
         log.error(`Error: ${err}`);
         process.exit(1);
     });

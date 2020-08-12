@@ -4,12 +4,14 @@ import {createSearchCondition} from '@src/utils/createSearchCondition'
 
 import log from '@src/utils/log';
 
-var returnFields = ['name', 'fossil_group', 'description', 'hha_base_points', 'size', 'museum', 'catalog', 'variants'];
+let returnFields = ['name', 'fossil_group', 'description', 'hha_base_points', 'size', 'museum', 'catalog', 'variants'];
 let searchableFields = ['name']
 
 exports.findAllFossils = function(req: Request, res: Response) {
     Fossils.find({} , {'_id': 0})
+        .collation({locale: 'en'})
         .select(returnFields)
+        .sort({'name': 'asc'})
         .exec(function(error: Error, result: Document) {
             if(error) {
                 return res.status(500).json(error);
@@ -21,8 +23,8 @@ exports.findAllFossils = function(req: Request, res: Response) {
 
 exports.findAllFossilGroups = function(req: Request, res: Response) {
     Fossils.find({}, {'_id': 0})
+        .collation({locale: 'en'})
         .distinct('fossil_group')
-        //.select(['fossil_group'])
         .exec(function(error: Error, result: Document) {
             if(error) {
                 return res.status(500).json(error);
@@ -36,6 +38,7 @@ exports.findFossilsByName = function(req: Request, res: Response) {
     let searchParam: any = req.params.name;
     let searchCondition = createSearchCondition(searchParam)
     Fossils.findOne(searchCondition, {'_id': 0})
+        .select(returnFields)
         .exec(function(error: Error, result: Document) {
             if (error) {
                 return res.status(500).json(error);

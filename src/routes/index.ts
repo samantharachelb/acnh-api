@@ -8,6 +8,7 @@ const validate = require('express-joi-validate');
 import artRoutes from '@src/routes/art';
 import crittersRoutes from '@src/routes/critters';
 import fossilsRoutes from '@src/routes/fossils';
+import furnitureRoutes from '@src/routes/furniture';
 
 // create router
 let router = express.Router({strict: true});
@@ -68,5 +69,11 @@ router.use(`/${API_VERSION}/fossils`, (req: any, res: express.Response, next: an
     req.version = req.params.version;
     next();
 }, fossilsRoutes);
+
+router.use(`/${API_VERSION}/furniture`, (req: any, res: express.Response, next: any) => {
+    req.version = req.params.version;
+    next();
+}, furnitureRoutes);
+
 
 export default router;

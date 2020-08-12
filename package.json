@@ -4,7 +4,7 @@
   "description": "API service for data from AC:NH",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon --exec babel-node --extensions '.ts' src/index.ts",
+    "dev": "nodemon --require dotenv/config --exec babel-node --extensions '.ts' src/index.ts",
     "build": "babel src --out-dir dist --copy-files --extensions '.ts'",
     "test": "mocha --compiler js:babel-core/register test/**/*.test.js",
     "serve": "npm run build && node dist/"
@@ -38,8 +38,7 @@
     "helmet": "^3.23.3",
     "hot-shots": "^7.7.1",
     "json-query": "^2.2.2",
-    "mongoose": "^5.9.27",
-    "toml": "^3.0.0"
+    "mongoose": "^5.9.27"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
@@ -64,6 +63,7 @@
     "babel-plugin-static-fs": "^3.0.0",
     "chai": "^4.2.0",
     "chai-http": "^4.3.0",
+    "dotenv": "^8.2.0",
     "joi": "^17.1.1",
     "lodash": "^4.17.19",
     "mocha": "^8.1.0",
