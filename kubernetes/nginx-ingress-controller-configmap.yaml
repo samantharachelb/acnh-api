@@ -1,0 +1,44 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: nginx-ingress-ingress-nginx-controller
+  namespace: ingress-nginx
+  annotations:
+    nginx.ingress.kubernetes.io/force-ssl-redirect: "true"
+data:
+  compute-full-forwarded-for: 'true'
+  enable-ocsp: 'true'
+  hsts: 'true'
+  hsts-include-subdomains: 'true'
+  hsts-max-age: '0'
+  hsts-preload: 'true'
+  server-tokens: 'false'
+  ssl-ciphers: 'ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-CHACHA20-POLY1305:ECDHE-RSA-CHACHA20-POLY1305:DHE-RSA-AES128-GCM-SHA256:DHE-RSA-AES256-GCM-SHA384'
+  ssl-ecdh-curve: 'X25519:prime256v1:secp384r1'
+  ssl-protocols: 'TLSv1.3'
+  use-forwarded-headers: 'true'
+  use-http2: 'true'
+  use-proxy-protocol: 'true'
+  http-snippet: |
+    server {
+      listen 18080;
+      location /nginx_status {
+        allow all;
+        stub_status on;
+      }
+
+      location / {
+        return 404;
+      }
+    }
+  nginx-config: |-
+    ad_identifiers:
+      - nginx
+    init_config:
+    instances:
+      - name: "nginx_status_url"
+        url: "http://%%host%%:18080/nginx_status"
+        timeout: 1
+      - name: "prometheus_url"
+        url: "http://%%host%%:10254/metrics"
+        timeout: 1
