@@ -1,18 +1,34 @@
-# build from node and nginx
-FROM node:12
+# Use slimmed down image of node:12 to build project
+FROM node:12-alpine AS BUILD_IMAGE
 
-# set working directory
+# add project build requirements
+RUN apk update && apk add yarn curl bash python g++ make && rm -rf /var/cache/apk/*
+
+# install node-prune (https://github.com/tj/node-prune)
+RUN curl -sfL https://install.goreleaser.com/github.com/tj/node-prune.sh | bash -s -- -b /usr/local/bin
+
 WORKDIR /usr/src/app
+COPY package-lock.json ./
+COPY --chown=node:node . .
 
-# copy package files
-COPY package*.json ./
+# install and build packages
+RUN npm ci
 
-# build packages for peoduction
-RUN npm ci --only=production
-RUN npm i -g pm2
+# Build project
+RUN npm run build
 
-# copy the rest of the project over
-COPY  --chown=node:node . .
+# Remove development dependencies
+RUN npm prune --production
+
+# run node-prune
+RUN /usr/local/bin/node-prune
+
+# Build deploy image
+FROM node:12-alpine
+WORKDIR /usr/src/app
+COPY --from=BUILD_IMAGE /usr/src/app/dist ./dist
+COPY --from=BUILD_IMAGE /usr/src/app/node_modules ./node_modules
+
 EXPOSE 3000
-CMD ["npm", "run", "build"]
-CMD ["node", "dist/index.js"]
+CMD ["node", "dist/"]
+

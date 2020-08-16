@@ -12,9 +12,9 @@
     "module": "commonjs",
     "noImplicitAny": true,
     "sourceMap": true,
-    "outDir": "dist",
-    "baseUrl": ".",
-    "rootDir": "src",
+    "outDir" : "./dist",
+    "baseUrl": "./src",
+    //"rootDir": "src",
     "paths": {
       "*": ["node_modules/*"],
       "@src/*": ["src/*"],
@@ -30,7 +30,6 @@
     ]
   },
   "include": [
-    "src/**/*",
-    "tools/**/*"
+    "./src/**/*"
   ]
 }

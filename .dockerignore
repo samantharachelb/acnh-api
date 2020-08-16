@@ -1,4 +1,14 @@
 .DS_Store
-.idea
+.gitattributes
+.gitignore
+.git/
+src/.env
+.idea/
+.circleci/
+dist/
+kubernetes/
 node_modules/
+scripts/
+test/
+
 npm-debug.log

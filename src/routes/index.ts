@@ -1,8 +1,7 @@
 // imports packages and functions
 import express from 'express';
 import log from '@src/utils/log';
-const Joi = require('joi');
-const validate = require('express-joi-validate');
+
 
 // import routes
 import artRoutes from '@src/routes/art';

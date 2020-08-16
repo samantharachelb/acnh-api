@@ -1,3 +1,4 @@
+// @ts-ignore
 import c from 'chalk';
 
 let $ = 'ACNH API:'

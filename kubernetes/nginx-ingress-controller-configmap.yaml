@@ -3,32 +3,26 @@ kind: ConfigMap
 metadata:
   name: nginx-ingress-ingress-nginx-controller
   namespace: ingress-nginx
-  annotations:
-    nginx.ingress.kubernetes.io/force-ssl-redirect: "true"
 data:
   compute-full-forwarded-for: 'true'
-  enable-ocsp: 'true'
-  hsts: 'true'
-  hsts-include-subdomains: 'true'
-  hsts-max-age: '0'
-  hsts-preload: 'true'
-  server-tokens: 'false'
-  ssl-ciphers: 'ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-CHACHA20-POLY1305:ECDHE-RSA-CHACHA20-POLY1305:DHE-RSA-AES128-GCM-SHA256:DHE-RSA-AES256-GCM-SHA384'
-  ssl-ecdh-curve: 'X25519:prime256v1:secp384r1'
+  #ssl-ciphers: 'ECDHE-ECDSA-CHACHA20-POLY1305:ECDHE-RSA-CHACHA20-POLY1305:DHE-RSA-AES128-GCM-SHA256:DHE-RSA-AES256-GCM-SHA384'
   ssl-protocols: 'TLSv1.3'
+  ssl-redirect: 'true'
+  #ssl-ecdh-curve: 'X25519:prime256v1:secp384r1'
+  #ssl-ecdh-curve: "secp384r1"
+  ssl-dh-param: "ingress-nginx/dhparam"
   use-forwarded-headers: 'true'
   use-http2: 'true'
   use-proxy-protocol: 'true'
   http-snippet: |
+    # SSL
+    ssl_session_cache shared:SSL:10m;
+
     server {
       listen 18080;
       location /nginx_status {
         allow all;
         stub_status on;
-      }
-
-      location / {
-        return 404;
       }
     }
   nginx-config: |-
