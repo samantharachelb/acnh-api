@@ -1,19 +1,12 @@
-const config = require('@src/config');
 import express from 'express';
 import limit from 'express-rate-limit';
 import log from '@utils/log';
 import mongoose from 'mongoose';
 import routes from '@src/routes';
+const config = require('@src/config');
+
 let slash = require('express-trailing-slash');
 let StatsD = require('hot-shots');
-// var mongoConnectionUri: string;
-//
-// if (process.env.NODE_ENV === 'production') {
-//     mongoConnectionUri = `mongodb://mongodb/${config.db.database}`;
-// } else {
-//     //mongoConnectionUri = `mongodb://${config.db.host}/${config.db.database}`;
-//     mongoConnectionUri = `mongodb://${config.db.host}/${config.db.database}`;
-// }
 
 let mongoConnectionUri = `mongodb://${config.db.host}/${config.db.database}`;
 
@@ -45,26 +38,28 @@ mongoose.connect(mongoConnectionUri, mongoOptions)
     });
 
 app.use(slash());
-app.set('trust proxy', '127.0.0.1');
 
 app.use(
     limit({
         message: {status: 429, message: "API Rate Limit Reached."},
-        windowMs: 5 * 60 * 1000, // equal to 300,000ms or 5 minutes
-        max: 100 // no more than 100 requests in 5 minutes
+        windowMs: 60 * 1000, // equal to 60,000ms or 1 minute
+        max: 100 // set rate limit it 100req/min
     })
 );
 
 app.use((req: any, res: express.Response, next: any) => {
     res.header('Access-Control-Allow-Origin', '*');
-    res.header('Access-Control-Allow-Origin', 'Origin, X-Requested-With, Content-Type, Authorization, Accept');
+    res.header('Access-Control-Allow-Origin', 'Origin, X-Forwarded-For, X-Requested-With, Content-Type, Accept');
     res.header('Access-Control-Allow-Methods', 'GET');
+    res.set('Cache-control', 'public, max-age=300, stale-if-error=60');
     log.info(`[Client: ${req.ip}] - ${req.method}:${req.url} ${res.statusCode}`);
     dogstatsd.increment('page.views');
     next();
-})
+});
 
 app.use('/', routes);
+
+app.set('trust proxy', '127.0.0.1');
 app.enable('strict routing');
 
 export{app};

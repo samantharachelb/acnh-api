@@ -1,0 +1,14 @@
+parameters:
+  - schema:
+      type: string
+    name: responseType
+    in: path
+    description: Data Response Type. Can be either 'min' or 'full'.
+    required: true
+get:
+  description: Retrieves all pieces of art
+  tags:
+    - Art
+  responses:
+    200:
+      $ref: response/200/all.yaml

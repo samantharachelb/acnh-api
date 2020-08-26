@@ -13,7 +13,7 @@
     "noImplicitAny": true,
     "sourceMap": true,
     "outDir" : "./dist",
-    "baseUrl": "./src",
+    "baseUrl": ".",
     //"rootDir": "src",
     "paths": {
       "*": ["node_modules/*"],

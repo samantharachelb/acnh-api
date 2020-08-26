@@ -1,0 +1,30 @@
+value:
+  - id: 12619
+    name: academic painting
+    real_artwork_name: "Vitruvian Man"
+    artist: "Leonardo da Vinci, circa 1487, Pen and ink on paper"
+    description: "This drawing is based on the \"ideal\" human-body ratio, as stated in \"De architectura.\" \"De architectura\" was a treatise by Vitruvius, an architect from the early 1st century BCE."
+    size: "1x1"
+    catalog: "Not for sale"
+    variants:
+      - image: "https://acnhcdn.com/latest/FtrIcon/FtrArtVitruvianMan.png"
+        filename: "FtrArtVitruvianMan"
+        colors: []
+        source:
+          - "Jolly Redd's Treasure Trawler"
+        genuine: true
+        buy: 4980
+        sell: 1245
+        themes:
+          - "expensive"
+          - "facility"
+      - image: "https://acnhcdn.com/latest/FtrIcon/FtrArtVitruvianManFake.png"
+        filename: "FtrArtVitruvianManFake"
+        colors: []
+        source:
+          - "Jolly Redd's Treasure Trawler"
+        genuine: false
+        buy: 4980
+        sell: 0
+        themes:
+          - horror

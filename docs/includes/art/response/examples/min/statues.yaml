@@ -1,0 +1,30 @@
+value:
+  - id: 1341
+    name: "beautiful statue"
+    real_artwork_title: "Venus de Milo"
+    artist: "Artist Unknown, circa 130 BCE, Marble"
+    descrtipion:  "A statue of the Roman goddess of love and beauty, Venus was found on the island of Milos. This beautiful sculpture makes many wonder what her original pose might have been."
+    size: "1x1"
+    catalog: "Not for sale"
+    variants:
+      - image: "https://acnhcdn.com/latest/FtrIcon/FtrSculptureMilo.png"
+        filename: "FtrSculptureMilo"
+        colors: []
+        source:
+          - "Jolly Redd's Treasure Trawler"
+        genuine: true
+        buy: 4980
+        sell: 1245
+        themes:
+          - "expensive"
+          - "folk art"
+      - image: "https://acnhcdn.com/latest/FtrIcon/FtrSculptureMiloFake.png"
+        filename: "FtrSculptureMiloFake"
+        colors: []
+        source:
+          - "Jolly Redd's Treasure Trawler"
+        genuine: false
+        buy: 4980
+        sell: 0
+        themes:
+          - "horror"

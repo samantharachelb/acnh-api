@@ -1,0 +1,42 @@
+description: OK
+content:
+  application/json:
+    schema:
+      type: array
+      items:
+        type: object
+        properties:
+          id:
+            type: integer
+          name:
+            type: string
+          real_artwork_name:
+            type: string
+          artist:
+            type: string
+          size:
+            type: string
+          tag:
+            type: string
+          hha:
+            type: object
+            properties:
+              base_points:
+                type: integer
+          variants:
+            type: array
+            items:
+              type: object
+    examples:
+      worthy_painting/min/:
+        $ref: ../examples/min/individual.yaml
+      paintings/min/:
+        $ref: ../examples/min/paintings.yaml
+      statues/min/:
+        $ref: ../examples/min/statues.yaml
+      worthy_painting/full/:
+        $ref: ../examples/full/individual.yaml
+      paintings/full/:
+        $ref: ../examples/full/paintings.yaml
+      statues/full/:
+        $ref: ../examples/full/statues.yaml

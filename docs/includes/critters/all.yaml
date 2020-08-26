@@ -1,0 +1,14 @@
+parameters:
+  - schema:
+      type: string
+    name: responseType
+    in: path
+    description: Data response type. Can be either 'min' or 'full'
+    required: true
+get:
+  description: Retrieves all critters
+  tags:
+    - Critters
+  responses:
+    200:
+      $ref: response/200/all.yaml

@@ -1,0 +1,102 @@
+description: OK
+content:
+  application/json:
+    schema:
+      type: array
+      items:
+        type: object
+        properties:
+          id:
+            type: integer
+          name:
+            type: string
+          description:
+            type: string
+          catch_phrase:
+            type: string
+          sell:
+            type: integer
+          special_sell:
+            type: integer
+          shadow:
+            type: string
+          vision:
+            type: string
+          catch_difficulty:
+            type: string
+          surface:
+            type: boolean
+          lighting_type:
+            type: string
+          hha:
+            type: object
+            properties:
+              category:
+                type: string
+              base_points:
+                type: integer
+          size:
+            type: string
+          colors:
+            type: array
+            items:
+              type: string
+          availability:
+            type: object
+            properties:
+              all_day:
+                type: boolean
+              all_year:
+                type: boolean
+              times:
+                type: array
+                items:
+                  type: number
+              months-northern:
+                type: array
+                items:
+                  type: number
+              months-southern:
+                type: array
+                items:
+                  type: number
+              spawn-rate:
+                type: object
+                properties:
+                  northern:
+                    type: array
+                    items:
+                      type: object
+                  southern:
+                    type: array
+                    items:
+                      type: object
+          image:
+            type: object
+            properties:
+              furniture:
+                type: object
+                properties:
+                  file_name:
+                    type: string
+                  uri:
+                    type: string
+              critterpedia:
+                type: object
+                properties:
+                  file_name:
+                    type: string
+                  uri:
+                    type: string
+              icon:
+                type: object
+                properties:
+                  file_name:
+                    type: string
+                  uri:
+                    type: string
+    examples:
+      min/:
+        $ref: ../examples/min/all.yaml
+      full/:
+        $ref: ../examples/full/all.yaml

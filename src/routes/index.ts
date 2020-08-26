@@ -6,14 +6,12 @@ import log from '@src/utils/log';
 // import routes
 import artRoutes from '@src/routes/art';
 import crittersRoutes from '@src/routes/critters';
-import fossilsRoutes from '@src/routes/fossils';
-import furnitureRoutes from '@src/routes/furniture';
 
 // create router
 let router = express.Router({strict: true});
 
 // define constants
-const API_VERSION = 'v2';
+const API_VERSION = 'v2'
 
 const API_RESOURCE_ENDPOINTS = [
     'art',
@@ -54,25 +52,18 @@ router.get(`/${API_VERSION}/:resource/`, function(req: any, res: express.Respons
     next();
 });
 
-router.use(`/${API_VERSION}/art/`, (req: any, res: express.Response, next: any) => {
-   req.version = req.params.version;
-   next();
-}, artRoutes);
+// router.use(`/${API_VERSION}/art/`, (req: any, res: express.Response, next: any) => {
+//    req.locals.version = req.params.version;
+//    next();
+// }, artRoutes);
+router.use(`/${API_VERSION}/art`, artRoutes);
+
 
 router.use(`/${API_VERSION}/critters/`, (req: any, res: express.Response, next: any) => {
     req.version = req.params.version;
     next();
 }, crittersRoutes);
 
-router.use(`/${API_VERSION}/fossils`, (req: any, res: express.Response, next: any) => {
-    req.version = req.params.version;
-    next();
-}, fossilsRoutes);
-
-router.use(`/${API_VERSION}/furniture`, (req: any, res: express.Response, next: any) => {
-    req.version = req.params.version;
-    next();
-}, furnitureRoutes);
 
 
 export default router;

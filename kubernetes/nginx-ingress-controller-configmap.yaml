@@ -14,6 +14,8 @@ data:
   use-forwarded-headers: 'true'
   use-http2: 'true'
   use-proxy-protocol: 'true'
+  enable-brotli: 'true'
+  brotli-level: '4'
   http-snippet: |
     # SSL
     ssl_session_cache shared:SSL:10m;

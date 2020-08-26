@@ -1,0 +1,56 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: acnhcompanion-api-stable
+  namespace: acnhcompanion-api
+  labels:
+    app.kubernetes.io/name: acnhcompanion-api-stable
+    app.kubernetes.io/instance: acnhcompanion-api
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app.kubernetes.io/name: acnhcompanion-api-stable
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 1
+  minReadySeconds: 5
+  template:
+    metadata:
+      labels:
+        app.kubernetes.io/name: acnhcompanion-api-stable
+        app.kubernetes.io/instance: acnhcompanion-api
+    spec:
+      containers:
+        - name: acnhcompanion-api
+          image: samanthaemilyrachelb/acnhcompanion-api:stable
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 3000
+          env:
+            - name: NODE_ENV
+              value: "production"
+            - name: MONGODB_HOST
+              valueFrom:
+                configMapKeyRef:
+                  name: acnhcompanion-api-stable-db-config
+                  key: host
+            - name: MONGODB_DATABASE
+              valueFrom:
+                secretKeyRef:
+                  name: acnhcompanion-api-stable-db-secret
+                  key: database
+            - name: MONGODB_USER
+              valueFrom:
+                secretKeyRef:
+                  name: acnhcompanion-api-stable-db-secret
+                  key: username
+            - name: MONGODB_PASS
+              valueFrom:
+                secretKeyRef:
+                  name: acnhcompanion-api-stable-db-secret
+                  key: password
+
+

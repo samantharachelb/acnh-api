@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: acnhcompanion-api-stable
+  namespace: acnhcompanion-api
+  labels:
+    app.kubernetes.io/name: acnhcompanion-api-stable
+    app.kubernetes.io/instance: acnhcompanion-api
+spec:
+  selector:
+    app.kubernetes.io/name: acnhcompanion-api-stable
+  ports:
+    - port: 80
+      targetPort: 3000

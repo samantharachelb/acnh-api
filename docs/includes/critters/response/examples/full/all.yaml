@@ -1,0 +1,195 @@
+value:
+  - id: 1
+    name: "bitterling"
+    description: |
+      "Bitterlings hide their eggs inside large bivalves—like clams—where the young can stay safe until grown.
+      The bitterling isn't being sneaky. No, their young help keep the bivalve healthy by eating invading parasites!
+      It's a wonderful bit of evolutionary deal making, don't you think? Each one keeping the other safe... Though
+      eating parasites does not sound like a happy childhood... Is that why the fish is so bitter?"
+    catch_phrase: "I caught a bitterling! It's mad at me, but only a little."
+    sell: 900
+    special_sell: 1350
+    shadow: "X-Small"
+    vision: "Medium"
+    catch_difficulty: "Hard"
+    surface: null
+    hha:
+      category: "Pet"
+      base_points: 71
+    size: "1x1"
+    colors:
+      - Aqua
+      - Blue
+    availability:
+      all_day: true,
+      all_year: false
+      times:
+        - 0
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 6
+        - 7
+        - 8
+        - 9
+        - 10
+        - 11
+        - 12
+        - 13
+        - 14
+        - 15
+        - 16
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 22
+        - 23
+      months-northern:
+        - 1
+        - 2
+        - 3
+        - 11
+        - 12
+      months-southern:
+        - 5
+        - 6
+        - 7
+        - 8
+        - 9
+      spawn_rate:
+        - northern:
+          - jan:
+              morning: "15"
+              daytime: "15"
+              evening: "15"
+              night: "15"
+          - feb:
+              morning: "15"
+              daytime: "15"
+              evening: "15"
+              night: "15"
+          - mar:
+              morning: "12"
+              daytime: "14"
+              evening: "12"
+              night: "12"
+          - apr:
+              morning: "0"
+              daytime: "0"
+              evening: "0"
+              night: "0"
+          - may:
+              morning: "0"
+              daytime: "0"
+              evening: "0"
+              night: "0"
+          - jun:
+              morning: "0"
+              daytime: "0"
+              evening: "0"
+              night: "0"
+          - jul:
+              morning: "0"
+              daytime: "0"
+              evening: "0"
+              night: "0"
+          - aug:
+              morning: "0"
+              daytime: "0"
+              evening: "0"
+              night: "0"
+          - sep:
+              morning: "0"
+              daytime: "0"
+              evening: "0"
+              night: "0"
+          - oct:
+              morning: "0"
+              daytime: "0"
+              evening:  "0"
+              night: "0"
+          - nov:
+              morning: "16"
+              daytime: "17"
+              evening: "16"
+              night: "16"
+          - dec:
+              morning: "13"
+              daytime: "13"
+              evening: "13"
+              night: "13"
+        - southern:
+          - jan:
+              morning: "0"
+              daytime: "0"
+              evening: "0"
+              night: "0"
+          - feb:
+              morning: "0"
+              daytime: "0"
+              evening: "0"
+              night: "0"
+          - mar:
+              morning: "0"
+              daytime: "0"
+              evening: "0"
+              night: "0"
+          - apr:
+              morning: "0"
+              daytime: "0"
+              evening: "0"
+              night: "0"
+          - may:
+              morning: "16"
+              daytime: "17"
+              evening: "16"
+              night: "16"
+          - jun:
+              morning: "13"
+              daytime: "13"
+              evening: "13"
+              night: "13"
+          - jul:
+              morning: "15"
+              daytime: "15"
+              evening: "15"
+              night: "15"
+          - aug:
+              morning: "15"
+              daytime: "15"
+              evening: "15"
+              night: "15"
+          - sep:
+              morning: "12"
+              daytime: "14"
+              evening: "12"
+              night: "12"
+          - oct:
+              morning: "0"
+              daytime: "0"
+              evening: "0"
+              night: "0"
+          - nov:
+              morning: "0"
+              daytime: "0"
+              evening: "0"
+              night: "0"
+          - dec:
+              morning: "0"
+              daytime: "0"
+              evening: "0"
+              night: "0"
+    image:
+      furniture:
+        file_name: "FtrFishTanago"
+        uri: "https://acnhcdn.com/latest/FtrIcon/FtrFishTanago.png"
+      critterpedia:
+        file_name: "FishTanago"
+        uri: "https://acnhcdn.com/latest/BookFishIcon/FishTanagoCropped.png"
+      icon:
+        file_name: "Fish0"
+        uri: "https://acnhcdn.com/latest/MenuIcon/Fish0.png"

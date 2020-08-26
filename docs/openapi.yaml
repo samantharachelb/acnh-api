@@ -1,0 +1,20 @@
+openapi: 3.0.0
+info:
+  title: api
+  description: |
+    A REST API for data on art, critters, furniture, music, and villagers in Animal Crossing: New Horizons
+  version: '2.0.0'
+  contact:
+    email: admin@acnhcompanion.io
+  license:
+    name: MIT
+    url: https://github.com/samantharachelb/acnh-api/blob/develop/license
+servers:
+  - url: https://api.acnhcompanion.io/v2
+paths:
+  '/art/{responseType}':
+    $ref: includes/art/all.yaml
+  '/art/{resource}/{responseType}':
+    $ref: includes/art/resource.yaml
+  '/critters/{responseType}':
+    $ref: includes/critters/all.yaml

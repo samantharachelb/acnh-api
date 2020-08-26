@@ -1,3 +1,5 @@
 package-lock.json linguist-generated
 **/*.json -linguist-detectable
 scripts/*.sh -linguist-detectable
+docs/** linguist-documentation
+

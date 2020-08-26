@@ -1,0 +1,33 @@
+value:
+  - id: 56
+    name: "amazing painting"
+    real_artwork_name: "The Night Watch"
+    artist: "Rembrandt van Rijn, 1642, Oil on canvas"
+    description: "This masterpiece, painted by 17th century Dutch artist Rembrandt, depicts a military gathering. At the time, portraits usually showed their subjects standing still. So this was a leap forward in technique. For many years, art scholars thought the painting was set at night, but a restoration revealed a dark varnish. We can now see the dynamic poses and lighting as they were meant to be seen—in the daytime!"
+    size: "2x2"
+    catalog: "Not for sale"
+    tag: "Picture"
+    hha:
+      - base_points: 451
+    variants:
+      - image: "https://acnhcdn.com/latest/FtrIcon/FtrArtNightWatch.png"
+        filename: "FtrArtNightWatch"
+        colors: []
+        source:
+          - "Jolly Redd's Treasure Trawler"
+        genuine: true
+        buy: 4980
+        sell: 1245
+        themes:
+          - "expensive"
+          - "facility"
+      - image: "https://acnhcdn.com/latest/FtrIcon/FtrArtNightWatchFake.png"
+        filename: "FtrArtNightWatchFake"
+        colors: []
+        source:
+          - "Jolly Redd's Treasure Trawler"
+        genuine: false
+        buy: 4980
+        sell: 0
+        themes:
+          - horror

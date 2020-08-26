@@ -1,0 +1,23 @@
+value:
+  - id: 68
+    name: "worthy painting"
+    real_artwork_title: "Liberty Leading the People"
+    artist: "Eugène Delacroix, 1830, Oil on canvas"
+    description: "Painted by leading 19th century Romantic artist Delacroix in the same year as a French revolution. The woman in the center is often mistaken for Joan of Arc, but she is actually the fictional \"Marianne.\""
+    size: "2x1.5"
+    catalog: "Not for sale"
+    tag: "Picture"
+    hha:
+      - base_points: 451
+    variants:
+      - image: "https://acnhcdn.com/latest/FtrIcon/FtrArtLibertyLeading.png"
+        filename: "FtrArtLibertyLeading"
+        colors: []
+        source:
+          - "Jolly Redd's Treasure Trawler"
+        genuine: true
+        buy: 4980
+        sell: 1245
+        themes:
+          - "expensive"
+          - "facility"
