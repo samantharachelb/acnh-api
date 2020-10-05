@@ -1,6 +1,6 @@
 {
   "name": "acnh-api",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "API service for data from AC:NH",
   "main": "index.js",
   "scripts": {
