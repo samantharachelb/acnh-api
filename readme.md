@@ -19,3 +19,5 @@ This API/Website/Repository is intended for _non-commercial **and** personal_, a
 property owned by Nintendo and/or associated with Animal Crossing. Unless specified otherwise, all assets (images, audio) 
 made available through this API/Website/Repository are the sole property of Nintendo is used only for non-commercial, 
 personal, and educational purposes.
+
+## Last Compat Update: 1.4.1
